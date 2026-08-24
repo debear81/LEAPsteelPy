@@ -1,0 +1,24 @@
+========================================================================================================================
+UIA DIFFERENCE: before_click -> after_click
+========================================================================================================================
+
+Before controls: 103
+After controls:  106
+Exact additions/removals: 4 / 1
+Relaxed additions/removals: 3 / 0
+
+LIKELY MENU ADDITIONS
+------------------------------------------------------------------------------------------------------------------------
+seq=0002 | title='' | type='Menu' | class='Afx:00007FF6ECF30000:800:0000000000010003:0000000000000010:0000000000000000' | auto_id='' | rect={'left': 1637, 'top': 175, 'right': 1785, 'bottom': 239, 'width': 148, 'height': 64} | visible=True | enabled=True | source='leap_descendant' | parent_type='Window' | parent_title='SchoppeeGirders2025.lbsx - LEAP Bridge Steel 2025'
+seq=0003 | title='' | type='ToolBar' | class='Afx:ToolBar:ecf30000:8:10003:10' | auto_id='1' | rect={'left': 1639, 'top': 177, 'right': 1783, 'bottom': 237, 'width': 144, 'height': 60} | visible=True | enabled=True | source='leap_descendant' | parent_type='Menu' | parent_title=''
+seq=0004 | title='' | type='Pane' | class='Afx:00007FF6ECF30000:800:0000000000010003:0000000000000010:0000000000000000' | auto_id='' | rect={'left': 1640, 'top': 178, 'right': 1788, 'bottom': 242, 'width': 148, 'height': 64} | visible=True | enabled=True | source='leap_descendant' | parent_type='Window' | parent_title='SchoppeeGirders2025.lbsx - LEAP Bridge Steel 2025'
+
+ALL RELAXED ADDITIONS
+------------------------------------------------------------------------------------------------------------------------
+seq=0002 | title='' | type='Menu' | class='Afx:00007FF6ECF30000:800:0000000000010003:0000000000000010:0000000000000000' | auto_id='' | rect={'left': 1637, 'top': 175, 'right': 1785, 'bottom': 239, 'width': 148, 'height': 64} | visible=True | enabled=True | source='leap_descendant' | parent_type='Window' | parent_title='SchoppeeGirders2025.lbsx - LEAP Bridge Steel 2025'
+seq=0003 | title='' | type='ToolBar' | class='Afx:ToolBar:ecf30000:8:10003:10' | auto_id='1' | rect={'left': 1639, 'top': 177, 'right': 1783, 'bottom': 237, 'width': 144, 'height': 60} | visible=True | enabled=True | source='leap_descendant' | parent_type='Menu' | parent_title=''
+seq=0004 | title='' | type='Pane' | class='Afx:00007FF6ECF30000:800:0000000000010003:0000000000000010:0000000000000000' | auto_id='' | rect={'left': 1640, 'top': 178, 'right': 1788, 'bottom': 242, 'width': 148, 'height': 64} | visible=True | enabled=True | source='leap_descendant' | parent_type='Window' | parent_title='SchoppeeGirders2025.lbsx - LEAP Bridge Steel 2025'
+
+ALL RELAXED REMOVALS
+------------------------------------------------------------------------------------------------------------------------
+No relaxed removals detected.

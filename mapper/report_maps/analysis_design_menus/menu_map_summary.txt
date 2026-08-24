@@ -1,0 +1,76 @@
+====================================================================================================
+LEAP ANALYSIS / DESIGN MENU MAP
+====================================================================================================
+
+LEAP WINDOW
+----------------------------------------------------------------------------------------------------
+{
+  "title": "SchoppeeGirders2025.lbsx - LEAP Bridge Steel 2025",
+  "control_type": "Window",
+  "class_name": "Afx:00007FF6ECF30000:b:0000000000010003:0000000000000006:00000000005A0A61",
+  "automation_id": "",
+  "rectangle": {
+    "left": -11,
+    "top": -11,
+    "right": 2571,
+    "bottom": 1539,
+    "width": 2582,
+    "height": 1550
+  },
+  "visible": true,
+  "enabled": true,
+  "process_id": 6612,
+  "handle": 396028
+}
+
+ANALYSIS DESIGN COMMAND
+----------------------------------------------------------------------------------------------------
+{
+  "title": "Analysis Design",
+  "control_type": "SplitButton",
+  "class_name": "",
+  "automation_id": "",
+  "rectangle": {
+    "left": 1637,
+    "top": 77,
+    "right": 1714,
+    "bottom": 175,
+    "width": 77,
+    "height": 98
+  },
+  "visible": true,
+  "enabled": true,
+  "process_id": 6612,
+  "handle": null
+}
+
+ROOT POPUP CONTAINERS
+----------------------------------------------------------------------------------------------------
+Container 1
+{
+  "title": "SchoppeeGirders2025.lbsx - LEAP Bridge Steel 2025",
+  "control_type": "Window",
+  "class_name": "Afx:00007FF6ECF30000:b:0000000000010003:0000000000000006:00000000005A0A61",
+  "automation_id": "",
+  "rectangle": {
+    "left": -11,
+    "top": -11,
+    "right": 2571,
+    "bottom": 1539,
+    "width": 2582,
+    "height": 1550
+  },
+  "visible": true,
+  "enabled": true,
+  "process_id": 6612,
+  "handle": 396028
+}
+Entries:
+  01. title='System', type='MenuItem', auto_id='', class='', rect={'left': 0, 'top': 0, 'right': 33, 'bottom': 33, 'width': 33, 'height': 33}
+
+FIRST-LEVEL FLYOUT RESULTS
+----------------------------------------------------------------------------------------------------
+Item: 'System'
+Expansion method: None
+Error: 'RuntimeError("Could not expand menu item \'System\'. Last error: None")'
+

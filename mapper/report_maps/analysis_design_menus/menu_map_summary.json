@@ -1,0 +1,130 @@
+{
+  "leap_window": {
+    "title": "SchoppeeGirders2025.lbsx - LEAP Bridge Steel 2025",
+    "control_type": "Window",
+    "class_name": "Afx:00007FF6ECF30000:b:0000000000010003:0000000000000006:00000000005A0A61",
+    "automation_id": "",
+    "rectangle": {
+      "left": -11,
+      "top": -11,
+      "right": 2571,
+      "bottom": 1539,
+      "width": 2582,
+      "height": 1550
+    },
+    "visible": true,
+    "enabled": true,
+    "process_id": 6612,
+    "handle": 396028
+  },
+  "reports_toolbar": {
+    "title": "Reports",
+    "control_type": "ToolBar",
+    "class_name": "",
+    "automation_id": "",
+    "rectangle": {
+      "left": 1350,
+      "top": 75,
+      "right": 1719,
+      "bottom": 203,
+      "width": 369,
+      "height": 128
+    },
+    "visible": true,
+    "enabled": true,
+    "process_id": 6612,
+    "handle": null
+  },
+  "analysis_design_command": {
+    "title": "Analysis Design",
+    "control_type": "SplitButton",
+    "class_name": "",
+    "automation_id": "",
+    "rectangle": {
+      "left": 1637,
+      "top": 77,
+      "right": 1714,
+      "bottom": 175,
+      "width": 77,
+      "height": 98
+    },
+    "visible": true,
+    "enabled": true,
+    "process_id": 6612,
+    "handle": null
+  },
+  "root_popup_containers": [
+    {
+      "container": {
+        "title": "SchoppeeGirders2025.lbsx - LEAP Bridge Steel 2025",
+        "control_type": "Window",
+        "class_name": "Afx:00007FF6ECF30000:b:0000000000010003:0000000000000006:00000000005A0A61",
+        "automation_id": "",
+        "rectangle": {
+          "left": -11,
+          "top": -11,
+          "right": 2571,
+          "bottom": 1539,
+          "width": 2582,
+          "height": 1550
+        },
+        "visible": true,
+        "enabled": true,
+        "process_id": 6612,
+        "handle": 396028
+      },
+      "entries": [
+        {
+          "title": "System",
+          "control_type": "MenuItem",
+          "class_name": "",
+          "automation_id": "",
+          "rectangle": {
+            "left": 0,
+            "top": 0,
+            "right": 33,
+            "bottom": 33,
+            "width": 33,
+            "height": 33
+          },
+          "visible": true,
+          "enabled": true,
+          "process_id": 6612,
+          "handle": null,
+          "index": 1
+        }
+      ]
+    }
+  ],
+  "first_level_results": [
+    {
+      "item_title": "System",
+      "entry_before_expansion": {
+        "title": "System",
+        "control_type": "MenuItem",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 0,
+          "top": 0,
+          "right": 33,
+          "bottom": 33,
+          "width": 33,
+          "height": 33
+        },
+        "visible": true,
+        "enabled": true,
+        "process_id": 6612,
+        "handle": null
+      },
+      "expansion_method": null,
+      "error": "RuntimeError(\"Could not expand menu item 'System'. Last error: None\")",
+      "visible_popup_containers_after": []
+    }
+  ],
+  "test_path_result": null,
+  "output_files": {
+    "before_click_tree": "C:\\Users\\Andrew.Hummers\\OneDrive\\_GitHub Local\\LEAPsteelPy\\mapper\\report_maps\\analysis_design_menus\\stage_00_before_click.txt",
+    "root_menu_tree": "C:\\Users\\Andrew.Hummers\\OneDrive\\_GitHub Local\\LEAPsteelPy\\mapper\\report_maps\\analysis_design_menus\\stage_01_root_menu.txt"
+  }
+}

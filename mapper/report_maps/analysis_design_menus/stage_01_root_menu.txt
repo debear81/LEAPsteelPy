@@ -1,0 +1,69 @@
+====================================================================================================
+VISIBLE TOP-LEVEL WINDOWS
+====================================================================================================
+
+
+####################################################################################################
+WINDOW 1: {'title': '', 'control_type': 'Pane', 'class_name': '{5FE47C2E-F34F-4E4A-935A-B615546D8A33}', 'automation_id': '', 'rectangle': {'left': 0, 'top': 0, 'right': 1, 'bottom': 1, 'width': 1, 'height': 1}, 'visible': True, 'enabled': True, 'process_id': 7060, 'handle': 65852}
+####################################################################################################
+Could not print control tree: AttributeError("'UIAWrapper' object has no attribute 'print_control_identifiers'")
+
+####################################################################################################
+WINDOW 2: {'title': 'SchoppeeGirders2025.lbsx - LEAP Bridge Steel 2025', 'control_type': 'Window', 'class_name': 'Afx:00007FF6ECF30000:b:0000000000010003:0000000000000006:00000000005A0A61', 'automation_id': '', 'rectangle': {'left': -11, 'top': -11, 'right': 2571, 'bottom': 1539, 'width': 2582, 'height': 1550}, 'visible': True, 'enabled': True, 'process_id': 6612, 'handle': 396028}
+####################################################################################################
+Could not print control tree: AttributeError("'UIAWrapper' object has no attribute 'print_control_identifiers'")
+
+####################################################################################################
+WINDOW 3: {'title': 'C:\\Users\\Andrew.Hummers\\AppData\\Local\\Programs\\Python\\Launcher\\py.exe', 'control_type': 'Window', 'class_name': 'CASCADIA_HOSTING_WINDOW_CLASS', 'automation_id': '', 'rectangle': {'left': 217, 'top': 228, 'right': 1969, 'bottom': 1164, 'width': 1752, 'height': 936}, 'visible': True, 'enabled': True, 'process_id': 6068, 'handle': 1640376}
+####################################################################################################
+Could not print control tree: AttributeError("'UIAWrapper' object has no attribute 'print_control_identifiers'")
+
+####################################################################################################
+WINDOW 4: {'title': 'mapper_report_MenuAnalDes.py - LEAPsteelPy - Visual Studio Code', 'control_type': 'Window', 'class_name': 'Chrome_WidgetWin_1', 'automation_id': '', 'rectangle': {'left': -11, 'top': -11, 'right': 2571, 'bottom': 1539, 'width': 2582, 'height': 1550}, 'visible': True, 'enabled': True, 'process_id': 2496, 'handle': 526788}
+####################################################################################################
+Could not print control tree: AttributeError("'UIAWrapper' object has no attribute 'print_control_identifiers'")
+
+####################################################################################################
+WINDOW 5: {'title': 'src - File Explorer', 'control_type': 'Window', 'class_name': 'CabinetWClass', 'automation_id': '', 'rectangle': {'left': -11, 'top': -11, 'right': 2571, 'bottom': 1539, 'width': 2582, 'height': 1550}, 'visible': True, 'enabled': True, 'process_id': 16440, 'handle': 329688}
+####################################################################################################
+Could not print control tree: AttributeError("'UIAWrapper' object has no attribute 'print_control_identifiers'")
+
+####################################################################################################
+WINDOW 6: {'title': 'Taskbar', 'control_type': 'Pane', 'class_name': 'Shell_TrayWnd', 'automation_id': '', 'rectangle': {'left': 0, 'top': 1528, 'right': 2560, 'bottom': 1600, 'width': 2560, 'height': 72}, 'visible': True, 'enabled': True, 'process_id': 16440, 'handle': 66066}
+####################################################################################################
+Could not print control tree: AttributeError("'UIAWrapper' object has no attribute 'print_control_identifiers'")
+
+####################################################################################################
+WINDOW 7: {'title': 'ChatGPT - LEAP Software Automation — Mozilla Firefox', 'control_type': 'Window', 'class_name': 'MozillaWindowClass', 'automation_id': '', 'rectangle': {'left': 0, 'top': 0, 'right': 2560, 'bottom': 1528, 'width': 2560, 'height': 1528}, 'visible': True, 'enabled': True, 'process_id': 23820, 'handle': 984442}
+####################################################################################################
+Could not print control tree: AttributeError("'UIAWrapper' object has no attribute 'print_control_identifiers'")
+
+####################################################################################################
+WINDOW 8: {'title': 'Snipping Tool', 'control_type': 'Window', 'class_name': 'XamlWindow', 'automation_id': '', 'rectangle': {'left': 839, 'top': 380, 'right': 2039, 'bottom': 1180, 'width': 1200, 'height': 800}, 'visible': True, 'enabled': True, 'process_id': 1332, 'handle': 2493300}
+####################################################################################################
+Could not print control tree: AttributeError("'UIAWrapper' object has no attribute 'print_control_identifiers'")
+
+####################################################################################################
+WINDOW 9: {'title': 'Schoppee Ped ME 2025.obdx - OpenBridge Designer', 'control_type': 'Window', 'class_name': 'Window', 'automation_id': '', 'rectangle': {'left': 515, 'top': 164, 'right': 2045, 'bottom': 1364, 'width': 1530, 'height': 1200}, 'visible': True, 'enabled': True, 'process_id': 27364, 'handle': 133704}
+####################################################################################################
+Could not print control tree: AttributeError("'UIAWrapper' object has no attribute 'print_control_identifiers'")
+
+####################################################################################################
+WINDOW 10: {'title': 'Astronomy Picture of the Day and 2 more pages - Work - Microsoft\u200b Edge', 'control_type': 'Window', 'class_name': 'Chrome_WidgetWin_1', 'automation_id': '', 'rectangle': {'left': 0, 'top': 0, 'right': 0, 'bottom': 0, 'width': 0, 'height': 0}, 'visible': True, 'enabled': True, 'process_id': 26420, 'handle': 329670}
+####################################################################################################
+Could not print control tree: AttributeError("'UIAWrapper' object has no attribute 'print_control_identifiers'")
+
+####################################################################################################
+WINDOW 11: {'title': 'fando - Andrew Hummers - Outlook', 'control_type': 'Window', 'class_name': 'Outlook Host', 'automation_id': '', 'rectangle': {'left': 0, 'top': 0, 'right': 0, 'bottom': 0, 'width': 0, 'height': 0}, 'visible': True, 'enabled': True, 'process_id': 18196, 'handle': 263140}
+####################################################################################################
+Could not print control tree: AttributeError("'UIAWrapper' object has no attribute 'print_control_identifiers'")
+
+####################################################################################################
+WINDOW 12: {'title': 'DockManger', 'control_type': 'Window', 'class_name': 'Window', 'automation_id': '', 'rectangle': {'left': -32000, 'top': -32000, 'right': -31763, 'bottom': -31961, 'width': 237, 'height': 39}, 'visible': True, 'enabled': True, 'process_id': 22388, 'handle': 66794}
+####################################################################################################
+Could not print control tree: AttributeError("'UIAWrapper' object has no attribute 'print_control_identifiers'")
+
+####################################################################################################
+WINDOW 13: {'title': 'Program Manager', 'control_type': 'Pane', 'class_name': 'Progman', 'automation_id': '', 'rectangle': {'left': 0, 'top': 0, 'right': 2560, 'bottom': 1600, 'width': 2560, 'height': 1600}, 'visible': True, 'enabled': True, 'process_id': 16440, 'handle': 66110}
+####################################################################################################
+Could not print control tree: AttributeError("'UIAWrapper' object has no attribute 'print_control_identifiers'")

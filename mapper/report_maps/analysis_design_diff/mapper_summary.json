@@ -1,0 +1,603 @@
+{
+  "leap_window": {
+    "sequence": 0,
+    "source": "summary",
+    "title": "SchoppeeGirders2025.lbsx - LEAP Bridge Steel 2025",
+    "control_type": "Window",
+    "class_name": "Afx:00007FF6ECF30000:b:0000000000010003:0000000000000006:00000000005A0A61",
+    "automation_id": "",
+    "rectangle": {
+      "left": -11,
+      "top": -11,
+      "right": 2571,
+      "bottom": 1539,
+      "width": 2582,
+      "height": 1550
+    },
+    "visible": true,
+    "enabled": true,
+    "process_id": 6612,
+    "handle": 396028,
+    "runtime_id": [
+      42,
+      396028
+    ],
+    "parent": {
+      "title": "Desktop 1",
+      "control_type": "Pane",
+      "class_name": "#32769",
+      "automation_id": "",
+      "rectangle": {
+        "left": 0,
+        "top": 0,
+        "right": 2560,
+        "bottom": 1600,
+        "width": 2560,
+        "height": 1600
+      },
+      "process_id": 1948,
+      "handle": 65548
+    }
+  },
+  "reports_toolbar": {
+    "sequence": 0,
+    "source": "summary",
+    "title": "Reports",
+    "control_type": "ToolBar",
+    "class_name": "",
+    "automation_id": "",
+    "rectangle": {
+      "left": 1350,
+      "top": 75,
+      "right": 1719,
+      "bottom": 203,
+      "width": 369,
+      "height": 128
+    },
+    "visible": true,
+    "enabled": true,
+    "process_id": 6612,
+    "handle": null,
+    "runtime_id": [],
+    "parent": {
+      "title": "Home",
+      "control_type": "ToolBar",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 0,
+        "top": 72,
+        "right": 2560,
+        "bottom": 207,
+        "width": 2560,
+        "height": 135
+      },
+      "process_id": 6612,
+      "handle": null
+    }
+  },
+  "analysis_design_command": {
+    "sequence": 0,
+    "source": "summary",
+    "title": "Analysis Design",
+    "control_type": "SplitButton",
+    "class_name": "",
+    "automation_id": "",
+    "rectangle": {
+      "left": 1637,
+      "top": 77,
+      "right": 1714,
+      "bottom": 175,
+      "width": 77,
+      "height": 98
+    },
+    "visible": true,
+    "enabled": true,
+    "process_id": 6612,
+    "handle": null,
+    "runtime_id": [],
+    "parent": {
+      "title": "Reports",
+      "control_type": "ToolBar",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 1350,
+        "top": 75,
+        "right": 1719,
+        "bottom": 203,
+        "width": 369,
+        "height": 128
+      },
+      "process_id": 6612,
+      "handle": null
+    }
+  },
+  "settings": {
+    "all_processes": false,
+    "include_invisible": false,
+    "pause_after_click": false,
+    "after_action": "none",
+    "leave_open": false
+  },
+  "diff_00_to_01": {
+    "before_label": "before_click",
+    "after_label": "after_click",
+    "before_count": 103,
+    "after_count": 106,
+    "exact_added_count": 4,
+    "exact_removed_count": 1,
+    "relaxed_added_count": 3,
+    "relaxed_removed_count": 0,
+    "exact_added": [
+      {
+        "sequence": 2,
+        "source": "leap_descendant",
+        "title": "",
+        "control_type": "Menu",
+        "class_name": "Afx:00007FF6ECF30000:800:0000000000010003:0000000000000010:0000000000000000",
+        "automation_id": "",
+        "rectangle": {
+          "left": 1637,
+          "top": 175,
+          "right": 1785,
+          "bottom": 239,
+          "width": 148,
+          "height": 64
+        },
+        "visible": true,
+        "enabled": true,
+        "process_id": 6612,
+        "handle": 1707124,
+        "runtime_id": [
+          42,
+          1707124
+        ],
+        "parent": {
+          "title": "SchoppeeGirders2025.lbsx - LEAP Bridge Steel 2025",
+          "control_type": "Window",
+          "class_name": "Afx:00007FF6ECF30000:b:0000000000010003:0000000000000006:00000000005A0A61",
+          "automation_id": "",
+          "rectangle": {
+            "left": -11,
+            "top": -11,
+            "right": 2571,
+            "bottom": 1539,
+            "width": 2582,
+            "height": 1550
+          },
+          "process_id": 6612,
+          "handle": 396028
+        }
+      },
+      {
+        "sequence": 3,
+        "source": "leap_descendant",
+        "title": "",
+        "control_type": "ToolBar",
+        "class_name": "Afx:ToolBar:ecf30000:8:10003:10",
+        "automation_id": "1",
+        "rectangle": {
+          "left": 1639,
+          "top": 177,
+          "right": 1783,
+          "bottom": 237,
+          "width": 144,
+          "height": 60
+        },
+        "visible": true,
+        "enabled": true,
+        "process_id": 6612,
+        "handle": 1968990,
+        "runtime_id": [
+          42,
+          1968990
+        ],
+        "parent": {
+          "title": "",
+          "control_type": "Menu",
+          "class_name": "Afx:00007FF6ECF30000:800:0000000000010003:0000000000000010:0000000000000000",
+          "automation_id": "",
+          "rectangle": {
+            "left": 1637,
+            "top": 175,
+            "right": 1785,
+            "bottom": 239,
+            "width": 148,
+            "height": 64
+          },
+          "process_id": 6612,
+          "handle": 1707124
+        }
+      },
+      {
+        "sequence": 4,
+        "source": "leap_descendant",
+        "title": "",
+        "control_type": "Pane",
+        "class_name": "Afx:00007FF6ECF30000:800:0000000000010003:0000000000000010:0000000000000000",
+        "automation_id": "",
+        "rectangle": {
+          "left": 1640,
+          "top": 178,
+          "right": 1788,
+          "bottom": 242,
+          "width": 148,
+          "height": 64
+        },
+        "visible": true,
+        "enabled": true,
+        "process_id": 6612,
+        "handle": 4327846,
+        "runtime_id": [
+          42,
+          4327846
+        ],
+        "parent": {
+          "title": "SchoppeeGirders2025.lbsx - LEAP Bridge Steel 2025",
+          "control_type": "Window",
+          "class_name": "Afx:00007FF6ECF30000:b:0000000000010003:0000000000000006:00000000005A0A61",
+          "automation_id": "",
+          "rectangle": {
+            "left": -11,
+            "top": -11,
+            "right": 2571,
+            "bottom": 1539,
+            "width": 2582,
+            "height": 1550
+          },
+          "process_id": 6612,
+          "handle": 396028
+        }
+      },
+      {
+        "sequence": 105,
+        "source": "leap_descendant",
+        "title": "System",
+        "control_type": "MenuItem",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 0,
+          "top": 0,
+          "right": 33,
+          "bottom": 33,
+          "width": 33,
+          "height": 33
+        },
+        "visible": true,
+        "enabled": true,
+        "process_id": 6612,
+        "handle": null,
+        "runtime_id": [
+          42,
+          396028,
+          3,
+          -2147483646,
+          6612,
+          44960717,
+          1
+        ],
+        "parent": {
+          "title": "System",
+          "control_type": "MenuBar",
+          "class_name": "",
+          "automation_id": "MenuBar",
+          "rectangle": {
+            "left": 0,
+            "top": 0,
+            "right": 33,
+            "bottom": 33,
+            "width": 33,
+            "height": 33
+          },
+          "process_id": 6612,
+          "handle": null
+        }
+      }
+    ],
+    "exact_removed": [
+      {
+        "sequence": 102,
+        "source": "leap_descendant",
+        "title": "System",
+        "control_type": "MenuItem",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 0,
+          "top": 0,
+          "right": 33,
+          "bottom": 33,
+          "width": 33,
+          "height": 33
+        },
+        "visible": true,
+        "enabled": true,
+        "process_id": 6612,
+        "handle": null,
+        "runtime_id": [
+          42,
+          396028,
+          3,
+          -2147483646,
+          2496,
+          44960717,
+          1
+        ],
+        "parent": {
+          "title": "System",
+          "control_type": "MenuBar",
+          "class_name": "",
+          "automation_id": "MenuBar",
+          "rectangle": {
+            "left": 0,
+            "top": 0,
+            "right": 33,
+            "bottom": 33,
+            "width": 33,
+            "height": 33
+          },
+          "process_id": 6612,
+          "handle": null
+        }
+      }
+    ],
+    "relaxed_added": [
+      {
+        "sequence": 2,
+        "source": "leap_descendant",
+        "title": "",
+        "control_type": "Menu",
+        "class_name": "Afx:00007FF6ECF30000:800:0000000000010003:0000000000000010:0000000000000000",
+        "automation_id": "",
+        "rectangle": {
+          "left": 1637,
+          "top": 175,
+          "right": 1785,
+          "bottom": 239,
+          "width": 148,
+          "height": 64
+        },
+        "visible": true,
+        "enabled": true,
+        "process_id": 6612,
+        "handle": 1707124,
+        "runtime_id": [
+          42,
+          1707124
+        ],
+        "parent": {
+          "title": "SchoppeeGirders2025.lbsx - LEAP Bridge Steel 2025",
+          "control_type": "Window",
+          "class_name": "Afx:00007FF6ECF30000:b:0000000000010003:0000000000000006:00000000005A0A61",
+          "automation_id": "",
+          "rectangle": {
+            "left": -11,
+            "top": -11,
+            "right": 2571,
+            "bottom": 1539,
+            "width": 2582,
+            "height": 1550
+          },
+          "process_id": 6612,
+          "handle": 396028
+        }
+      },
+      {
+        "sequence": 3,
+        "source": "leap_descendant",
+        "title": "",
+        "control_type": "ToolBar",
+        "class_name": "Afx:ToolBar:ecf30000:8:10003:10",
+        "automation_id": "1",
+        "rectangle": {
+          "left": 1639,
+          "top": 177,
+          "right": 1783,
+          "bottom": 237,
+          "width": 144,
+          "height": 60
+        },
+        "visible": true,
+        "enabled": true,
+        "process_id": 6612,
+        "handle": 1968990,
+        "runtime_id": [
+          42,
+          1968990
+        ],
+        "parent": {
+          "title": "",
+          "control_type": "Menu",
+          "class_name": "Afx:00007FF6ECF30000:800:0000000000010003:0000000000000010:0000000000000000",
+          "automation_id": "",
+          "rectangle": {
+            "left": 1637,
+            "top": 175,
+            "right": 1785,
+            "bottom": 239,
+            "width": 148,
+            "height": 64
+          },
+          "process_id": 6612,
+          "handle": 1707124
+        }
+      },
+      {
+        "sequence": 4,
+        "source": "leap_descendant",
+        "title": "",
+        "control_type": "Pane",
+        "class_name": "Afx:00007FF6ECF30000:800:0000000000010003:0000000000000010:0000000000000000",
+        "automation_id": "",
+        "rectangle": {
+          "left": 1640,
+          "top": 178,
+          "right": 1788,
+          "bottom": 242,
+          "width": 148,
+          "height": 64
+        },
+        "visible": true,
+        "enabled": true,
+        "process_id": 6612,
+        "handle": 4327846,
+        "runtime_id": [
+          42,
+          4327846
+        ],
+        "parent": {
+          "title": "SchoppeeGirders2025.lbsx - LEAP Bridge Steel 2025",
+          "control_type": "Window",
+          "class_name": "Afx:00007FF6ECF30000:b:0000000000010003:0000000000000006:00000000005A0A61",
+          "automation_id": "",
+          "rectangle": {
+            "left": -11,
+            "top": -11,
+            "right": 2571,
+            "bottom": 1539,
+            "width": 2582,
+            "height": 1550
+          },
+          "process_id": 6612,
+          "handle": 396028
+        }
+      }
+    ],
+    "relaxed_removed": [],
+    "likely_menu_additions": [
+      {
+        "sequence": 2,
+        "source": "leap_descendant",
+        "title": "",
+        "control_type": "Menu",
+        "class_name": "Afx:00007FF6ECF30000:800:0000000000010003:0000000000000010:0000000000000000",
+        "automation_id": "",
+        "rectangle": {
+          "left": 1637,
+          "top": 175,
+          "right": 1785,
+          "bottom": 239,
+          "width": 148,
+          "height": 64
+        },
+        "visible": true,
+        "enabled": true,
+        "process_id": 6612,
+        "handle": 1707124,
+        "runtime_id": [
+          42,
+          1707124
+        ],
+        "parent": {
+          "title": "SchoppeeGirders2025.lbsx - LEAP Bridge Steel 2025",
+          "control_type": "Window",
+          "class_name": "Afx:00007FF6ECF30000:b:0000000000010003:0000000000000006:00000000005A0A61",
+          "automation_id": "",
+          "rectangle": {
+            "left": -11,
+            "top": -11,
+            "right": 2571,
+            "bottom": 1539,
+            "width": 2582,
+            "height": 1550
+          },
+          "process_id": 6612,
+          "handle": 396028
+        }
+      },
+      {
+        "sequence": 3,
+        "source": "leap_descendant",
+        "title": "",
+        "control_type": "ToolBar",
+        "class_name": "Afx:ToolBar:ecf30000:8:10003:10",
+        "automation_id": "1",
+        "rectangle": {
+          "left": 1639,
+          "top": 177,
+          "right": 1783,
+          "bottom": 237,
+          "width": 144,
+          "height": 60
+        },
+        "visible": true,
+        "enabled": true,
+        "process_id": 6612,
+        "handle": 1968990,
+        "runtime_id": [
+          42,
+          1968990
+        ],
+        "parent": {
+          "title": "",
+          "control_type": "Menu",
+          "class_name": "Afx:00007FF6ECF30000:800:0000000000010003:0000000000000010:0000000000000000",
+          "automation_id": "",
+          "rectangle": {
+            "left": 1637,
+            "top": 175,
+            "right": 1785,
+            "bottom": 239,
+            "width": 148,
+            "height": 64
+          },
+          "process_id": 6612,
+          "handle": 1707124
+        }
+      },
+      {
+        "sequence": 4,
+        "source": "leap_descendant",
+        "title": "",
+        "control_type": "Pane",
+        "class_name": "Afx:00007FF6ECF30000:800:0000000000010003:0000000000000010:0000000000000000",
+        "automation_id": "",
+        "rectangle": {
+          "left": 1640,
+          "top": 178,
+          "right": 1788,
+          "bottom": 242,
+          "width": 148,
+          "height": 64
+        },
+        "visible": true,
+        "enabled": true,
+        "process_id": 6612,
+        "handle": 4327846,
+        "runtime_id": [
+          42,
+          4327846
+        ],
+        "parent": {
+          "title": "SchoppeeGirders2025.lbsx - LEAP Bridge Steel 2025",
+          "control_type": "Window",
+          "class_name": "Afx:00007FF6ECF30000:b:0000000000010003:0000000000000006:00000000005A0A61",
+          "automation_id": "",
+          "rectangle": {
+            "left": -11,
+            "top": -11,
+            "right": 2571,
+            "bottom": 1539,
+            "width": 2582,
+            "height": 1550
+          },
+          "process_id": 6612,
+          "handle": 396028
+        }
+      }
+    ]
+  },
+  "after_action": null,
+  "diff_01_to_02": null,
+  "output_files": {
+    "snapshot_before": "C:\\Users\\Andrew.Hummers\\OneDrive\\_GitHub Local\\LEAPsteelPy\\mapper\\report_maps\\analysis_design_diff\\snapshot_00_before.json",
+    "snapshot_after_click": "C:\\Users\\Andrew.Hummers\\OneDrive\\_GitHub Local\\LEAPsteelPy\\mapper\\report_maps\\analysis_design_diff\\snapshot_01_after_click.json",
+    "diff_before_to_after_json": "C:\\Users\\Andrew.Hummers\\OneDrive\\_GitHub Local\\LEAPsteelPy\\mapper\\report_maps\\analysis_design_diff\\diff_00_to_01.json",
+    "diff_before_to_after_text": "C:\\Users\\Andrew.Hummers\\OneDrive\\_GitHub Local\\LEAPsteelPy\\mapper\\report_maps\\analysis_design_diff\\diff_00_to_01.txt",
+    "visible_controls_after_click": "C:\\Users\\Andrew.Hummers\\OneDrive\\_GitHub Local\\LEAPsteelPy\\mapper\\report_maps\\analysis_design_diff\\visible_controls_after_click.txt",
+    "summary_json": "C:\\Users\\Andrew.Hummers\\OneDrive\\_GitHub Local\\LEAPsteelPy\\mapper\\report_maps\\analysis_design_diff\\mapper_summary.json",
+    "summary_text": "C:\\Users\\Andrew.Hummers\\OneDrive\\_GitHub Local\\LEAPsteelPy\\mapper\\report_maps\\analysis_design_diff\\mapper_summary.txt"
+  }
+}

@@ -1,0 +1,46 @@
+========================================================================================================================
+LEAP PDF SAVE AS DIALOG MAPPER - V2
+========================================================================================================================
+
+Searching top-level windows AND descendants...
+
+UIA candidate found:
+{
+  "title": "Preview",
+  "control_type": "Window",
+  "class_name": "WindowsForms10.Window.8.app.0.14e5db8_r27_ad1",
+  "automation_id": "PrintPreviewRibbonFormExBase",
+  "handle": 2952302,
+  "rectangle": {
+    "left": 174,
+    "top": 131,
+    "right": 1658,
+    "bottom": 888,
+    "width": 1484,
+    "height": 757
+  },
+  "visible": true,
+  "enabled": false
+}
+
+Win32 candidate found:
+{
+  "title": "Save As",
+  "control_type": "",
+  "class_name": "#32770",
+  "automation_id": "",
+  "handle": 1182722,
+  "rectangle": {
+    "left": 514,
+    "top": 254,
+    "right": 1474,
+    "bottom": 794,
+    "width": 960,
+    "height": 540
+  },
+  "visible": true,
+  "enabled": true
+}
+
+Output folder:
+  C:\Users\Andrew.Hummers\OneDrive\_GitHub Local\LEAPsteelPy\mapper\report_maps\save_pdf_dialog

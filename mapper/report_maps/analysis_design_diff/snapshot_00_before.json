@@ -1,0 +1,3999 @@
+{
+  "label": "before_click",
+  "captured_control_count": 103,
+  "controls": [
+    {
+      "sequence": 1,
+      "source": "leap_window",
+      "title": "SchoppeeGirders2025.lbsx - LEAP Bridge Steel 2025",
+      "control_type": "Window",
+      "class_name": "Afx:00007FF6ECF30000:b:0000000000010003:0000000000000006:00000000005A0A61",
+      "automation_id": "",
+      "rectangle": {
+        "left": -11,
+        "top": -11,
+        "right": 2571,
+        "bottom": 1539,
+        "width": 2582,
+        "height": 1550
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": 396028,
+      "runtime_id": [
+        42,
+        396028
+      ],
+      "parent": {
+        "title": "Desktop 1",
+        "control_type": "Pane",
+        "class_name": "#32769",
+        "automation_id": "",
+        "rectangle": {
+          "left": 0,
+          "top": 0,
+          "right": 2560,
+          "bottom": 1600,
+          "width": 2560,
+          "height": 1600
+        },
+        "process_id": 1948,
+        "handle": 65548
+      }
+    },
+    {
+      "sequence": 2,
+      "source": "leap_descendant",
+      "title": "",
+      "control_type": "Pane",
+      "class_name": "Afx:Slider:ecf30000:8:10003:10",
+      "automation_id": "",
+      "rectangle": {
+        "left": 2218,
+        "top": 207,
+        "right": 2222,
+        "bottom": 1492,
+        "width": 4,
+        "height": 1285
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": 133788,
+      "runtime_id": [
+        42,
+        133788
+      ],
+      "parent": {
+        "title": "SchoppeeGirders2025.lbsx - LEAP Bridge Steel 2025",
+        "control_type": "Window",
+        "class_name": "Afx:00007FF6ECF30000:b:0000000000010003:0000000000000006:00000000005A0A61",
+        "automation_id": "",
+        "rectangle": {
+          "left": -11,
+          "top": -11,
+          "right": 2571,
+          "bottom": 1539,
+          "width": 2582,
+          "height": 1550
+        },
+        "process_id": 6612,
+        "handle": 396028
+      }
+    },
+    {
+      "sequence": 3,
+      "source": "leap_descendant",
+      "title": "Bridge Tree View",
+      "control_type": "Pane",
+      "class_name": "Afx:ControlBar:ecf30000:8:10003:10",
+      "automation_id": "32941",
+      "rectangle": {
+        "left": 2222,
+        "top": 207,
+        "right": 2422,
+        "bottom": 1492,
+        "width": 200,
+        "height": 1285
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": 199296,
+      "runtime_id": [
+        42,
+        199296
+      ],
+      "parent": {
+        "title": "SchoppeeGirders2025.lbsx - LEAP Bridge Steel 2025",
+        "control_type": "Window",
+        "class_name": "Afx:00007FF6ECF30000:b:0000000000010003:0000000000000006:00000000005A0A61",
+        "automation_id": "",
+        "rectangle": {
+          "left": -11,
+          "top": -11,
+          "right": 2571,
+          "bottom": 1539,
+          "width": 2582,
+          "height": 1550
+        },
+        "process_id": 6612,
+        "handle": 396028
+      }
+    },
+    {
+      "sequence": 4,
+      "source": "leap_descendant",
+      "title": "",
+      "control_type": "Tree",
+      "class_name": "SysTreeView32",
+      "automation_id": "1",
+      "rectangle": {
+        "left": 2222,
+        "top": 240,
+        "right": 2422,
+        "bottom": 1492,
+        "width": 200,
+        "height": 1252
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": 133752,
+      "runtime_id": [
+        42,
+        133752
+      ],
+      "parent": {
+        "title": "Bridge Tree View",
+        "control_type": "Pane",
+        "class_name": "Afx:ControlBar:ecf30000:8:10003:10",
+        "automation_id": "32941",
+        "rectangle": {
+          "left": 2222,
+          "top": 207,
+          "right": 2422,
+          "bottom": 1492,
+          "width": 200,
+          "height": 1285
+        },
+        "process_id": 6612,
+        "handle": 199296
+      }
+    },
+    {
+      "sequence": 5,
+      "source": "leap_descendant",
+      "title": "Horizontal",
+      "control_type": "ScrollBar",
+      "class_name": "",
+      "automation_id": "NonClientHorizontalScrollBar",
+      "rectangle": {
+        "left": 2223,
+        "top": 1465,
+        "right": 2421,
+        "bottom": 1491,
+        "width": 198,
+        "height": 26
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [
+        42,
+        133752,
+        3,
+        -2147483647,
+        133752,
+        -6,
+        0
+      ],
+      "parent": {
+        "title": "",
+        "control_type": "Tree",
+        "class_name": "SysTreeView32",
+        "automation_id": "1",
+        "rectangle": {
+          "left": 2222,
+          "top": 240,
+          "right": 2422,
+          "bottom": 1492,
+          "width": 200,
+          "height": 1252
+        },
+        "process_id": 6612,
+        "handle": 133752
+      }
+    },
+    {
+      "sequence": 6,
+      "source": "leap_descendant",
+      "title": "Column left",
+      "control_type": "Button",
+      "class_name": "",
+      "automation_id": "UpButton",
+      "rectangle": {
+        "left": 2223,
+        "top": 1465,
+        "right": 2249,
+        "bottom": 1491,
+        "width": 26,
+        "height": 26
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [
+        42,
+        133752,
+        3,
+        -2147483647,
+        133752,
+        -6,
+        1
+      ],
+      "parent": {
+        "title": "Horizontal",
+        "control_type": "ScrollBar",
+        "class_name": "",
+        "automation_id": "NonClientHorizontalScrollBar",
+        "rectangle": {
+          "left": 2223,
+          "top": 1465,
+          "right": 2421,
+          "bottom": 1491,
+          "width": 198,
+          "height": 26
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 7,
+      "source": "leap_descendant",
+      "title": "Position",
+      "control_type": "Thumb",
+      "class_name": "",
+      "automation_id": "ScrollbarThumb",
+      "rectangle": {
+        "left": 2249,
+        "top": 1465,
+        "right": 2394,
+        "bottom": 1491,
+        "width": 145,
+        "height": 26
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [
+        42,
+        133752,
+        3,
+        -2147483647,
+        133752,
+        -6,
+        3
+      ],
+      "parent": {
+        "title": "Horizontal",
+        "control_type": "ScrollBar",
+        "class_name": "",
+        "automation_id": "NonClientHorizontalScrollBar",
+        "rectangle": {
+          "left": 2223,
+          "top": 1465,
+          "right": 2421,
+          "bottom": 1491,
+          "width": 198,
+          "height": 26
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 8,
+      "source": "leap_descendant",
+      "title": "Page right",
+      "control_type": "Button",
+      "class_name": "",
+      "automation_id": "DownPageButton",
+      "rectangle": {
+        "left": 2394,
+        "top": 1465,
+        "right": 2395,
+        "bottom": 1491,
+        "width": 1,
+        "height": 26
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [
+        42,
+        133752,
+        3,
+        -2147483647,
+        133752,
+        -6,
+        4
+      ],
+      "parent": {
+        "title": "Horizontal",
+        "control_type": "ScrollBar",
+        "class_name": "",
+        "automation_id": "NonClientHorizontalScrollBar",
+        "rectangle": {
+          "left": 2223,
+          "top": 1465,
+          "right": 2421,
+          "bottom": 1491,
+          "width": 198,
+          "height": 26
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 9,
+      "source": "leap_descendant",
+      "title": "Column right",
+      "control_type": "Button",
+      "class_name": "",
+      "automation_id": "DownButton",
+      "rectangle": {
+        "left": 2395,
+        "top": 1465,
+        "right": 2421,
+        "bottom": 1491,
+        "width": 26,
+        "height": 26
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [
+        42,
+        133752,
+        3,
+        -2147483647,
+        133752,
+        -6,
+        5
+      ],
+      "parent": {
+        "title": "Horizontal",
+        "control_type": "ScrollBar",
+        "class_name": "",
+        "automation_id": "NonClientHorizontalScrollBar",
+        "rectangle": {
+          "left": 2223,
+          "top": 1465,
+          "right": 2421,
+          "bottom": 1491,
+          "width": 198,
+          "height": 26
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 10,
+      "source": "leap_descendant",
+      "title": "Bridge 1",
+      "control_type": "TreeItem",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 2284,
+        "top": 241,
+        "right": 2359,
+        "bottom": 269,
+        "width": 75,
+        "height": 28
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [
+        42,
+        133752,
+        4,
+        -340406496,
+        313
+      ],
+      "parent": {
+        "title": "",
+        "control_type": "Tree",
+        "class_name": "SysTreeView32",
+        "automation_id": "1",
+        "rectangle": {
+          "left": 2222,
+          "top": 240,
+          "right": 2422,
+          "bottom": 1492,
+          "width": 200,
+          "height": 1252
+        },
+        "process_id": 6612,
+        "handle": 133752
+      }
+    },
+    {
+      "sequence": 11,
+      "source": "leap_descendant",
+      "title": "Superstructure",
+      "control_type": "TreeItem",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 2303,
+        "top": 269,
+        "right": 2421,
+        "bottom": 297,
+        "width": 118,
+        "height": 28
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [
+        42,
+        133752,
+        4,
+        -340406272,
+        313
+      ],
+      "parent": {
+        "title": "Bridge 1",
+        "control_type": "TreeItem",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 2284,
+          "top": 241,
+          "right": 2359,
+          "bottom": 269,
+          "width": 75,
+          "height": 28
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 12,
+      "source": "leap_descendant",
+      "title": "Substructure",
+      "control_type": "TreeItem",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 2303,
+        "top": 297,
+        "right": 2407,
+        "bottom": 325,
+        "width": 104,
+        "height": 28
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [
+        42,
+        133752,
+        4,
+        -340406160,
+        313
+      ],
+      "parent": {
+        "title": "Bridge 1",
+        "control_type": "TreeItem",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 2284,
+          "top": 241,
+          "right": 2359,
+          "bottom": 269,
+          "width": 75,
+          "height": 28
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 13,
+      "source": "leap_descendant",
+      "title": "",
+      "control_type": "Pane",
+      "class_name": "Afx:Slider:ecf30000:8:10003:10",
+      "automation_id": "",
+      "rectangle": {
+        "left": 2422,
+        "top": 207,
+        "right": 2426,
+        "bottom": 1492,
+        "width": 4,
+        "height": 1285
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": 133842,
+      "runtime_id": [
+        42,
+        133842
+      ],
+      "parent": {
+        "title": "SchoppeeGirders2025.lbsx - LEAP Bridge Steel 2025",
+        "control_type": "Window",
+        "class_name": "Afx:00007FF6ECF30000:b:0000000000010003:0000000000000006:00000000005A0A61",
+        "automation_id": "",
+        "rectangle": {
+          "left": -11,
+          "top": -11,
+          "right": 2571,
+          "bottom": 1539,
+          "width": 2582,
+          "height": 1550
+        },
+        "process_id": 6612,
+        "handle": 396028
+      }
+    },
+    {
+      "sequence": 14,
+      "source": "leap_descendant",
+      "title": "Bridge Properties",
+      "control_type": "Pane",
+      "class_name": "Afx:ControlBar:ecf30000:8:10003:10",
+      "automation_id": "32940",
+      "rectangle": {
+        "left": 2426,
+        "top": 207,
+        "right": 2560,
+        "bottom": 1492,
+        "width": 134,
+        "height": 1285
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": 330332,
+      "runtime_id": [
+        42,
+        330332
+      ],
+      "parent": {
+        "title": "SchoppeeGirders2025.lbsx - LEAP Bridge Steel 2025",
+        "control_type": "Window",
+        "class_name": "Afx:00007FF6ECF30000:b:0000000000010003:0000000000000006:00000000005A0A61",
+        "automation_id": "",
+        "rectangle": {
+          "left": -11,
+          "top": -11,
+          "right": 2571,
+          "bottom": 1539,
+          "width": 2582,
+          "height": 1550
+        },
+        "process_id": 6612,
+        "handle": 396028
+      }
+    },
+    {
+      "sequence": 15,
+      "source": "leap_descendant",
+      "title": "",
+      "control_type": "ComboBox",
+      "class_name": "ComboBox",
+      "automation_id": "1",
+      "rectangle": {
+        "left": 2426,
+        "top": 240,
+        "right": 2560,
+        "bottom": 268,
+        "width": 134,
+        "height": 28
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": 133736,
+      "runtime_id": [
+        42,
+        133736
+      ],
+      "parent": {
+        "title": "Bridge Properties",
+        "control_type": "Pane",
+        "class_name": "Afx:ControlBar:ecf30000:8:10003:10",
+        "automation_id": "32940",
+        "rectangle": {
+          "left": 2426,
+          "top": 207,
+          "right": 2560,
+          "bottom": 1492,
+          "width": 134,
+          "height": 1285
+        },
+        "process_id": 6612,
+        "handle": 330332
+      }
+    },
+    {
+      "sequence": 17,
+      "source": "leap_descendant",
+      "title": "Open",
+      "control_type": "Button",
+      "class_name": "",
+      "automation_id": "DropDown",
+      "rectangle": {
+        "left": 2535,
+        "top": 241,
+        "right": 2559,
+        "bottom": 267,
+        "width": 24,
+        "height": 26
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [
+        42,
+        133736,
+        4,
+        -2147483647,
+        133736,
+        -4,
+        2
+      ],
+      "parent": {
+        "title": "",
+        "control_type": "ComboBox",
+        "class_name": "ComboBox",
+        "automation_id": "1",
+        "rectangle": {
+          "left": 2426,
+          "top": 240,
+          "right": 2560,
+          "bottom": 268,
+          "width": 134,
+          "height": 28
+        },
+        "process_id": 6612,
+        "handle": 133736
+      }
+    },
+    {
+      "sequence": 18,
+      "source": "leap_descendant",
+      "title": "PropertyList",
+      "control_type": "List",
+      "class_name": "Afx:PropList:ecf30000:8:10003:10",
+      "automation_id": "2",
+      "rectangle": {
+        "left": 2426,
+        "top": 268,
+        "right": 2560,
+        "bottom": 1492,
+        "width": 134,
+        "height": 1224
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": 133740,
+      "runtime_id": [
+        42,
+        133740
+      ],
+      "parent": {
+        "title": "Bridge Properties",
+        "control_type": "Pane",
+        "class_name": "Afx:ControlBar:ecf30000:8:10003:10",
+        "automation_id": "32940",
+        "rectangle": {
+          "left": 2426,
+          "top": 207,
+          "right": 2560,
+          "bottom": 1492,
+          "width": 134,
+          "height": 1285
+        },
+        "process_id": 6612,
+        "handle": 330332
+      }
+    },
+    {
+      "sequence": 19,
+      "source": "leap_descendant",
+      "title": "Header Control",
+      "control_type": "Header",
+      "class_name": "SysHeader32",
+      "automation_id": "Header",
+      "rectangle": {
+        "left": 2426,
+        "top": 268,
+        "right": 2560,
+        "bottom": 296,
+        "width": 134,
+        "height": 28
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": 133742,
+      "runtime_id": [
+        42,
+        133742
+      ],
+      "parent": {
+        "title": "PropertyList",
+        "control_type": "List",
+        "class_name": "Afx:PropList:ecf30000:8:10003:10",
+        "automation_id": "2",
+        "rectangle": {
+          "left": 2426,
+          "top": 268,
+          "right": 2560,
+          "bottom": 1492,
+          "width": 134,
+          "height": 1224
+        },
+        "process_id": 6612,
+        "handle": 133740
+      }
+    },
+    {
+      "sequence": 20,
+      "source": "leap_descendant",
+      "title": "Property",
+      "control_type": "HeaderItem",
+      "class_name": "",
+      "automation_id": "HeaderItem 0",
+      "rectangle": {
+        "left": 2426,
+        "top": 268,
+        "right": 2495,
+        "bottom": 296,
+        "width": 69,
+        "height": 28
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [
+        42,
+        133742,
+        4,
+        -2147483647,
+        133742,
+        -4,
+        1
+      ],
+      "parent": {
+        "title": "Header Control",
+        "control_type": "Header",
+        "class_name": "SysHeader32",
+        "automation_id": "Header",
+        "rectangle": {
+          "left": 2426,
+          "top": 268,
+          "right": 2560,
+          "bottom": 296,
+          "width": 134,
+          "height": 28
+        },
+        "process_id": 6612,
+        "handle": 133742
+      }
+    },
+    {
+      "sequence": 21,
+      "source": "leap_descendant",
+      "title": "Value",
+      "control_type": "HeaderItem",
+      "class_name": "",
+      "automation_id": "HeaderItem 1",
+      "rectangle": {
+        "left": 2495,
+        "top": 268,
+        "right": 2639,
+        "bottom": 296,
+        "width": 144,
+        "height": 28
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [
+        42,
+        133742,
+        4,
+        -2147483647,
+        133742,
+        -4,
+        2
+      ],
+      "parent": {
+        "title": "Header Control",
+        "control_type": "Header",
+        "class_name": "SysHeader32",
+        "automation_id": "Header",
+        "rectangle": {
+          "left": 2426,
+          "top": 268,
+          "right": 2560,
+          "bottom": 296,
+          "width": 134,
+          "height": 28
+        },
+        "process_id": 6612,
+        "handle": 133742
+      }
+    },
+    {
+      "sequence": 22,
+      "source": "leap_descendant",
+      "title": "",
+      "control_type": "Pane",
+      "class_name": "Afx:Slider:ecf30000:8:10003:10",
+      "automation_id": "",
+      "rectangle": {
+        "left": 200,
+        "top": 207,
+        "right": 204,
+        "bottom": 1492,
+        "width": 4,
+        "height": 1285
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": 133790,
+      "runtime_id": [
+        42,
+        133790
+      ],
+      "parent": {
+        "title": "SchoppeeGirders2025.lbsx - LEAP Bridge Steel 2025",
+        "control_type": "Window",
+        "class_name": "Afx:00007FF6ECF30000:b:0000000000010003:0000000000000006:00000000005A0A61",
+        "automation_id": "",
+        "rectangle": {
+          "left": -11,
+          "top": -11,
+          "right": 2571,
+          "bottom": 1539,
+          "width": 2582,
+          "height": 1550
+        },
+        "process_id": 6612,
+        "handle": 396028
+      }
+    },
+    {
+      "sequence": 23,
+      "source": "leap_descendant",
+      "title": "Bridge Definition",
+      "control_type": "Pane",
+      "class_name": "Afx:ControlBar:ecf30000:8:10003:10",
+      "automation_id": "32771",
+      "rectangle": {
+        "left": 0,
+        "top": 207,
+        "right": 200,
+        "bottom": 1492,
+        "width": 200,
+        "height": 1285
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": 264396,
+      "runtime_id": [
+        42,
+        264396
+      ],
+      "parent": {
+        "title": "SchoppeeGirders2025.lbsx - LEAP Bridge Steel 2025",
+        "control_type": "Window",
+        "class_name": "Afx:00007FF6ECF30000:b:0000000000010003:0000000000000006:00000000005A0A61",
+        "automation_id": "",
+        "rectangle": {
+          "left": -11,
+          "top": -11,
+          "right": 2571,
+          "bottom": 1539,
+          "width": 2582,
+          "height": 1550
+        },
+        "process_id": 6612,
+        "handle": 396028
+      }
+    },
+    {
+      "sequence": 24,
+      "source": "leap_descendant",
+      "title": "LEAP Bridge Steel 2025",
+      "control_type": "Pane",
+      "class_name": "Afx:RibbonBar:ecf30000:8:10003:10",
+      "automation_id": "59398",
+      "rectangle": {
+        "left": 0,
+        "top": -11,
+        "right": 2560,
+        "bottom": 207,
+        "width": 2560,
+        "height": 218
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": 330334,
+      "runtime_id": [
+        42,
+        330334
+      ],
+      "parent": {
+        "title": "SchoppeeGirders2025.lbsx - LEAP Bridge Steel 2025",
+        "control_type": "Window",
+        "class_name": "Afx:00007FF6ECF30000:b:0000000000010003:0000000000000006:00000000005A0A61",
+        "automation_id": "",
+        "rectangle": {
+          "left": -11,
+          "top": -11,
+          "right": 2571,
+          "bottom": 1539,
+          "width": 2582,
+          "height": 1550
+        },
+        "process_id": 6612,
+        "handle": 396028
+      }
+    },
+    {
+      "sequence": 25,
+      "source": "leap_descendant",
+      "title": "Application menu",
+      "control_type": "Button",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 0,
+        "top": -3,
+        "right": 68,
+        "bottom": 65,
+        "width": 68,
+        "height": 68
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "LEAP Bridge Steel 2025",
+        "control_type": "Custom",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 0,
+          "top": -11,
+          "right": 2560,
+          "bottom": 207,
+          "width": 2560,
+          "height": 218
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 26,
+      "source": "leap_descendant",
+      "title": "Quick Access Toolbar",
+      "control_type": "ToolBar",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 70,
+        "top": -2,
+        "right": 198,
+        "bottom": 39,
+        "width": 128,
+        "height": 41
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "LEAP Bridge Steel 2025",
+        "control_type": "Custom",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 0,
+          "top": -11,
+          "right": 2560,
+          "bottom": 207,
+          "width": 2560,
+          "height": 218
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 27,
+      "source": "leap_descendant",
+      "title": "New",
+      "control_type": "Button",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 72,
+        "top": -2,
+        "right": 102,
+        "bottom": 38,
+        "width": 30,
+        "height": 40
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "Quick Access Toolbar",
+        "control_type": "ToolBar",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 70,
+          "top": -2,
+          "right": 198,
+          "bottom": 39,
+          "width": 128,
+          "height": 41
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 28,
+      "source": "leap_descendant",
+      "title": "Open...",
+      "control_type": "Button",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 102,
+        "top": -2,
+        "right": 132,
+        "bottom": 38,
+        "width": 30,
+        "height": 40
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "Quick Access Toolbar",
+        "control_type": "ToolBar",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 70,
+          "top": -2,
+          "right": 198,
+          "bottom": 39,
+          "width": 128,
+          "height": 41
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 29,
+      "source": "leap_descendant",
+      "title": "Save",
+      "control_type": "Button",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 132,
+        "top": -2,
+        "right": 162,
+        "bottom": 38,
+        "width": 30,
+        "height": 40
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "Quick Access Toolbar",
+        "control_type": "ToolBar",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 70,
+          "top": -2,
+          "right": 198,
+          "bottom": 39,
+          "width": 128,
+          "height": 41
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 30,
+      "source": "leap_descendant",
+      "title": "Customize Quick Access Toolbar",
+      "control_type": "SplitButton",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 175,
+        "top": -4,
+        "right": 200,
+        "bottom": 36,
+        "width": 25,
+        "height": 40
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "Quick Access Toolbar",
+        "control_type": "ToolBar",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 70,
+          "top": -2,
+          "right": 198,
+          "bottom": 39,
+          "width": 128,
+          "height": 41
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 31,
+      "source": "leap_descendant",
+      "title": "Ribbon Tabs",
+      "control_type": "Group",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 69,
+        "top": 40,
+        "right": 2333,
+        "bottom": 72,
+        "width": 2264,
+        "height": 32
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "LEAP Bridge Steel 2025",
+        "control_type": "Custom",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 0,
+          "top": -11,
+          "right": 2560,
+          "bottom": 207,
+          "width": 2560,
+          "height": 218
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 32,
+      "source": "leap_descendant",
+      "title": "Home",
+      "control_type": "TabItem",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 69,
+        "top": 40,
+        "right": 145,
+        "bottom": 72,
+        "width": 76,
+        "height": 32
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "Ribbon Tabs",
+        "control_type": "Group",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 69,
+          "top": 40,
+          "right": 2333,
+          "bottom": 72,
+          "width": 2264,
+          "height": 32
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 33,
+      "source": "leap_descendant",
+      "title": "Mode",
+      "control_type": "TabItem",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 145,
+        "top": 40,
+        "right": 219,
+        "bottom": 72,
+        "width": 74,
+        "height": 32
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "Ribbon Tabs",
+        "control_type": "Group",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 69,
+          "top": 40,
+          "right": 2333,
+          "bottom": 72,
+          "width": 2264,
+          "height": 32
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 34,
+      "source": "leap_descendant",
+      "title": "ProjectWise",
+      "control_type": "TabItem",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 219,
+        "top": 40,
+        "right": 340,
+        "bottom": 72,
+        "width": 121,
+        "height": 32
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "Ribbon Tabs",
+        "control_type": "Group",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 69,
+          "top": 40,
+          "right": 2333,
+          "bottom": 72,
+          "width": 2264,
+          "height": 32
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 35,
+      "source": "leap_descendant",
+      "title": "Bentley Cloud Services",
+      "control_type": "TabItem",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 340,
+        "top": 40,
+        "right": 547,
+        "bottom": 72,
+        "width": 207,
+        "height": 32
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "Ribbon Tabs",
+        "control_type": "Group",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 69,
+          "top": 40,
+          "right": 2333,
+          "bottom": 72,
+          "width": 2264,
+          "height": 32
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 36,
+      "source": "leap_descendant",
+      "title": "OpenBridge Modeler",
+      "control_type": "TabItem",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 547,
+        "top": 40,
+        "right": 740,
+        "bottom": 72,
+        "width": 193,
+        "height": 32
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "Ribbon Tabs",
+        "control_type": "Group",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 69,
+          "top": 40,
+          "right": 2333,
+          "bottom": 72,
+          "width": 2264,
+          "height": 32
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 37,
+      "source": "leap_descendant",
+      "title": "Home",
+      "control_type": "ToolBar",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 0,
+        "top": 72,
+        "right": 2560,
+        "bottom": 207,
+        "width": 2560,
+        "height": 135
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "LEAP Bridge Steel 2025",
+        "control_type": "Custom",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 0,
+          "top": -11,
+          "right": 2560,
+          "bottom": 207,
+          "width": 2560,
+          "height": 218
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 38,
+      "source": "leap_descendant",
+      "title": "View",
+      "control_type": "ToolBar",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 4,
+        "top": 75,
+        "right": 293,
+        "bottom": 203,
+        "width": 289,
+        "height": 128
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "Home",
+        "control_type": "ToolBar",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 0,
+          "top": 72,
+          "right": 2560,
+          "bottom": 207,
+          "width": 2560,
+          "height": 135
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 39,
+      "source": "leap_descendant",
+      "title": "Status Bar",
+      "control_type": "CheckBox",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 8,
+        "top": 97,
+        "right": 117,
+        "bottom": 126,
+        "width": 109,
+        "height": 29
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "View",
+        "control_type": "ToolBar",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 4,
+          "top": 75,
+          "right": 293,
+          "bottom": 203,
+          "width": 289,
+          "height": 128
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 40,
+      "source": "leap_descendant",
+      "title": "Roadway",
+      "control_type": "CheckBox",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 8,
+        "top": 126,
+        "right": 108,
+        "bottom": 155,
+        "width": 100,
+        "height": 29
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "View",
+        "control_type": "ToolBar",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 4,
+          "top": 75,
+          "right": 293,
+          "bottom": 203,
+          "width": 289,
+          "height": 128
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 41,
+      "source": "leap_descendant",
+      "title": "Separator",
+      "control_type": "Separator",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 117,
+        "top": 77,
+        "right": 121,
+        "bottom": 177,
+        "width": 4,
+        "height": 100
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "View",
+        "control_type": "ToolBar",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 4,
+          "top": 75,
+          "right": 293,
+          "bottom": 203,
+          "width": 289,
+          "height": 128
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 42,
+      "source": "leap_descendant",
+      "title": "Bridge Definition",
+      "control_type": "CheckBox",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 125,
+        "top": 82,
+        "right": 285,
+        "bottom": 111,
+        "width": 160,
+        "height": 29
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "View",
+        "control_type": "ToolBar",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 4,
+          "top": 75,
+          "right": 293,
+          "bottom": 203,
+          "width": 289,
+          "height": 128
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 43,
+      "source": "leap_descendant",
+      "title": "Bridge Tree View",
+      "control_type": "CheckBox",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 125,
+        "top": 111,
+        "right": 285,
+        "bottom": 140,
+        "width": 160,
+        "height": 29
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "View",
+        "control_type": "ToolBar",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 4,
+          "top": 75,
+          "right": 293,
+          "bottom": 203,
+          "width": 289,
+          "height": 128
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 44,
+      "source": "leap_descendant",
+      "title": "Bridge Properties",
+      "control_type": "CheckBox",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 125,
+        "top": 140,
+        "right": 288,
+        "bottom": 169,
+        "width": 163,
+        "height": 29
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "View",
+        "control_type": "ToolBar",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 4,
+          "top": 75,
+          "right": 293,
+          "bottom": 203,
+          "width": 289,
+          "height": 128
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 45,
+      "source": "leap_descendant",
+      "title": "Commands",
+      "control_type": "ToolBar",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 295,
+        "top": 75,
+        "right": 515,
+        "bottom": 203,
+        "width": 220,
+        "height": 128
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "Home",
+        "control_type": "ToolBar",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 0,
+          "top": 72,
+          "right": 2560,
+          "bottom": 207,
+          "width": 2560,
+          "height": 135
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 46,
+      "source": "leap_descendant",
+      "title": "Add Bridge",
+      "control_type": "Button",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 299,
+        "top": 77,
+        "right": 418,
+        "bottom": 107,
+        "width": 119,
+        "height": 30
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "Commands",
+        "control_type": "ToolBar",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 295,
+          "top": 75,
+          "right": 515,
+          "bottom": 203,
+          "width": 220,
+          "height": 128
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 47,
+      "source": "leap_descendant",
+      "title": "Remove Bridge",
+      "control_type": "Button",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 299,
+        "top": 107,
+        "right": 448,
+        "bottom": 137,
+        "width": 149,
+        "height": 30
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "Commands",
+        "control_type": "ToolBar",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 295,
+          "top": 75,
+          "right": 515,
+          "bottom": 203,
+          "width": 220,
+          "height": 128
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 48,
+      "source": "leap_descendant",
+      "title": "Rename Bridge",
+      "control_type": "Button",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 299,
+        "top": 137,
+        "right": 449,
+        "bottom": 167,
+        "width": 150,
+        "height": 30
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "Commands",
+        "control_type": "ToolBar",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 295,
+          "top": 75,
+          "right": 515,
+          "bottom": 203,
+          "width": 220,
+          "height": 128
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 49,
+      "source": "leap_descendant",
+      "title": "Refresh Bridge",
+      "control_type": "Button",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 449,
+        "top": 77,
+        "right": 510,
+        "bottom": 175,
+        "width": 61,
+        "height": 98
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "Commands",
+        "control_type": "ToolBar",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 295,
+          "top": 75,
+          "right": 515,
+          "bottom": 203,
+          "width": 220,
+          "height": 128
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 50,
+      "source": "leap_descendant",
+      "title": "Design Specifications",
+      "control_type": "ToolBar",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 517,
+        "top": 75,
+        "right": 720,
+        "bottom": 203,
+        "width": 203,
+        "height": 128
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "Home",
+        "control_type": "ToolBar",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 0,
+          "top": 72,
+          "right": 2560,
+          "bottom": 207,
+          "width": 2560,
+          "height": 135
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 51,
+      "source": "leap_descendant",
+      "title": "Design Specifications",
+      "control_type": "ComboBox",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 521,
+        "top": 77,
+        "right": 715,
+        "bottom": 107,
+        "width": 194,
+        "height": 30
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "Design Specifications",
+        "control_type": "ToolBar",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 517,
+          "top": 75,
+          "right": 720,
+          "bottom": 203,
+          "width": 203,
+          "height": 128
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 52,
+      "source": "leap_descendant",
+      "title": "State Specifications",
+      "control_type": "Text",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 521,
+        "top": 107,
+        "right": 672,
+        "bottom": 138,
+        "width": 151,
+        "height": 31
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "Design Specifications",
+        "control_type": "ToolBar",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 517,
+          "top": 75,
+          "right": 720,
+          "bottom": 203,
+          "width": 203,
+          "height": 128
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 53,
+      "source": "leap_descendant",
+      "title": "State Specifications",
+      "control_type": "ComboBox",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 521,
+        "top": 138,
+        "right": 715,
+        "bottom": 168,
+        "width": 194,
+        "height": 30
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "Design Specifications",
+        "control_type": "ToolBar",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 517,
+          "top": 75,
+          "right": 720,
+          "bottom": 203,
+          "width": 203,
+          "height": 128
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 54,
+      "source": "leap_descendant",
+      "title": "Library",
+      "control_type": "ToolBar",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 722,
+        "top": 75,
+        "right": 970,
+        "bottom": 203,
+        "width": 248,
+        "height": 128
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "Home",
+        "control_type": "ToolBar",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 0,
+          "top": 72,
+          "right": 2560,
+          "bottom": 207,
+          "width": 2560,
+          "height": 135
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 55,
+      "source": "leap_descendant",
+      "title": "Appurtenance Library",
+      "control_type": "Button",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 726,
+        "top": 77,
+        "right": 839,
+        "bottom": 175,
+        "width": 113,
+        "height": 98
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "Library",
+        "control_type": "ToolBar",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 722,
+          "top": 75,
+          "right": 970,
+          "bottom": 203,
+          "width": 248,
+          "height": 128
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 56,
+      "source": "leap_descendant",
+      "title": "Vehicle Library",
+      "control_type": "Button",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 839,
+        "top": 77,
+        "right": 898,
+        "bottom": 175,
+        "width": 59,
+        "height": 98
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "Library",
+        "control_type": "ToolBar",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 722,
+          "top": 75,
+          "right": 970,
+          "bottom": 203,
+          "width": 248,
+          "height": 128
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 57,
+      "source": "leap_descendant",
+      "title": "Material Library",
+      "control_type": "Button",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 898,
+        "top": 77,
+        "right": 965,
+        "bottom": 175,
+        "width": 67,
+        "height": 98
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "Library",
+        "control_type": "ToolBar",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 722,
+          "top": 75,
+          "right": 970,
+          "bottom": 203,
+          "width": 248,
+          "height": 128
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 58,
+      "source": "leap_descendant",
+      "title": "Ground",
+      "control_type": "ToolBar",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 972,
+        "top": 75,
+        "right": 1149,
+        "bottom": 203,
+        "width": 177,
+        "height": 128
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "Home",
+        "control_type": "ToolBar",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 0,
+          "top": 72,
+          "right": 2560,
+          "bottom": 207,
+          "width": 2560,
+          "height": 135
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 59,
+      "source": "leap_descendant",
+      "title": "DTM:",
+      "control_type": "ComboBox",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 976,
+        "top": 77,
+        "right": 1144,
+        "bottom": 107,
+        "width": 168,
+        "height": 30
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "Ground",
+        "control_type": "ToolBar",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 972,
+          "top": 75,
+          "right": 1149,
+          "bottom": 203,
+          "width": 177,
+          "height": 128
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 60,
+      "source": "leap_descendant",
+      "title": "View All Bridges",
+      "control_type": "CheckBox",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 976,
+        "top": 107,
+        "right": 1129,
+        "bottom": 136,
+        "width": 153,
+        "height": 29
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "Ground",
+        "control_type": "ToolBar",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 972,
+          "top": 75,
+          "right": 1149,
+          "bottom": 203,
+          "width": 177,
+          "height": 128
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 61,
+      "source": "leap_descendant",
+      "title": "Units",
+      "control_type": "ToolBar",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 1151,
+        "top": 75,
+        "right": 1279,
+        "bottom": 203,
+        "width": 128,
+        "height": 128
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "Home",
+        "control_type": "ToolBar",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 0,
+          "top": 72,
+          "right": 2560,
+          "bottom": 207,
+          "width": 2560,
+          "height": 135
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 62,
+      "source": "leap_descendant",
+      "title": "",
+      "control_type": "ComboBox",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 1155,
+        "top": 77,
+        "right": 1274,
+        "bottom": 107,
+        "width": 119,
+        "height": 30
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "Units",
+        "control_type": "ToolBar",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 1151,
+          "top": 75,
+          "right": 1279,
+          "bottom": 203,
+          "width": 128,
+          "height": 128
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 63,
+      "source": "leap_descendant",
+      "title": "Export",
+      "control_type": "ToolBar",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 1281,
+        "top": 75,
+        "right": 1348,
+        "bottom": 203,
+        "width": 67,
+        "height": 128
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "Home",
+        "control_type": "ToolBar",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 0,
+          "top": 72,
+          "right": 2560,
+          "bottom": 207,
+          "width": 2560,
+          "height": 135
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 64,
+      "source": "leap_descendant",
+      "title": "Save DGN",
+      "control_type": "Button",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 1285,
+        "top": 77,
+        "right": 1343,
+        "bottom": 175,
+        "width": 58,
+        "height": 98
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "Export",
+        "control_type": "ToolBar",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 1281,
+          "top": 75,
+          "right": 1348,
+          "bottom": 203,
+          "width": 67,
+          "height": 128
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 65,
+      "source": "leap_descendant",
+      "title": "Reports",
+      "control_type": "ToolBar",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 1350,
+        "top": 75,
+        "right": 1719,
+        "bottom": 203,
+        "width": 369,
+        "height": 128
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "Home",
+        "control_type": "ToolBar",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 0,
+          "top": 72,
+          "right": 2560,
+          "bottom": 207,
+          "width": 2560,
+          "height": 135
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 66,
+      "source": "leap_descendant",
+      "title": "Input Data",
+      "control_type": "Button",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 1354,
+        "top": 77,
+        "right": 1412,
+        "bottom": 175,
+        "width": 58,
+        "height": 98
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "Reports",
+        "control_type": "ToolBar",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 1350,
+          "top": 75,
+          "right": 1719,
+          "bottom": 203,
+          "width": 369,
+          "height": 128
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 67,
+      "source": "leap_descendant",
+      "title": "Deck Elevation",
+      "control_type": "Button",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 1412,
+        "top": 77,
+        "right": 1485,
+        "bottom": 175,
+        "width": 73,
+        "height": 98
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "Reports",
+        "control_type": "ToolBar",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 1350,
+          "top": 75,
+          "right": 1719,
+          "bottom": 203,
+          "width": 369,
+          "height": 128
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 68,
+      "source": "leap_descendant",
+      "title": "Material Quantities",
+      "control_type": "Button",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 1485,
+        "top": 77,
+        "right": 1568,
+        "bottom": 175,
+        "width": 83,
+        "height": 98
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "Reports",
+        "control_type": "ToolBar",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 1350,
+          "top": 75,
+          "right": 1719,
+          "bottom": 203,
+          "width": 369,
+          "height": 128
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 69,
+      "source": "leap_descendant",
+      "title": "Camber Diagram",
+      "control_type": "Button",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 1568,
+        "top": 77,
+        "right": 1637,
+        "bottom": 175,
+        "width": 69,
+        "height": 98
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "Reports",
+        "control_type": "ToolBar",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 1350,
+          "top": 75,
+          "right": 1719,
+          "bottom": 203,
+          "width": 369,
+          "height": 128
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 70,
+      "source": "leap_descendant",
+      "title": "Analysis Design",
+      "control_type": "SplitButton",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 1637,
+        "top": 77,
+        "right": 1714,
+        "bottom": 175,
+        "width": 77,
+        "height": 98
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "Reports",
+        "control_type": "ToolBar",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 1350,
+          "top": 75,
+          "right": 1719,
+          "bottom": 203,
+          "width": 369,
+          "height": 128
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 71,
+      "source": "leap_descendant",
+      "title": "Help & Tutorials",
+      "control_type": "ToolBar",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 1721,
+        "top": 75,
+        "right": 1857,
+        "bottom": 203,
+        "width": 136,
+        "height": 128
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "Home",
+        "control_type": "ToolBar",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 0,
+          "top": 72,
+          "right": 2560,
+          "bottom": 207,
+          "width": 2560,
+          "height": 135
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 72,
+      "source": "leap_descendant",
+      "title": "Tutorials",
+      "control_type": "SplitButton",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 1725,
+        "top": 77,
+        "right": 1794,
+        "bottom": 175,
+        "width": 69,
+        "height": 98
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "Help & Tutorials",
+        "control_type": "ToolBar",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 1721,
+          "top": 75,
+          "right": 1857,
+          "bottom": 203,
+          "width": 136,
+          "height": 128
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 73,
+      "source": "leap_descendant",
+      "title": "Help",
+      "control_type": "Button",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 1794,
+        "top": 77,
+        "right": 1852,
+        "bottom": 175,
+        "width": 58,
+        "height": 98
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "Help & Tutorials",
+        "control_type": "ToolBar",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 1721,
+          "top": 75,
+          "right": 1857,
+          "bottom": 203,
+          "width": 136,
+          "height": 128
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 74,
+      "source": "leap_descendant",
+      "title": "Style",
+      "control_type": "SplitButton",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 2404,
+        "top": 41,
+        "right": 2465,
+        "bottom": 71,
+        "width": 61,
+        "height": 30
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "LEAP Bridge Steel 2025",
+        "control_type": "Custom",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 0,
+          "top": -11,
+          "right": 2560,
+          "bottom": 207,
+          "width": 2560,
+          "height": 218
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 75,
+      "source": "leap_descendant",
+      "title": "Email File",
+      "control_type": "Button",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 2465,
+        "top": 41,
+        "right": 2497,
+        "bottom": 71,
+        "width": 32,
+        "height": 30
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "LEAP Bridge Steel 2025",
+        "control_type": "Custom",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 0,
+          "top": -11,
+          "right": 2560,
+          "bottom": 207,
+          "width": 2560,
+          "height": 218
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 76,
+      "source": "leap_descendant",
+      "title": "About LEAP Bridge Steel",
+      "control_type": "Button",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 2497,
+        "top": 41,
+        "right": 2529,
+        "bottom": 71,
+        "width": 32,
+        "height": 30
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "LEAP Bridge Steel 2025",
+        "control_type": "Custom",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 0,
+          "top": -11,
+          "right": 2560,
+          "bottom": 207,
+          "width": 2560,
+          "height": 218
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 77,
+      "source": "leap_descendant",
+      "title": "Sign In",
+      "control_type": "Button",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 2529,
+        "top": 41,
+        "right": 2560,
+        "bottom": 71,
+        "width": 31,
+        "height": 30
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "LEAP Bridge Steel 2025",
+        "control_type": "Custom",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 0,
+          "top": -11,
+          "right": 2560,
+          "bottom": 207,
+          "width": 2560,
+          "height": 218
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 78,
+      "source": "leap_descendant",
+      "title": "Ready",
+      "control_type": "Pane",
+      "class_name": "Afx:RibbonStatusBar:ecf30000:8:10003:10",
+      "automation_id": "59393",
+      "rectangle": {
+        "left": 0,
+        "top": 1492,
+        "right": 2560,
+        "bottom": 1528,
+        "width": 2560,
+        "height": 36
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": 330224,
+      "runtime_id": [
+        42,
+        330224
+      ],
+      "parent": {
+        "title": "SchoppeeGirders2025.lbsx - LEAP Bridge Steel 2025",
+        "control_type": "Window",
+        "class_name": "Afx:00007FF6ECF30000:b:0000000000010003:0000000000000006:00000000005A0A61",
+        "automation_id": "",
+        "rectangle": {
+          "left": -11,
+          "top": -11,
+          "right": 2571,
+          "bottom": 1539,
+          "width": 2582,
+          "height": 1550
+        },
+        "process_id": 6612,
+        "handle": 396028
+      }
+    },
+    {
+      "sequence": 79,
+      "source": "leap_descendant",
+      "title": "",
+      "control_type": "Pane",
+      "class_name": "AfxFrameOrView140u",
+      "automation_id": "59648",
+      "rectangle": {
+        "left": 204,
+        "top": 207,
+        "right": 2218,
+        "bottom": 1492,
+        "width": 2014,
+        "height": 1285
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": 658202,
+      "runtime_id": [
+        42,
+        658202
+      ],
+      "parent": {
+        "title": "SchoppeeGirders2025.lbsx - LEAP Bridge Steel 2025",
+        "control_type": "Window",
+        "class_name": "Afx:00007FF6ECF30000:b:0000000000010003:0000000000000006:00000000005A0A61",
+        "automation_id": "",
+        "rectangle": {
+          "left": -11,
+          "top": -11,
+          "right": 2571,
+          "bottom": 1539,
+          "width": 2582,
+          "height": 1550
+        },
+        "process_id": 6612,
+        "handle": 396028
+      }
+    },
+    {
+      "sequence": 80,
+      "source": "leap_descendant",
+      "title": "",
+      "control_type": "Pane",
+      "class_name": "Afx:00007FF6ECF30000:0:0000000000000000:0000000000000006:0000000000000000",
+      "automation_id": "",
+      "rectangle": {
+        "left": 206,
+        "top": 209,
+        "right": 2216,
+        "bottom": 1490,
+        "width": 2010,
+        "height": 1281
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": 461598,
+      "runtime_id": [
+        42,
+        461598
+      ],
+      "parent": {
+        "title": "",
+        "control_type": "Pane",
+        "class_name": "AfxFrameOrView140u",
+        "automation_id": "59648",
+        "rectangle": {
+          "left": 204,
+          "top": 207,
+          "right": 2218,
+          "bottom": 1492,
+          "width": 2014,
+          "height": 1285
+        },
+        "process_id": 6612,
+        "handle": 658202
+      }
+    },
+    {
+      "sequence": 81,
+      "source": "leap_descendant",
+      "title": "",
+      "control_type": "Pane",
+      "class_name": "AfxFrameOrView140u",
+      "automation_id": "59648",
+      "rectangle": {
+        "left": 205,
+        "top": 208,
+        "right": 2217,
+        "bottom": 1491,
+        "width": 2012,
+        "height": 1283
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": 330556,
+      "runtime_id": [
+        42,
+        330556
+      ],
+      "parent": {
+        "title": "",
+        "control_type": "Pane",
+        "class_name": "Afx:00007FF6ECF30000:0:0000000000000000:0000000000000006:0000000000000000",
+        "automation_id": "",
+        "rectangle": {
+          "left": 206,
+          "top": 209,
+          "right": 2216,
+          "bottom": 1490,
+          "width": 2010,
+          "height": 1281
+        },
+        "process_id": 6612,
+        "handle": 461598
+      }
+    },
+    {
+      "sequence": 82,
+      "source": "leap_descendant",
+      "title": "",
+      "control_type": "Pane",
+      "class_name": "Afx:ToolBar:ecf30000:8:10003:10",
+      "automation_id": "9006",
+      "rectangle": {
+        "left": 206,
+        "top": 209,
+        "right": 2216,
+        "bottom": 245,
+        "width": 2010,
+        "height": 36
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": 3148608,
+      "runtime_id": [
+        42,
+        3148608
+      ],
+      "parent": {
+        "title": "",
+        "control_type": "Pane",
+        "class_name": "AfxFrameOrView140u",
+        "automation_id": "59648",
+        "rectangle": {
+          "left": 205,
+          "top": 208,
+          "right": 2217,
+          "bottom": 1491,
+          "width": 2012,
+          "height": 1283
+        },
+        "process_id": 6612,
+        "handle": 330556
+      }
+    },
+    {
+      "sequence": 83,
+      "source": "leap_descendant",
+      "title": "",
+      "control_type": "Button",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 215,
+        "top": 210,
+        "right": 248,
+        "bottom": 243,
+        "width": 33,
+        "height": 33
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "",
+        "control_type": "Pane",
+        "class_name": "Afx:ToolBar:ecf30000:8:10003:10",
+        "automation_id": "9006",
+        "rectangle": {
+          "left": 206,
+          "top": 209,
+          "right": 2216,
+          "bottom": 245,
+          "width": 2010,
+          "height": 36
+        },
+        "process_id": 6612,
+        "handle": 3148608
+      }
+    },
+    {
+      "sequence": 84,
+      "source": "leap_descendant",
+      "title": "",
+      "control_type": "Button",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 256,
+        "top": 210,
+        "right": 289,
+        "bottom": 243,
+        "width": 33,
+        "height": 33
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "",
+        "control_type": "Pane",
+        "class_name": "Afx:ToolBar:ecf30000:8:10003:10",
+        "automation_id": "9006",
+        "rectangle": {
+          "left": 206,
+          "top": 209,
+          "right": 2216,
+          "bottom": 245,
+          "width": 2010,
+          "height": 36
+        },
+        "process_id": 6612,
+        "handle": 3148608
+      }
+    },
+    {
+      "sequence": 85,
+      "source": "leap_descendant",
+      "title": "",
+      "control_type": "Button",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 289,
+        "top": 210,
+        "right": 322,
+        "bottom": 243,
+        "width": 33,
+        "height": 33
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "",
+        "control_type": "Pane",
+        "class_name": "Afx:ToolBar:ecf30000:8:10003:10",
+        "automation_id": "9006",
+        "rectangle": {
+          "left": 206,
+          "top": 209,
+          "right": 2216,
+          "bottom": 245,
+          "width": 2010,
+          "height": 36
+        },
+        "process_id": 6612,
+        "handle": 3148608
+      }
+    },
+    {
+      "sequence": 86,
+      "source": "leap_descendant",
+      "title": "",
+      "control_type": "Button",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 322,
+        "top": 210,
+        "right": 355,
+        "bottom": 243,
+        "width": 33,
+        "height": 33
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "",
+        "control_type": "Pane",
+        "class_name": "Afx:ToolBar:ecf30000:8:10003:10",
+        "automation_id": "9006",
+        "rectangle": {
+          "left": 206,
+          "top": 209,
+          "right": 2216,
+          "bottom": 245,
+          "width": 2010,
+          "height": 36
+        },
+        "process_id": 6612,
+        "handle": 3148608
+      }
+    },
+    {
+      "sequence": 87,
+      "source": "leap_descendant",
+      "title": "",
+      "control_type": "Button",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 363,
+        "top": 210,
+        "right": 402,
+        "bottom": 243,
+        "width": 39,
+        "height": 33
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "",
+        "control_type": "Pane",
+        "class_name": "Afx:ToolBar:ecf30000:8:10003:10",
+        "automation_id": "9006",
+        "rectangle": {
+          "left": 206,
+          "top": 209,
+          "right": 2216,
+          "bottom": 245,
+          "width": 2010,
+          "height": 36
+        },
+        "process_id": 6612,
+        "handle": 3148608
+      }
+    },
+    {
+      "sequence": 88,
+      "source": "leap_descendant",
+      "title": "",
+      "control_type": "Button",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 402,
+        "top": 210,
+        "right": 441,
+        "bottom": 243,
+        "width": 39,
+        "height": 33
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "",
+        "control_type": "Pane",
+        "class_name": "Afx:ToolBar:ecf30000:8:10003:10",
+        "automation_id": "9006",
+        "rectangle": {
+          "left": 206,
+          "top": 209,
+          "right": 2216,
+          "bottom": 245,
+          "width": 2010,
+          "height": 36
+        },
+        "process_id": 6612,
+        "handle": 3148608
+      }
+    },
+    {
+      "sequence": 89,
+      "source": "leap_descendant",
+      "title": "",
+      "control_type": "Button",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 441,
+        "top": 210,
+        "right": 480,
+        "bottom": 243,
+        "width": 39,
+        "height": 33
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "",
+        "control_type": "Pane",
+        "class_name": "Afx:ToolBar:ecf30000:8:10003:10",
+        "automation_id": "9006",
+        "rectangle": {
+          "left": 206,
+          "top": 209,
+          "right": 2216,
+          "bottom": 245,
+          "width": 2010,
+          "height": 36
+        },
+        "process_id": 6612,
+        "handle": 3148608
+      }
+    },
+    {
+      "sequence": 90,
+      "source": "leap_descendant",
+      "title": "",
+      "control_type": "Button",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 488,
+        "top": 210,
+        "right": 521,
+        "bottom": 243,
+        "width": 33,
+        "height": 33
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "",
+        "control_type": "Pane",
+        "class_name": "Afx:ToolBar:ecf30000:8:10003:10",
+        "automation_id": "9006",
+        "rectangle": {
+          "left": 206,
+          "top": 209,
+          "right": 2216,
+          "bottom": 245,
+          "width": 2010,
+          "height": 36
+        },
+        "process_id": 6612,
+        "handle": 3148608
+      }
+    },
+    {
+      "sequence": 91,
+      "source": "leap_descendant",
+      "title": "",
+      "control_type": "Pane",
+      "class_name": "Afx:ToolBar:ecf30000:8:10003:10",
+      "automation_id": "9018",
+      "rectangle": {
+        "left": 206,
+        "top": 209,
+        "right": 2128,
+        "bottom": 245,
+        "width": 1922,
+        "height": 36
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": 1444674,
+      "runtime_id": [
+        42,
+        1444674
+      ],
+      "parent": {
+        "title": "",
+        "control_type": "Pane",
+        "class_name": "AfxFrameOrView140u",
+        "automation_id": "59648",
+        "rectangle": {
+          "left": 205,
+          "top": 208,
+          "right": 2217,
+          "bottom": 1491,
+          "width": 2012,
+          "height": 1283
+        },
+        "process_id": 6612,
+        "handle": 330556
+      }
+    },
+    {
+      "sequence": 92,
+      "source": "leap_descendant",
+      "title": "",
+      "control_type": "Button",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 355,
+        "top": 210,
+        "right": 388,
+        "bottom": 243,
+        "width": 33,
+        "height": 33
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "",
+        "control_type": "Pane",
+        "class_name": "Afx:ToolBar:ecf30000:8:10003:10",
+        "automation_id": "9018",
+        "rectangle": {
+          "left": 206,
+          "top": 209,
+          "right": 2128,
+          "bottom": 245,
+          "width": 1922,
+          "height": 36
+        },
+        "process_id": 6612,
+        "handle": 1444674
+      }
+    },
+    {
+      "sequence": 93,
+      "source": "leap_descendant",
+      "title": "",
+      "control_type": "Button",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 396,
+        "top": 210,
+        "right": 429,
+        "bottom": 243,
+        "width": 33,
+        "height": 33
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "",
+        "control_type": "Pane",
+        "class_name": "Afx:ToolBar:ecf30000:8:10003:10",
+        "automation_id": "9018",
+        "rectangle": {
+          "left": 206,
+          "top": 209,
+          "right": 2128,
+          "bottom": 245,
+          "width": 1922,
+          "height": 36
+        },
+        "process_id": 6612,
+        "handle": 1444674
+      }
+    },
+    {
+      "sequence": 94,
+      "source": "leap_descendant",
+      "title": "",
+      "control_type": "Button",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 429,
+        "top": 210,
+        "right": 462,
+        "bottom": 243,
+        "width": 33,
+        "height": 33
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "",
+        "control_type": "Pane",
+        "class_name": "Afx:ToolBar:ecf30000:8:10003:10",
+        "automation_id": "9018",
+        "rectangle": {
+          "left": 206,
+          "top": 209,
+          "right": 2128,
+          "bottom": 245,
+          "width": 1922,
+          "height": 36
+        },
+        "process_id": 6612,
+        "handle": 1444674
+      }
+    },
+    {
+      "sequence": 95,
+      "source": "leap_descendant",
+      "title": "",
+      "control_type": "Button",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 462,
+        "top": 210,
+        "right": 495,
+        "bottom": 243,
+        "width": 33,
+        "height": 33
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "",
+        "control_type": "Pane",
+        "class_name": "Afx:ToolBar:ecf30000:8:10003:10",
+        "automation_id": "9018",
+        "rectangle": {
+          "left": 206,
+          "top": 209,
+          "right": 2128,
+          "bottom": 245,
+          "width": 1922,
+          "height": 36
+        },
+        "process_id": 6612,
+        "handle": 1444674
+      }
+    },
+    {
+      "sequence": 96,
+      "source": "leap_descendant",
+      "title": "",
+      "control_type": "Button",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 495,
+        "top": 210,
+        "right": 528,
+        "bottom": 243,
+        "width": 33,
+        "height": 33
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "",
+        "control_type": "Pane",
+        "class_name": "Afx:ToolBar:ecf30000:8:10003:10",
+        "automation_id": "9018",
+        "rectangle": {
+          "left": 206,
+          "top": 209,
+          "right": 2128,
+          "bottom": 245,
+          "width": 1922,
+          "height": 36
+        },
+        "process_id": 6612,
+        "handle": 1444674
+      }
+    },
+    {
+      "sequence": 97,
+      "source": "leap_descendant",
+      "title": "",
+      "control_type": "Pane",
+      "class_name": "Afx:ToolBar:ecf30000:8:10003:10",
+      "automation_id": "9022",
+      "rectangle": {
+        "left": 206,
+        "top": 209,
+        "right": 2128,
+        "bottom": 245,
+        "width": 1922,
+        "height": 36
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": 1182596,
+      "runtime_id": [
+        42,
+        1182596
+      ],
+      "parent": {
+        "title": "",
+        "control_type": "Pane",
+        "class_name": "AfxFrameOrView140u",
+        "automation_id": "59648",
+        "rectangle": {
+          "left": 205,
+          "top": 208,
+          "right": 2217,
+          "bottom": 1491,
+          "width": 2012,
+          "height": 1283
+        },
+        "process_id": 6612,
+        "handle": 330556
+      }
+    },
+    {
+      "sequence": 98,
+      "source": "leap_descendant",
+      "title": "",
+      "control_type": "Button",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 248,
+        "top": 210,
+        "right": 281,
+        "bottom": 243,
+        "width": 33,
+        "height": 33
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [],
+      "parent": {
+        "title": "",
+        "control_type": "Pane",
+        "class_name": "Afx:ToolBar:ecf30000:8:10003:10",
+        "automation_id": "9022",
+        "rectangle": {
+          "left": 206,
+          "top": 209,
+          "right": 2128,
+          "bottom": 245,
+          "width": 1922,
+          "height": 36
+        },
+        "process_id": 6612,
+        "handle": 1182596
+      }
+    },
+    {
+      "sequence": 99,
+      "source": "leap_descendant",
+      "title": "",
+      "control_type": "Pane",
+      "class_name": "Afx:ToolBar:ecf30000:8:10003:10",
+      "automation_id": "9020",
+      "rectangle": {
+        "left": 206,
+        "top": 209,
+        "right": 2128,
+        "bottom": 245,
+        "width": 1922,
+        "height": 36
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": 2100114,
+      "runtime_id": [
+        42,
+        2100114
+      ],
+      "parent": {
+        "title": "",
+        "control_type": "Pane",
+        "class_name": "AfxFrameOrView140u",
+        "automation_id": "59648",
+        "rectangle": {
+          "left": 205,
+          "top": 208,
+          "right": 2217,
+          "bottom": 1491,
+          "width": 2012,
+          "height": 1283
+        },
+        "process_id": 6612,
+        "handle": 330556
+      }
+    },
+    {
+      "sequence": 101,
+      "source": "leap_descendant",
+      "title": "System",
+      "control_type": "MenuBar",
+      "class_name": "",
+      "automation_id": "MenuBar",
+      "rectangle": {
+        "left": 0,
+        "top": 0,
+        "right": 33,
+        "bottom": 33,
+        "width": 33,
+        "height": 33
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [
+        42,
+        396028,
+        3,
+        -2147483646,
+        6612,
+        44960717,
+        0
+      ],
+      "parent": {
+        "title": "",
+        "control_type": "TitleBar",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 0,
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "width": 0,
+          "height": 0
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 102,
+      "source": "leap_descendant",
+      "title": "System",
+      "control_type": "MenuItem",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 0,
+        "top": 0,
+        "right": 33,
+        "bottom": 33,
+        "width": 33,
+        "height": 33
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [
+        42,
+        396028,
+        3,
+        -2147483646,
+        2496,
+        44960717,
+        1
+      ],
+      "parent": {
+        "title": "System",
+        "control_type": "MenuBar",
+        "class_name": "",
+        "automation_id": "MenuBar",
+        "rectangle": {
+          "left": 0,
+          "top": 0,
+          "right": 33,
+          "bottom": 33,
+          "width": 33,
+          "height": 33
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 103,
+      "source": "leap_descendant",
+      "title": "Minimize",
+      "control_type": "Button",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 2347,
+        "top": 0,
+        "right": 2418,
+        "bottom": 39,
+        "width": 71,
+        "height": 39
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [
+        42,
+        396028,
+        3,
+        -2147483647,
+        396028,
+        -2,
+        2
+      ],
+      "parent": {
+        "title": "",
+        "control_type": "TitleBar",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 0,
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "width": 0,
+          "height": 0
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 104,
+      "source": "leap_descendant",
+      "title": "Restore",
+      "control_type": "Button",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 2418,
+        "top": 0,
+        "right": 2488,
+        "bottom": 39,
+        "width": 70,
+        "height": 39
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [
+        42,
+        396028,
+        3,
+        -2147483647,
+        396028,
+        -2,
+        3
+      ],
+      "parent": {
+        "title": "",
+        "control_type": "TitleBar",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 0,
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "width": 0,
+          "height": 0
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    },
+    {
+      "sequence": 105,
+      "source": "leap_descendant",
+      "title": "Close",
+      "control_type": "Button",
+      "class_name": "",
+      "automation_id": "",
+      "rectangle": {
+        "left": 2488,
+        "top": 0,
+        "right": 2560,
+        "bottom": 39,
+        "width": 72,
+        "height": 39
+      },
+      "visible": true,
+      "enabled": true,
+      "process_id": 6612,
+      "handle": null,
+      "runtime_id": [
+        42,
+        396028,
+        3,
+        -2147483647,
+        396028,
+        -2,
+        5
+      ],
+      "parent": {
+        "title": "",
+        "control_type": "TitleBar",
+        "class_name": "",
+        "automation_id": "",
+        "rectangle": {
+          "left": 0,
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "width": 0,
+          "height": 0
+        },
+        "process_id": 6612,
+        "handle": null
+      }
+    }
+  ]
+}

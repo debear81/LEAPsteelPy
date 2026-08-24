@@ -1,0 +1,256 @@
+==============================================================================================================
+LEAP EXPORT TO DROPDOWN MAP
+==============================================================================================================
+
+PREVIEW
+--------------------------------------------------------------------------------------------------------------
+{
+  "title": "Preview",
+  "control_type": "Window",
+  "class_name": "WindowsForms10.Window.8.app.0.14e5db8_r27_ad1",
+  "automation_id": "PrintPreviewRibbonFormExBase",
+  "rectangle": {
+    "left": 271,
+    "top": 210,
+    "right": 2196,
+    "bottom": 1425,
+    "width": 1925,
+    "height": 1215
+  },
+  "visible": true,
+  "enabled": true,
+  "process_id": 6612,
+  "handle": 4196774
+}
+
+EXPORT TO CONTROL
+--------------------------------------------------------------------------------------------------------------
+{
+  "title": "Export To",
+  "control_type": "SplitButton",
+  "class_name": "",
+  "automation_id": "",
+  "rectangle": {
+    "left": 2030,
+    "top": 275,
+    "right": 2088,
+    "bottom": 311,
+    "width": 58,
+    "height": 36
+  },
+  "visible": true,
+  "enabled": true,
+  "process_id": 6612,
+  "handle": null
+}
+
+NEW UIA TOP-LEVEL WINDOWS AFTER CLICK
+--------------------------------------------------------------------------------------------------------------
+(none detected)
+
+NEW WIN32 TOP-LEVEL WINDOWS AFTER CLICK
+--------------------------------------------------------------------------------------------------------------
+(none detected)
+
+VISIBLE UIA CONTROLS NEAR EXPORT TO AFTER CLICK
+--------------------------------------------------------------------------------------------------------------
+001. title='', type='Group', class='group/thread flex flex-col min-h-full', auto_id='thread', handle=None, rect={'left': 390, 'top': -1104, 'right': 2560, 'bottom': 1716, 'width': 2170, 'height': 2820}
+002. title='', type='Group', class='text-token-text-primary w-full focus:outline-none has-data-writing-block:pointer-events-none [&:has([data-writing-block])>*]:pointer-events-auto R6Vx5W_threadScrollVars scroll-mb-[calc(var(--scroll-root-safe-area-inset-bottom,0px)+var(--thread-response-height))] scroll-mt-(--sticky-padding-top)', auto_id='', handle=None, rect={'left': 390, 'top': -12, 'right': 2560, 'bottom': 331, 'width': 2170, 'height': 343}
+003. title='SchoppeeGirders2025.lbsx - LEAP Bridge Steel 2025', type='Window', class='Afx:00007FF6ECF30000:b:0000000000010003:0000000000000006:00000000005A0A61', auto_id='', handle=396028, rect={'left': -11, 'top': -11, 'right': 2571, 'bottom': 1539, 'width': 2582, 'height': 1550}
+004. title='mapper_report_export.py - LEAPsteelPy - Visual Studio Code', type='Window', class='Chrome_WidgetWin_1', auto_id='', handle=526788, rect={'left': -11, 'top': -11, 'right': 2571, 'bottom': 1539, 'width': 2582, 'height': 1550}
+005. title='output - File Explorer', type='Window', class='CabinetWClass', auto_id='', handle=329688, rect={'left': -11, 'top': -11, 'right': 2571, 'bottom': 1539, 'width': 2582, 'height': 1550}
+006. title='mapper_report_export.py - LEAPsteelPy - Visual Studio Code', type='Document', class='', auto_id='RootWebArea', handle=None, rect={'left': 0, 'top': 0, 'right': 2561, 'bottom': 1529, 'width': 2561, 'height': 1529}
+007. title='', type='Group', class='agent-status-enabled unified-agents-bar', auto_id='', handle=None, rect={'left': 0, 'top': 0, 'right': 2561, 'bottom': 1529, 'width': 2561, 'height': 1529}
+008. title='Desktop', type='List', class='SysListView32', auto_id='1', handle=66116, rect={'left': 0, 'top': 0, 'right': 2560, 'bottom': 1600, 'width': 2560, 'height': 1600}
+009. title='', type='Pane', class='Intermediate D3D Window', auto_id='', handle=198966, rect={'left': 0, 'top': 0, 'right': 2560, 'bottom': 1528, 'width': 2560, 'height': 1528}
+010. title='', type='Pane', class='NonClientView', auto_id='', handle=None, rect={'left': 0, 'top': 0, 'right': 2561, 'bottom': 1529, 'width': 2561, 'height': 1529}
+011. title='', type='Pane', class='WinFrameView', auto_id='', handle=None, rect={'left': 0, 'top': 0, 'right': 2561, 'bottom': 1529, 'width': 2561, 'height': 1529}
+012. title='', type='Pane', class='ClientView', auto_id='', handle=None, rect={'left': 0, 'top': 0, 'right': 2561, 'bottom': 1529, 'width': 2561, 'height': 1529}
+013. title='', type='Pane', class='View', auto_id='', handle=None, rect={'left': 0, 'top': 0, 'right': 2561, 'bottom': 1529, 'width': 2561, 'height': 1529}
+014. title='', type='Pane', class='file-icons-enabled monaco-enable-motion style-override modern-ui-tabs monaco-workbench windows chromium noauxiliarybar floating-panels panel-position-bottom panel-alignment-center floating-panel-outer-right maximized vs-dark vscode-theme-defaults-themes-2026-dark-json', auto_id='', handle=None, rect={'left': 0, 'top': 0, 'right': 2561, 'bottom': 1529, 'width': 2561, 'height': 1529}
+015. title='', type='Pane', class='MozillaCompositorWindowClass', auto_id='', handle=67996, rect={'left': 0, 'top': 0, 'right': 2560, 'bottom': 1528, 'width': 2560, 'height': 1528}
+016. title='Program Manager', type='Pane', class='Progman', auto_id='', handle=66110, rect={'left': 0, 'top': 0, 'right': 2560, 'bottom': 1600, 'width': 2560, 'height': 1600}
+017. title='mapper_report_export.py - LEAPsteelPy - Visual Studio Code', type='Pane', class='RootView', auto_id='', handle=None, rect={'left': 0, 'top': 0, 'right': 2561, 'bottom': 1529, 'width': 2561, 'height': 1529}
+018. title='ChatGPT - LEAP Software Automation — Mozilla Firefox', type='Window', class='MozillaWindowClass', auto_id='', handle=984442, rect={'left': 0, 'top': 0, 'right': 2560, 'bottom': 1528, 'width': 2560, 'height': 1528}
+019. title='', type='Group', class='part editor floating-editor-outer-right', auto_id='workbench.parts.editor', handle=None, rect={'left': 564, 'top': 52, 'right': 2549, 'bottom': 1240, 'width': 1985, 'height': 1188}
+020. title='mapper_report_export.py', type='Group', class='editor-instance', auto_id='', handle=None, rect={'left': 565, 'top': 134, 'right': 2547, 'bottom': 1239, 'width': 1982, 'height': 1105}
+021. title='', type='Text', class='monaco-editor no-user-select  showUnused showDeprecated vs-dark focused', auto_id='', handle=None, rect={'left': 565, 'top': 134, 'right': 2547, 'bottom': 1239, 'width': 1982, 'height': 1105}
+022. title='', type='Image', class='collapsedView', auto_id='', handle=None, rect={'left': 667, 'top': 134, 'right': 2406, 'bottom': 22257, 'width': 1739, 'height': 22123}
+023. title='Schoppee Ped ME 2025.obdx - OpenBridge Designer', type='Window', class='Window', auto_id='', handle=133704, rect={'left': 515, 'top': 164, 'right': 2045, 'bottom': 1364, 'width': 1530, 'height': 1200}
+024. title='ChatGPT - LEAP Software Automation', type='Document', class='', auto_id='', handle=None, rect={'left': 0, 'top': 169, 'right': 2560, 'bottom': 1528, 'width': 2560, 'height': 1359}
+025. title='', type='Pane', class='', auto_id='tabbrowser-tabpanels', handle=None, rect={'left': 0, 'top': 169, 'right': 2560, 'bottom': 1528, 'width': 2560, 'height': 1359}
+026. title='', type='Pane', class='browserSidebarContainer deck-selected', auto_id='panel-1-2', handle=None, rect={'left': 0, 'top': 169, 'right': 2560, 'bottom': 1528, 'width': 2560, 'height': 1359}
+027. title='', type='Group', class='@container/main relative flex min-w-0 flex-1 flex-col -translate-y-[calc(env(safe-area-inset-bottom,0px)/2)] pt-[calc(env(safe-area-inset-bottom,0px)/2)]', auto_id='', handle=None, rect={'left': 390, 'top': 169, 'right': 2560, 'bottom': 1528, 'width': 2170, 'height': 1359}
+028. title='', type='Group', class='@w-sm/main:[scrollbar-gutter:var(--stage-scroll-gutter)] touch:[scrollbar-width:none] group/scroll-root relative flex min-h-0 min-w-0 flex-1 flex-col [scrollbar-gutter:stable] not-print:overflow-x-clip not-print:overflow-y-auto group-data-stream-active/scroll-root:[overflow-anchor:none] not-print:data-expanded-composer:overflow-y-hidden! not-print:data-voice-focus-mode:overflow-y-hidden! scroll-pt-(--header-height) [--sticky-padding-top:var(--header-height)] [--sticky-padding-bottom:0px] [--scroll-root-safe-area-inset-top:calc(var(--sticky-padding-top)+env(safe-area-inset-top,0px))] [--scroll-root-safe-area-inset-bottom:calc(var(--sticky-padding-bottom)+var(--screen-keyboard-height,0px)+env(safe-area-inset-bottom,0px))] [--scroll-root-safe-area-height:calc(100lvh-var(--scroll-root-safe-area-inset-top)-var(--scroll-root-safe-area-inset-bottom))] has-data-[fixed-header=less-than-md]:md:scroll-pt-0 has-data-[fixed-header=less-than-md]:md:[--sticky-padding-top:0px] has-data-[fixed-header=never]:scroll-pt-0 has-data-[fixed-header=never]:[--sticky-padding-top:0px] has-data-[fixed-header=less-than-xl]:@w-xl/main:scroll-pt-0 has-data-[fixed-header=less-than-xl]:@w-xl/main:[--sticky-padding-top:0px] has-data-[fixed-header=less-than-xxl]:@w-2xl/main:scroll-pt-0 has-data-[fixed-header=less-than-xxl]:@w-2xl/main:[--sticky-padding-top:0px] group-data-[side-pane-shell-open]/side-pane-shell-host:[scrollbar-width:none] group-data-[side-pane-shell-open]/side-pane-shell-host:[&::-webkit-scrollbar]:hidden', auto_id='', handle=None, rect={'left': 390, 'top': 169, 'right': 2560, 'bottom': 1528, 'width': 2170, 'height': 1359}
+029. title='', type='Group', class='flex items-center justify-center gap-3 overflow-x-hidden', auto_id='', handle=None, rect={'left': 2338, 'top': 181, 'right': 2548, 'bottom': 235, 'width': 210, 'height': 54}
+030. title='Share', type='Button', class='btn relative group-focus-within/dialog:focus-visible:[outline-width:1.5px] group-focus-within/dialog:focus-visible:[outline-offset:2.5px] group-focus-within/dialog:focus-visible:[outline-style:solid] group-focus-within/dialog:focus-visible:[outline-color:var(--text-primary)] btn-ghost keyboard-focused:bg-token-surface-hover text-token-text-primary hover:bg-token-surface-hover rounded-lg max-sm:hidden', auto_id='', handle=None, rect={'left': 2356, 'top': 181, 'right': 2482, 'bottom': 235, 'width': 126, 'height': 54}
+031. title='', type='Group', class='flex items-center justify-end [scrollbar-width:none] overflow-x-hidden', auto_id='', handle=None, rect={'left': 2356, 'top': 181, 'right': 2548, 'bottom': 235, 'width': 192, 'height': 54}
+032. title='', type='Group', class='flex items-center justify-center gap-2 rounded-lg translucent-surface', auto_id='conversation-header-actions', handle=None, rect={'left': 2356, 'top': 181, 'right': 2548, 'bottom': 235, 'width': 192, 'height': 54}
+033. title='', type='Group', class='', auto_id='', handle=None, rect={'left': 2356, 'top': 181, 'right': 2482, 'bottom': 235, 'width': 126, 'height': 54}
+034. title='More', type='Button', class='text-token-text-primary contrast-high:not-dark:keyboard-focused:focus-ring no-draggable hover:bg-token-surface-hover keyboard-focused:bg-token-surface-hover touch:h-10 touch:w-10 flex h-9 w-9 items-center justify-center rounded-lg outline-none disabled:opacity-50', auto_id='conversation-options-WEB:3978680e-36e8-4ba1-9698-aa9d9998d12c', handle=None, rect={'left': 2494, 'top': 181, 'right': 2548, 'bottom': 235, 'width': 54, 'height': 54}
+035. title='', type='Group', class='relative', auto_id='radix-_r_19d_', handle=None, rect={'left': 2494, 'top': 181, 'right': 2548, 'bottom': 235, 'width': 54, 'height': 54}
+036. title='', type='Pane', class='DUIViewWndClassName', auto_id='', handle=133250, rect={'left': 0, 'top': 193, 'right': 2560, 'bottom': 1528, 'width': 2560, 'height': 1335}
+037. title='output', type='Pane', class='ShellTabWindowClass', auto_id='', handle=395232, rect={'left': 0, 'top': 193, 'right': 2560, 'bottom': 1528, 'width': 2560, 'height': 1335}
+038. title='Header', type='Header', class='UIViewHeader', auto_id='', handle=None, rect={'left': 597, 'top': 193, 'right': 2560, 'bottom': 234, 'width': 1963, 'height': 41}
+039. title='Items View', type='List', class='UIItemsView', auto_id='', handle=1445230, rect={'left': 597, 'top': 193, 'right': 2560, 'bottom': 1489, 'width': 1963, 'height': 1296}
+040. title='Shell Folder View', type='Pane', class='DUIListView', auto_id='listview', handle=2624520, rect={'left': 597, 'top': 193, 'right': 2560, 'bottom': 1489, 'width': 1963, 'height': 1296}
+041. title='', type='Pane', class='WindowsForms10.Window.0.app.0.14e5db8_r27_ad1', auto_id='', handle=4000494, rect={'left': 259, 'top': 198, 'right': 2208, 'bottom': 1437, 'width': 1949, 'height': 1239}
+042. title='', type='Group', class='corner-superellipse/0.98 relative min-w-0 overflow-hidden rounded-[22px] px-4 py-2.5 leading-6 user-message-bubble-color rounded-se-lg max-w-(--user-chat-width,70%)', auto_id='', handle=None, rect={'left': 1775, 'top': 205, 'right': 2051, 'bottom': 271, 'width': 276, 'height': 66}
+043. title='', type='Pane', class='AfxFrameOrView140u', auto_id='59648', handle=658202, rect={'left': 204, 'top': 207, 'right': 2218, 'bottom': 1492, 'width': 2014, 'height': 1285}
+044. title='', type='Pane', class='Afx:Slider:ecf30000:8:10003:10', auto_id='', handle=133788, rect={'left': 2218, 'top': 207, 'right': 2222, 'bottom': 1492, 'width': 4, 'height': 1285}
+045. title='Bridge Tree View', type='Pane', class='Afx:ControlBar:ecf30000:8:10003:10', auto_id='32941', handle=199296, rect={'left': 2222, 'top': 207, 'right': 2422, 'bottom': 1492, 'width': 200, 'height': 1285}
+046. title='', type='Pane', class='Afx:Slider:ecf30000:8:10003:10', auto_id='', handle=133842, rect={'left': 2422, 'top': 207, 'right': 2426, 'bottom': 1492, 'width': 4, 'height': 1285}
+047. title='Bridge Properties', type='Pane', class='Afx:ControlBar:ecf30000:8:10003:10', auto_id='32940', handle=330332, rect={'left': 2426, 'top': 207, 'right': 2560, 'bottom': 1492, 'width': 134, 'height': 1285}
+048. title='', type='Pane', class='AfxFrameOrView140u', auto_id='59648', handle=330556, rect={'left': 205, 'top': 208, 'right': 2217, 'bottom': 1491, 'width': 2012, 'height': 1283}
+049. title='', type='Pane', class='Afx:00007FF6ECF30000:0:0000000000000000:0000000000000006:0000000000000000', auto_id='', handle=461598, rect={'left': 206, 'top': 209, 'right': 2216, 'bottom': 1490, 'width': 2010, 'height': 1281}
+050. title='', type='Pane', class='Afx:ToolBar:ecf30000:8:10003:10', auto_id='9006', handle=3148608, rect={'left': 206, 'top': 209, 'right': 2216, 'bottom': 245, 'width': 2010, 'height': 36}
+051. title='', type='Pane', class='Afx:ToolBar:ecf30000:8:10003:10', auto_id='9018', handle=1444674, rect={'left': 206, 'top': 209, 'right': 2128, 'bottom': 245, 'width': 1922, 'height': 36}
+052. title='', type='Pane', class='Afx:ToolBar:ecf30000:8:10003:10', auto_id='9022', handle=1182596, rect={'left': 206, 'top': 209, 'right': 2128, 'bottom': 245, 'width': 1922, 'height': 36}
+053. title='', type='Pane', class='Afx:ToolBar:ecf30000:8:10003:10', auto_id='9020', handle=2100114, rect={'left': 206, 'top': 209, 'right': 2128, 'bottom': 245, 'width': 1922, 'height': 36}
+054. title='Rad Menu', type='Menu', class='RadMenu', auto_id='', handle=None, rect={'left': 526, 'top': 209, 'right': 2034, 'bottom': 248, 'width': 1508, 'height': 39}
+055. title='Preview', type='Window', class='WindowsForms10.Window.8.app.0.14e5db8_r27_ad1', auto_id='PrintPreviewRibbonFormExBase', handle=4196774, rect={'left': 271, 'top': 210, 'right': 2196, 'bottom': 1425, 'width': 1925, 'height': 1215}
+056. title='The Ribbon', type='Pane', class='WindowsForms10.Window.8.app.0.14e5db8_r27_ad1', auto_id='1837814', handle=1837814, rect={'left': 272, 'top': 210, 'right': 2195, 'bottom': 403, 'width': 1923, 'height': 193}
+057. title='Ribbon Display Options', type='Button', class='', auto_id='', handle=None, rect={'left': 1913, 'top': 211, 'right': 1983, 'bottom': 256, 'width': 70, 'height': 45}
+058. title='Ribbon Form Buttons', type='TitleBar', class='', auto_id='', handle=None, rect={'left': 1913, 'top': 211, 'right': 2195, 'bottom': 256, 'width': 282, 'height': 45}
+059. title='Minimize', type='Button', class='', auto_id='', handle=None, rect={'left': 1985, 'top': 211, 'right': 2054, 'bottom': 256, 'width': 69, 'height': 45}
+060. title='Maximize', type='Button', class='', auto_id='', handle=None, rect={'left': 2056, 'top': 211, 'right': 2125, 'bottom': 256, 'width': 69, 'height': 45}
+061. title='Close', type='Button', class='', auto_id='', handle=None, rect={'left': 2127, 'top': 211, 'right': 2195, 'bottom': 255, 'width': 68, 'height': 44}
+062. title='', type='Group', class='max-w-full min-w-0 [overflow-wrap:anywhere] whitespace-pre-wrap', auto_id='', handle=None, rect={'left': 1799, 'top': 220, 'right': 2027, 'bottom': 256, 'width': 228, 'height': 36}
+063. title='Minimize', type='Button', class='', auto_id='', handle=None, rect={'left': 2085, 'top': 220, 'right': 2120, 'bottom': 255, 'width': 35, 'height': 35}
+064. title='Maximize', type='Button', class='', auto_id='', handle=None, rect={'left': 2118, 'top': 220, 'right': 2153, 'bottom': 255, 'width': 35, 'height': 35}
+065. title='Close', type='Button', class='', auto_id='', handle=None, rect={'left': 2151, 'top': 220, 'right': 2186, 'bottom': 255, 'width': 35, 'height': 35}
+066. title='', type='TitleBar', class='', auto_id='', handle=None, rect={'left': 282, 'top': 221, 'right': 2185, 'bottom': 255, 'width': 1903, 'height': 34}
+067. title='oops. forgot to paste.', type='Text', class='', auto_id='', handle=None, rect={'left': 1799, 'top': 222, 'right': 2027, 'bottom': 254, 'width': 228, 'height': 32}
+068. title='', type='Tree', class='SysTreeView32', auto_id='1', handle=133752, rect={'left': 2222, 'top': 240, 'right': 2422, 'bottom': 1492, 'width': 200, 'height': 1252}
+069. title='', type='ComboBox', class='ComboBox', auto_id='1', handle=133736, rect={'left': 2426, 'top': 240, 'right': 2560, 'bottom': 268, 'width': 134, 'height': 28}
+070. title='Bridge 1', type='TreeItem', class='', auto_id='', handle=None, rect={'left': 2284, 'top': 241, 'right': 2359, 'bottom': 269, 'width': 75, 'height': 28}
+071. title='Open', type='Button', class='', auto_id='DropDown', handle=None, rect={'left': 2535, 'top': 241, 'right': 2559, 'bottom': 267, 'width': 24, 'height': 26}
+072. title='This folder is empty.', type='Text', class='Element', auto_id='EmptyTextFocusable', handle=None, rect={'left': 597, 'top': 243, 'right': 2560, 'bottom': 296, 'width': 1963, 'height': 53}
+073. title='Lower Ribbon', type='Pane', class='', auto_id='', handle=None, rect={'left': 272, 'top': 258, 'right': 2195, 'bottom': 403, 'width': 1923, 'height': 145}
+074. title='Print Preview', type='Pane', class='', auto_id='', handle=None, rect={'left': 272, 'top': 258, 'right': 2195, 'bottom': 403, 'width': 1923, 'height': 145}
+075. title='Page Background', type='ToolBar', class='', auto_id='', handle=None, rect={'left': 1860, 'top': 258, 'right': 2025, 'bottom': 402, 'width': 165, 'height': 144}
+076. title='Export', type='ToolBar', class='', auto_id='', handle=None, rect={'left': 2025, 'top': 258, 'right': 2095, 'bottom': 402, 'width': 70, 'height': 144}
+077. title='Close', type='ToolBar', class='', auto_id='', handle=None, rect={'left': 2095, 'top': 258, 'right': 2176, 'bottom': 402, 'width': 81, 'height': 144}
+078. title='Close', type='Button', class='', auto_id='', handle=None, rect={'left': 2104, 'top': 265, 'right': 2164, 'bottom': 371, 'width': 60, 'height': 106}
+079. title='Header Control', type='Header', class='SysHeader32', auto_id='Header', handle=133742, rect={'left': 2426, 'top': 268, 'right': 2560, 'bottom': 296, 'width': 134, 'height': 28}
+080. title='Property', type='HeaderItem', class='', auto_id='HeaderItem 0', handle=None, rect={'left': 2426, 'top': 268, 'right': 2495, 'bottom': 296, 'width': 69, 'height': 28}
+081. title='PropertyList', type='List', class='Afx:PropList:ecf30000:8:10003:10', auto_id='2', handle=133740, rect={'left': 2426, 'top': 268, 'right': 2560, 'bottom': 1492, 'width': 134, 'height': 1224}
+082. title='Value', type='HeaderItem', class='', auto_id='HeaderItem 1', handle=None, rect={'left': 2495, 'top': 268, 'right': 2639, 'bottom': 296, 'width': 144, 'height': 28}
+083. title='Superstructure', type='TreeItem', class='', auto_id='', handle=None, rect={'left': 2303, 'top': 269, 'right': 2421, 'bottom': 297, 'width': 118, 'height': 28}
+084. title='Page Color', type='Button', class='', auto_id='', handle=None, rect={'left': 1872, 'top': 275, 'right': 2010, 'bottom': 311, 'width': 138, 'height': 36}
+085. title='Press', type='Button', class='', auto_id='', handle=None, rect={'left': 2030, 'top': 275, 'right': 2066, 'bottom': 311, 'width': 36, 'height': 36}
+086. title='Export To', type='SplitButton', class='', auto_id='', handle=None, rect={'left': 2030, 'top': 275, 'right': 2088, 'bottom': 311, 'width': 58, 'height': 36}
+087. title='Open', type='MenuItem', class='', auto_id='', handle=None, rect={'left': 2066, 'top': 275, 'right': 2088, 'bottom': 311, 'width': 22, 'height': 36}
+088. title='Substructure', type='TreeItem', class='', auto_id='', handle=None, rect={'left': 2303, 'top': 297, 'right': 2407, 'bottom': 325, 'width': 104, 'height': 28}
+089. title='Service Desk', type='ListItem', class='', auto_id='', handle=None, rect={'left': 2185, 'top': 299, 'right': 2299, 'bottom': 403, 'width': 114, 'height': 104}
+090. title='', type='Separator', class='Separator', auto_id='', handle=None, rect={'left': 526, 'top': 306, 'right': 2034, 'bottom': 308, 'width': 1508, 'height': 2}
+091. title='Watermark', type='Button', class='', auto_id='', handle=None, rect={'left': 1872, 'top': 324, 'right': 1993, 'bottom': 360, 'width': 121, 'height': 36}
+092. title='Press', type='Button', class='', auto_id='', handle=None, rect={'left': 2030, 'top': 324, 'right': 2066, 'bottom': 360, 'width': 36, 'height': 36}
+093. title='E-Mail As', type='SplitButton', class='', auto_id='', handle=None, rect={'left': 2030, 'top': 324, 'right': 2088, 'bottom': 360, 'width': 58, 'height': 36}
+094. title='Open', type='MenuItem', class='', auto_id='', handle=None, rect={'left': 2066, 'top': 324, 'right': 2088, 'bottom': 360, 'width': 22, 'height': 36}
+095. title='', type='Group', class='text-token-text-primary w-full focus:outline-none has-data-writing-block:pointer-events-none [&:has([data-writing-block])>*]:pointer-events-auto R6Vx5W_threadScrollVars scroll-mb-[calc(var(--scroll-root-safe-area-inset-bottom,0px)+var(--thread-response-height))] scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]', auto_id='', handle=None, rect={'left': 390, 'top': 331, 'right': 2560, 'bottom': 1542, 'width': 2170, 'height': 1211}
+096. title='', type='Group', class='min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal outline-none keyboard-focused:focus-ring [.text-message+&]:mt-1', auto_id='', handle=None, rect={'left': 899, 'top': 331, 'right': 2051, 'bottom': 1425, 'width': 1152, 'height': 1094}
+097. title='', type='Text', class='', auto_id='', handle=None, rect={'left': 899, 'top': 331, 'right': 2051, 'bottom': 373, 'width': 1152, 'height': 42}
+098. title='Snipping Tool', type='Window', class='XamlWindow', auto_id='', handle=2493300, rect={'left': 839, 'top': 380, 'right': 2039, 'bottom': 1180, 'width': 1200, 'height': 800}
+099. title='Maximize', type='Button', class='', auto_id='', handle=None, rect={'left': 1888, 'top': 381, 'right': 1958, 'bottom': 425, 'width': 70, 'height': 44}
+100. title='Close', type='Button', class='', auto_id='', handle=None, rect={'left': 1958, 'top': 381, 'right': 2029, 'bottom': 425, 'width': 71, 'height': 44}
+101. title='', type='TitleBar', class='', auto_id='', handle=None, rect={'left': 874, 'top': 383, 'right': 2028, 'bottom': 425, 'width': 1154, 'height': 42}
+102. title='', type='Text', class='', auto_id='', handle=None, rect={'left': 899, 'top': 397, 'right': 2051, 'bottom': 439, 'width': 1152, 'height': 42}
+103. title='', type='Pane', class='WindowsForms10.Window.8.app.0.14e5db8_r27_ad1', auto_id='fPrintControl', handle=2427686, rect={'left': 272, 'top': 403, 'right': 2195, 'bottom': 1388, 'width': 1923, 'height': 985}
+104. title='View', type='Pane', class='WindowsForms10.Window.8.app.0.14e5db8_r27_ad1', auto_id='DocumentViewer', handle=1641442, rect={'left': 632, 'top': 403, 'right': 2169, 'bottom': 1362, 'width': 1537, 'height': 959}
+105. title='Line Up', type='Button', class='', auto_id='', handle=None, rect={'left': 2169, 'top': 403, 'right': 2195, 'bottom': 429, 'width': 26, 'height': 26}
+106. title='', type='Pane', class='WindowsForms10.Window.8.app.0.14e5db8_r27_ad1', auto_id='sidePanel', handle=2952268, rect={'left': 2169, 'top': 403, 'right': 2195, 'bottom': 1388, 'width': 26, 'height': 985}
+107. title='Vertical', type='ScrollBar', class='WindowsForms10.Window.8.app.0.14e5db8_r27_ad1', auto_id='vScrollBar', handle=3476378, rect={'left': 2169, 'top': 403, 'right': 2195, 'bottom': 1362, 'width': 26, 'height': 959}
+108. title='Share', type='Button', class='AppBarButton', auto_id='ShareBarButton', handle=None, rect={'left': 1876, 'top': 425, 'right': 1936, 'bottom': 497, 'width': 60, 'height': 72}
+109. title='More app bar', type='Button', class='Button', auto_id='AppBarMoreOptionsButton', handle=None, rect={'left': 1956, 'top': 425, 'right': 2028, 'bottom': 497, 'width': 72, 'height': 72}
+110. title='Position', type='Thumb', class='', auto_id='', handle=None, rect={'left': 2169, 'top': 429, 'right': 2195, 'bottom': 455, 'width': 26, 'height': 26}
+111. title='1', type='Pane', class='', auto_id='', handle=None, rect={'left': 805, 'top': 441, 'right': 1996, 'bottom': 2125, 'width': 1191, 'height': 1684}
+112. title='Page Down', type='Button', class='', auto_id='', handle=None, rect={'left': 2169, 'top': 455, 'right': 2195, 'bottom': 1336, 'width': 26, 'height': 881}
+113. title='', type='Group', class='overflow-visible! px-0!', auto_id='', handle=None, rect={'left': 899, 'top': 463, 'right': 2051, 'bottom': 585, 'width': 1152, 'height': 122}
+114. title='', type='Group', class='select-none sticky z-2 top-(--sticky-padding-top)', auto_id='', handle=None, rect={'left': 900, 'top': 464, 'right': 2050, 'bottom': 536, 'width': 1150, 'height': 72}
+115. title='Run code', type='Button', class='btn relative group-focus-within/dialog:focus-visible:[outline-width:1.5px] group-focus-within/dialog:focus-visible:[outline-offset:2.5px] group-focus-within/dialog:focus-visible:[outline-style:solid] group-focus-within/dialog:focus-visible:[outline-color:var(--text-primary)] btn-ghost border-token-border-default ms-2 border font-sans', auto_id='', handle=None, rect={'left': 1931, 'top': 473, 'right': 2041, 'bottom': 527, 'width': 110, 'height': 54}
+116. title='', type='Image', class='-ms-0.5 icon', auto_id='', handle=None, rect={'left': 1947, 'top': 485, 'right': 1977, 'bottom': 515, 'width': 30, 'height': 30}
+117. title='Annotation Canvas', type='Group', class='NamedContainerAutomationPeer', auto_id='AnnotateCanvas', handle=None, rect={'left': 850, 'top': 499, 'right': 2028, 'bottom': 1097, 'width': 1178, 'height': 598}
+118. title='', type='Pane', class='ScrollViewer', auto_id='AnnotateCanvasScrollViewer', handle=None, rect={'left': 850, 'top': 499, 'right': 2028, 'bottom': 1097, 'width': 1178, 'height': 598}
+119. title='', type='Pane', class='InkCanvas', auto_id='AnnotateInkCanvas', handle=None, rect={'left': 850, 'top': 499, 'right': 2028, 'bottom': 1097, 'width': 1178, 'height': 598}
+120. title='Edit code', type='Edit', class='cm-content', auto_id='', handle=None, rect={'left': 900, 'top': 536, 'right': 2050, 'bottom': 584, 'width': 1150, 'height': 48}
+121. title='', type='Group', class='Rx43rG_codemirror z-10 flex h-full min-h-0 w-full flex-col items-stretch', auto_id='e3d34e8c-b025-419c-a81a-f3dd60d9a5f8:0:editor', handle=None, rect={'left': 900, 'top': 536, 'right': 2050, 'bottom': 584, 'width': 1150, 'height': 48}
+122. title='', type='Group', class='cm-editor ͼ1 ͼ2 ͼd ͼr', auto_id='', handle=None, rect={'left': 900, 'top': 536, 'right': 2050, 'bottom': 584, 'width': 1150, 'height': 48}
+123. title='', type='Group', class='cm-scroller', auto_id='', handle=None, rect={'left': 900, 'top': 536, 'right': 2050, 'bottom': 584, 'width': 1150, 'height': 48}
+124. title='', type='Group', class='cm-line', auto_id='', handle=None, rect={'left': 921, 'top': 536, 'right': 2029, 'bottom': 566, 'width': 1108, 'height': 30}
+125. title='Service Desk', type='ListItem', class='', auto_id='', handle=None, rect={'left': 2415, 'top': 593, 'right': 2529, 'bottom': 697, 'width': 114, 'height': 104}
+126. title='', type='Text', class='', auto_id='', handle=None, rect={'left': 899, 'top': 597, 'right': 2051, 'bottom': 639, 'width': 1152, 'height': 42}
+127. title='', type='Custom', class='AnalysisStandaloneView', auto_id='', handle=None, rect={'left': 901, 'top': 612, 'right': 2034, 'bottom': 1320, 'width': 1133, 'height': 708}
+128. title='', type='Text', class='', auto_id='', handle=None, rect={'left': 899, 'top': 663, 'right': 2051, 'bottom': 702, 'width': 1152, 'height': 39}
+129. title='', type='Group', class='overflow-visible! px-0!', auto_id='', handle=None, rect={'left': 899, 'top': 726, 'right': 2051, 'bottom': 848, 'width': 1152, 'height': 122}
+130. title='', type='Group', class='select-none sticky z-2 top-(--sticky-padding-top)', auto_id='', handle=None, rect={'left': 900, 'top': 727, 'right': 2050, 'bottom': 799, 'width': 1150, 'height': 72}
+131. title='Run code', type='Button', class='btn relative group-focus-within/dialog:focus-visible:[outline-width:1.5px] group-focus-within/dialog:focus-visible:[outline-offset:2.5px] group-focus-within/dialog:focus-visible:[outline-style:solid] group-focus-within/dialog:focus-visible:[outline-color:var(--text-primary)] btn-ghost border-token-border-default ms-2 border font-sans', auto_id='', handle=None, rect={'left': 1931, 'top': 736, 'right': 2041, 'bottom': 790, 'width': 110, 'height': 54}
+132. title='', type='Image', class='-ms-0.5 icon', auto_id='', handle=None, rect={'left': 1947, 'top': 748, 'right': 1977, 'bottom': 778, 'width': 30, 'height': 30}
+133. title='Edit code', type='Edit', class='cm-content', auto_id='', handle=None, rect={'left': 900, 'top': 799, 'right': 2050, 'bottom': 847, 'width': 1150, 'height': 48}
+134. title='', type='Group', class='Rx43rG_codemirror z-10 flex h-full min-h-0 w-full flex-col items-stretch', auto_id='e3d34e8c-b025-419c-a81a-f3dd60d9a5f8:1:editor', handle=None, rect={'left': 900, 'top': 799, 'right': 2050, 'bottom': 847, 'width': 1150, 'height': 48}
+135. title='', type='Group', class='cm-editor ͼ1 ͼ2 ͼd ͼr', auto_id='', handle=None, rect={'left': 900, 'top': 799, 'right': 2050, 'bottom': 847, 'width': 1150, 'height': 48}
+136. title='', type='Group', class='cm-scroller', auto_id='', handle=None, rect={'left': 900, 'top': 799, 'right': 2050, 'bottom': 847, 'width': 1150, 'height': 48}
+137. title='', type='Group', class='cm-line', auto_id='', handle=None, rect={'left': 921, 'top': 799, 'right': 2029, 'bottom': 829, 'width': 1108, 'height': 30}
+138. title='', type='Text', class='', auto_id='', handle=None, rect={'left': 899, 'top': 860, 'right': 2051, 'bottom': 899, 'width': 1152, 'height': 39}
+139. title='', type='Group', class='overflow-visible! px-0! PDq2pG_selectionAnchorContainer', auto_id='', handle=None, rect={'left': 899, 'top': 923, 'right': 2051, 'bottom': 1105, 'width': 1152, 'height': 182}
+140. title='', type='Group', class='select-none sticky z-2 top-(--sticky-padding-top)', auto_id='', handle=None, rect={'left': 900, 'top': 924, 'right': 2050, 'bottom': 996, 'width': 1150, 'height': 72}
+141. title='Run code', type='Button', class='btn relative group-focus-within/dialog:focus-visible:[outline-width:1.5px] group-focus-within/dialog:focus-visible:[outline-offset:2.5px] group-focus-within/dialog:focus-visible:[outline-style:solid] group-focus-within/dialog:focus-visible:[outline-color:var(--text-primary)] btn-ghost border-token-border-default ms-2 border font-sans', auto_id='', handle=None, rect={'left': 1931, 'top': 933, 'right': 2041, 'bottom': 987, 'width': 110, 'height': 54}
+142. title='', type='Image', class='-ms-0.5 icon', auto_id='', handle=None, rect={'left': 1947, 'top': 945, 'right': 1977, 'bottom': 975, 'width': 30, 'height': 30}
+
+VISIBLE WIN32 CONTROLS NEAR EXPORT TO AFTER CLICK
+--------------------------------------------------------------------------------------------------------------
+001. title='ChatGPT - LEAP Software Automation — Mozilla Firefox', type='', class='MozillaWindowClass', auto_id='', handle=984442, rect={'left': -11, 'top': -11, 'right': 2571, 'bottom': 1539, 'width': 2582, 'height': 1550}
+002. title='SchoppeeGirders2025.lbsx - LEAP Bridge Steel 2025', type='', class='Afx:00007FF6ECF30000:b:0000000000010003:0000000000000006:00000000005A0A61', auto_id='', handle=396028, rect={'left': -11, 'top': -11, 'right': 2571, 'bottom': 1539, 'width': 2582, 'height': 1550}
+003. title='mapper_report_export.py - LEAPsteelPy - Visual Studio Code', type='', class='Chrome_WidgetWin_1', auto_id='', handle=526788, rect={'left': -11, 'top': -11, 'right': 2571, 'bottom': 1539, 'width': 2582, 'height': 1550}
+004. title='output - File Explorer', type='', class='CabinetWClass', auto_id='', handle=329688, rect={'left': -11, 'top': -11, 'right': 2571, 'bottom': 1539, 'width': 2582, 'height': 1550}
+005. title='', type='', class='Intermediate D3D Window', auto_id='', handle=198966, rect={'left': 0, 'top': 0, 'right': 2560, 'bottom': 1528, 'width': 2560, 'height': 1528}
+006. title='', type='', class='MozillaCompositorWindowClass', auto_id='', handle=67996, rect={'left': 0, 'top': 0, 'right': 2560, 'bottom': 1528, 'width': 2560, 'height': 1528}
+007. title='', type='', class='SHELLDLL_DefView', auto_id='', handle=66114, rect={'left': 0, 'top': 0, 'right': 2560, 'bottom': 1600, 'width': 2560, 'height': 1600}
+008. title='Chrome Legacy Window', type='', class='Chrome_RenderWidgetHostHWND', auto_id='', handle=198954, rect={'left': 0, 'top': 0, 'right': 2561, 'bottom': 1529, 'width': 2561, 'height': 1529}
+009. title='FolderView', type='', class='SysListView32', auto_id='', handle=66116, rect={'left': 0, 'top': 0, 'right': 2560, 'bottom': 1600, 'width': 2560, 'height': 1600}
+010. title='Program Manager', type='', class='Progman', auto_id='', handle=66110, rect={'left': 0, 'top': 0, 'right': 2560, 'bottom': 1600, 'width': 2560, 'height': 1600}
+011. title='Windows Input Experience', type='', class='Windows.UI.Core.CoreWindow', auto_id='', handle=132030, rect={'left': 0, 'top': 0, 'right': 2560, 'bottom': 1600, 'width': 2560, 'height': 1600}
+012. title='Settings', type='', class='ApplicationFrameWindow', auto_id='', handle=67816, rect={'left': 1544, 'top': 23, 'right': 2560, 'bottom': 941, 'width': 1016, 'height': 918}
+013. title='', type='', class='ApplicationFrameInputSinkWindow', auto_id='', handle=67842, rect={'left': 1555, 'top': 72, 'right': 2549, 'bottom': 930, 'width': 994, 'height': 858}
+014. title='Schoppee Ped ME 2025.obdx - OpenBridge Designer', type='', class='HwndWrapper[OpenBridgeDesigner.exe;;c0fe7b50-8d04-4e79-b497-0ec0c3394954]', auto_id='', handle=133704, rect={'left': 515, 'top': 164, 'right': 2045, 'bottom': 1364, 'width': 1530, 'height': 1200}
+015. title='', type='', class='DUIViewWndClassName', auto_id='', handle=133250, rect={'left': 0, 'top': 193, 'right': 2560, 'bottom': 1528, 'width': 2560, 'height': 1335}
+016. title='', type='', class='DirectUIHWND', auto_id='', handle=133246, rect={'left': 0, 'top': 193, 'right': 2560, 'bottom': 1528, 'width': 2560, 'height': 1335}
+017. title='output', type='', class='ShellTabWindowClass', auto_id='', handle=395232, rect={'left': 0, 'top': 193, 'right': 2560, 'bottom': 1528, 'width': 2560, 'height': 1335}
+018. title='', type='', class='CtrlNotifySink', auto_id='', handle=986226, rect={'left': 597, 'top': 193, 'right': 2560, 'bottom': 1489, 'width': 1963, 'height': 1296}
+019. title='', type='', class='DirectUIHWND', auto_id='', handle=1445230, rect={'left': 597, 'top': 193, 'right': 2560, 'bottom': 1489, 'width': 1963, 'height': 1296}
+020. title='ShellView', type='', class='SHELLDLL_DefView', auto_id='', handle=2624520, rect={'left': 597, 'top': 193, 'right': 2560, 'bottom': 1489, 'width': 1963, 'height': 1296}
+021. title='', type='', class='WindowsForms10.Window.0.app.0.14e5db8_r27_ad1', auto_id='', handle=4000494, rect={'left': 259, 'top': 198, 'right': 2208, 'bottom': 1437, 'width': 1949, 'height': 1239}
+022. title='', type='', class='AfxFrameOrView140u', auto_id='', handle=658202, rect={'left': 204, 'top': 207, 'right': 2218, 'bottom': 1492, 'width': 2014, 'height': 1285}
+023. title='', type='', class='Afx:Slider:ecf30000:8:10003:10', auto_id='', handle=133788, rect={'left': 2218, 'top': 207, 'right': 2222, 'bottom': 1492, 'width': 4, 'height': 1285}
+024. title='Bridge Tree View', type='', class='Afx:ControlBar:ecf30000:8:10003:10', auto_id='', handle=199296, rect={'left': 2222, 'top': 207, 'right': 2422, 'bottom': 1492, 'width': 200, 'height': 1285}
+025. title='', type='', class='Afx:Slider:ecf30000:8:10003:10', auto_id='', handle=133842, rect={'left': 2422, 'top': 207, 'right': 2426, 'bottom': 1492, 'width': 4, 'height': 1285}
+026. title='Bridge Properties', type='', class='Afx:ControlBar:ecf30000:8:10003:10', auto_id='', handle=330332, rect={'left': 2426, 'top': 207, 'right': 2560, 'bottom': 1492, 'width': 134, 'height': 1285}
+027. title='', type='', class='AfxFrameOrView140u', auto_id='', handle=330556, rect={'left': 205, 'top': 208, 'right': 2217, 'bottom': 1491, 'width': 2012, 'height': 1283}
+028. title='', type='', class='Afx:00007FF6ECF30000:0:0000000000000000:0000000000000006:0000000000000000', auto_id='', handle=461598, rect={'left': 206, 'top': 209, 'right': 2216, 'bottom': 1490, 'width': 2010, 'height': 1281}
+029. title='', type='', class='Afx:ToolBar:ecf30000:8:10003:10', auto_id='', handle=3148608, rect={'left': 206, 'top': 209, 'right': 2216, 'bottom': 245, 'width': 2010, 'height': 36}
+030. title='', type='', class='Afx:ToolBar:ecf30000:8:10003:10', auto_id='', handle=1444674, rect={'left': 206, 'top': 209, 'right': 2128, 'bottom': 245, 'width': 1922, 'height': 36}
+031. title='', type='', class='Afx:ToolBar:ecf30000:8:10003:10', auto_id='', handle=1182596, rect={'left': 206, 'top': 209, 'right': 2128, 'bottom': 245, 'width': 1922, 'height': 36}
+032. title='', type='', class='Afx:ToolBar:ecf30000:8:10003:10', auto_id='', handle=2100114, rect={'left': 206, 'top': 209, 'right': 2128, 'bottom': 245, 'width': 1922, 'height': 36}
+033. title='Preview', type='DevExpress.XtraPrinting.Preview.PrintPreviewRibbonFormEx', class='WindowsForms10.Window.8.app.0.14e5db8_r27_ad1', auto_id='PrintPreviewRibbonFormExBase', handle=4196774, rect={'left': 271, 'top': 210, 'right': 2196, 'bottom': 1425, 'width': 1925, 'height': 1215}
+034. title='', type='DevExpress.XtraBars.Ribbon.RibbonControl', class='WindowsForms10.Window.8.app.0.14e5db8_r27_ad1', auto_id='', handle=1837814, rect={'left': 272, 'top': 210, 'right': 2195, 'bottom': 403, 'width': 1923, 'height': 193}
+035. title='', type='', class='SysTreeView32', auto_id='', handle=133752, rect={'left': 2222, 'top': 240, 'right': 2422, 'bottom': 1492, 'width': 200, 'height': 1252}
+036. title='', type='', class='ComboBox', auto_id='', handle=133736, rect={'left': 2426, 'top': 240, 'right': 2560, 'bottom': 268, 'width': 134, 'height': 28}
+037. title='', type='', class='#32770', auto_id='', handle=657624, rect={'left': 206, 'top': 245, 'right': 2216, 'bottom': 1490, 'width': 2010, 'height': 1245}
+038. title='', type='', class='Afx:PropList:ecf30000:8:10003:10', auto_id='', handle=133740, rect={'left': 2426, 'top': 268, 'right': 2560, 'bottom': 1492, 'width': 134, 'height': 1224}
+039. title='', type='', class='SysHeader32', auto_id='', handle=133742, rect={'left': 2426, 'top': 268, 'right': 2560, 'bottom': 296, 'width': 134, 'height': 28}
+040. title='', type='', class='ScrollBar', auto_id='', handle=133744, rect={'left': 2426, 'top': 268, 'right': 2426, 'bottom': 268, 'width': 0, 'height': 0}
+041. title='Snipping Tool', type='', class='XamlWindow', auto_id='', handle=2493300, rect={'left': 839, 'top': 380, 'right': 2039, 'bottom': 1180, 'width': 1200, 'height': 800}
+042. title='', type='DevExpress.XtraPrinting.Preview.DocumentViewer', class='WindowsForms10.Window.8.app.0.14e5db8_r27_ad1', auto_id='fPrintControl', handle=2427686, rect={'left': 272, 'top': 403, 'right': 2195, 'bottom': 1388, 'width': 1923, 'height': 985}
+043. title='', type='DevExpress.DocumentView.Controls.ViewControl', class='WindowsForms10.Window.8.app.0.14e5db8_r27_ad1', auto_id='DocumentViewer', handle=1641442, rect={'left': 632, 'top': 403, 'right': 2169, 'bottom': 1362, 'width': 1537, 'height': 959}
+044. title='', type='DevExpress.XtraPrinting.Control.FindPanel', class='WindowsForms10.Window.8.app.0.14e5db8_r27_ad1', auto_id='', handle=3345412, rect={'left': 632, 'top': 403, 'right': 2195, 'bottom': 403, 'width': 1563, 'height': 0}
+045. title='', type='DevExpress.XtraEditors.VScrollBar', class='WindowsForms10.Window.8.app.0.14e5db8_r27_ad1', auto_id='vScrollBar', handle=3476378, rect={'left': 2169, 'top': 403, 'right': 2195, 'bottom': 1362, 'width': 26, 'height': 959}
+046. title='', type='System.Windows.Forms.Panel', class='WindowsForms10.Window.8.app.0.14e5db8_r27_ad1', auto_id='sidePanel', handle=2952268, rect={'left': 2169, 'top': 403, 'right': 2195, 'bottom': 1388, 'width': 26, 'height': 985}
+047. title='DesktopWindowXamlSource', type='', class='Windows.UI.Composition.DesktopWindowContentBridge', auto_id='', handle=2100010, rect={'left': 850, 'top': 425, 'right': 2028, 'bottom': 1169, 'width': 1178, 'height': 744}
+
+LOOK FOR
+--------------------------------------------------------------------------------------------------------------
+- text such as "PDF File", "HTML File", "MHT File", "RTF File", "XLS File", "XLSX File", "CSV File", "Text File", or "Image File"
+- a new popup/window whose rectangle closely surrounds the visible Export To dropdown
+- repeated vertically stacked controls with similar widths/heights; the first such row is likely PDF File
+- stable class names / handles / relative rectangles that can be used instead of absolute screen coordinates
+

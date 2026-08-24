@@ -1,0 +1,65 @@
+========================================================================================================================
+LEAP PDF SAVE AS MAP - WIN32
+========================================================================================================================
+
+DIALOG
+------------------------------------------------------------------------------------------------------------------------
+{
+  "title": "Save As",
+  "control_type": "",
+  "class_name": "#32770",
+  "automation_id": "",
+  "handle": 1182722,
+  "rectangle": {
+    "left": 514,
+    "top": 254,
+    "right": 1474,
+    "bottom": 794,
+    "width": 960,
+    "height": 540
+  },
+  "visible": true,
+  "enabled": true
+}
+
+VISIBLE CONTROLS
+------------------------------------------------------------------------------------------------------------------------
+001. title='Save As' | type='' | class='#32770' | auto_id='' | handle=1182722 | rect={'left': 514, 'top': 254, 'right': 1474, 'bottom': 794, 'width': 960, 'height': 540}
+002. title='' | type='' | class='WorkerW' | auto_id='' | handle=4655920 | rect={'left': 522, 'top': 285, 'right': 1466, 'bottom': 340, 'width': 944, 'height': 55}
+003. title='' | type='' | class='ReBarWindow32' | auto_id='' | handle=4065554 | rect={'left': 522, 'top': 285, 'right': 1466, 'bottom': 340, 'width': 944, 'height': 55}
+004. title='' | type='' | class='Address Band Root' | auto_id='' | handle=1248250 | rect={'left': 658, 'top': 285, 'right': 1241, 'bottom': 337, 'width': 583, 'height': 52}
+005. title='' | type='' | class='UniversalSearchBand' | auto_id='' | handle=1968958 | rect={'left': 1251, 'top': 291, 'right': 1455, 'bottom': 331, 'width': 204, 'height': 40}
+006. title='' | type='' | class='UpBand' | auto_id='' | handle=1510212 | rect={'left': 622, 'top': 293, 'right': 658, 'bottom': 329, 'width': 36, 'height': 36}
+007. title='' | type='' | class='TravelBand' | auto_id='' | handle=4262926 | rect={'left': 522, 'top': 294, 'right': 622, 'bottom': 328, 'width': 100, 'height': 34}
+008. title='' | type='' | class='Search Box' | auto_id='' | handle=1313816 | rect={'left': 1251, 'top': 294, 'right': 1455, 'bottom': 330, 'width': 204, 'height': 36}
+009. title='' | type='' | class='SearchEditBoxWrapperClass' | auto_id='' | handle=2688998 | rect={'left': 1256, 'top': 294, 'right': 1450, 'bottom': 330, 'width': 194, 'height': 36}
+010. title='' | type='' | class='DirectUIHWND' | auto_id='' | handle=2687156 | rect={'left': 1256, 'top': 294, 'right': 1450, 'bottom': 330, 'width': 194, 'height': 36}
+011. title='' | type='' | class='msctls_progress32' | auto_id='' | handle=2230112 | rect={'left': 660, 'top': 295, 'right': 1239, 'bottom': 329, 'width': 579, 'height': 34}
+012. title='' | type='' | class='Breadcrumb Parent' | auto_id='' | handle=1968962 | rect={'left': 660, 'top': 295, 'right': 1171, 'bottom': 329, 'width': 511, 'height': 34}
+013. title='Address: C:\\Users\\Andrew.Hummers\\OneDrive - Trilon Group Family of Companies\\Desktop' | type='' | class='ToolbarWindow32' | auto_id='' | handle=2165672 | rect={'left': 666, 'top': 295, 'right': 1171, 'bottom': 329, 'width': 505, 'height': 34}
+014. title='Address band' | type='' | class='ToolbarWindow32' | auto_id='' | handle=2362064 | rect={'left': 1171, 'top': 295, 'right': 1239, 'bottom': 329, 'width': 68, 'height': 34}
+015. title='Navigation buttons' | type='' | class='ToolbarWindow32' | auto_id='' | handle=724082 | rect={'left': 526, 'top': 296, 'right': 622, 'bottom': 328, 'width': 96, 'height': 32}
+016. title='Up band' | type='' | class='ToolbarWindow32' | auto_id='' | handle=4656136 | rect={'left': 622, 'top': 296, 'right': 658, 'bottom': 332, 'width': 36, 'height': 36}
+017. title='' | type='' | class='SeparatorBand' | auto_id='' | handle=593036 | rect={'left': 1245, 'top': 310, 'right': 1251, 'bottom': 311, 'width': 6, 'height': 1}
+018. title='' | type='' | class='SeparatorBand' | auto_id='' | handle=2951434 | rect={'left': 1459, 'top': 310, 'right': 1466, 'bottom': 311, 'width': 7, 'height': 1}
+019. title='' | type='' | class='DUIViewWndClassName' | auto_id='' | handle=2099994 | rect={'left': 522, 'top': 340, 'right': 1466, 'bottom': 729, 'width': 944, 'height': 389}
+020. title='' | type='' | class='DirectUIHWND' | auto_id='' | handle=1117162 | rect={'left': 522, 'top': 340, 'right': 1466, 'bottom': 729, 'width': 944, 'height': 389}
+021. title='' | type='' | class='CtrlNotifySink' | auto_id='' | handle=724074 | rect={'left': 524, 'top': 371, 'right': 790, 'bottom': 629, 'width': 266, 'height': 258}
+022. title='Namespace Tree Control' | type='' | class='NamespaceTreeControl' | auto_id='' | handle=2820850 | rect={'left': 524, 'top': 371, 'right': 790, 'bottom': 629, 'width': 266, 'height': 258}
+023. title='Navigation Pane' | type='' | class='SysTreeView32' | auto_id='' | handle=1313676 | rect={'left': 524, 'top': 371, 'right': 790, 'bottom': 629, 'width': 266, 'height': 258}
+024. title='' | type='' | class='CtrlNotifySink' | auto_id='' | handle=3607654 | rect={'left': 794, 'top': 371, 'right': 1466, 'bottom': 629, 'width': 672, 'height': 258}
+025. title='' | type='' | class='DirectUIHWND' | auto_id='' | handle=2034704 | rect={'left': 794, 'top': 371, 'right': 1466, 'bottom': 629, 'width': 672, 'height': 258}
+026. title='ShellView' | type='' | class='SHELLDLL_DefView' | auto_id='' | handle=3211306 | rect={'left': 794, 'top': 371, 'right': 1466, 'bottom': 629, 'width': 672, 'height': 258}
+027. title='' | type='' | class='CtrlNotifySink' | auto_id='' | handle=3017688 | rect={'left': 794, 'top': 612, 'right': 1466, 'bottom': 629, 'width': 672, 'height': 17}
+028. title='' | type='' | class='ScrollBar' | auto_id='' | handle=2755458 | rect={'left': 794, 'top': 612, 'right': 1466, 'bottom': 629, 'width': 672, 'height': 17}
+029. title='' | type='' | class='FloatNotifySink' | auto_id='' | handle=1641164 | rect={'left': 647, 'top': 640, 'right': 1461, 'bottom': 663, 'width': 814, 'height': 23}
+030. title='NodeDisplacementsReport.pdf' | type='' | class='ComboBox' | auto_id='' | handle=396434 | rect={'left': 647, 'top': 640, 'right': 1461, 'bottom': 663, 'width': 814, 'height': 23}
+031. title='NodeDisplacementsReport.pdf' | type='' | class='Edit' | auto_id='' | handle=3148856 | rect={'left': 650, 'top': 643, 'right': 1441, 'bottom': 660, 'width': 791, 'height': 17}
+032. title='' | type='' | class='FloatNotifySink' | auto_id='' | handle=3083336 | rect={'left': 647, 'top': 665, 'right': 1461, 'bottom': 688, 'width': 814, 'height': 23}
+033. title='PDF Document (*.pdf)' | type='' | class='ComboBox' | auto_id='' | handle=1641398 | rect={'left': 647, 'top': 665, 'right': 1461, 'bottom': 688, 'width': 814, 'height': 23}
+034. title='&Save' | type='' | class='Button' | auto_id='' | handle=1117036 | rect={'left': 1261, 'top': 743, 'right': 1349, 'bottom': 769, 'width': 88, 'height': 26}
+035. title='Cancel' | type='' | class='Button' | auto_id='' | handle=3017446 | rect={'left': 1361, 'top': 743, 'right': 1449, 'bottom': 769, 'width': 88, 'height': 26}
+036. title='' | type='' | class='ToolbarWindow32' | auto_id='' | handle=330930 | rect={'left': 532, 'top': 748, 'right': 638, 'bottom': 769, 'width': 106, 'height': 21}
+037. title='' | type='' | class='ScrollBar' | auto_id='' | handle=1248348 | rect={'left': 1449, 'top': 769, 'right': 1466, 'bottom': 786, 'width': 17, 'height': 17}
+
+Could not write control tree: AttributeError("'DialogWrapper' object has no attribute 'print_control_identifiers'")

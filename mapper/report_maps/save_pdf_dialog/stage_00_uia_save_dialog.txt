@@ -1,0 +1,443 @@
+========================================================================================================================
+LEAP PDF SAVE AS MAP - UIA
+========================================================================================================================
+
+DIALOG
+------------------------------------------------------------------------------------------------------------------------
+{
+  "title": "Preview",
+  "control_type": "Window",
+  "class_name": "WindowsForms10.Window.8.app.0.14e5db8_r27_ad1",
+  "automation_id": "PrintPreviewRibbonFormExBase",
+  "handle": 2952302,
+  "rectangle": {
+    "left": 174,
+    "top": 131,
+    "right": 1658,
+    "bottom": 888,
+    "width": 1484,
+    "height": 757
+  },
+  "visible": true,
+  "enabled": false
+}
+
+VISIBLE CONTROLS
+------------------------------------------------------------------------------------------------------------------------
+001. title='Desktop (OneDrive)' | type='TreeItem' | class='' | auto_id='' | handle=None | rect={'left': 0, 'top': 0, 'right': 0, 'bottom': 0, 'width': 0, 'height': 0}
+002. title='' | type='Pane' | class='WindowsForms10.Window.0.app.0.14e5db8_r27_ad1' | auto_id='' | handle=526878 | rect={'left': 166, 'top': 123, 'right': 1666, 'bottom': 896, 'width': 1500, 'height': 773}
+003. title='Preview' | type='Window' | class='WindowsForms10.Window.8.app.0.14e5db8_r27_ad1' | auto_id='PrintPreviewRibbonFormExBase' | handle=2952302 | rect={'left': 174, 'top': 131, 'right': 1658, 'bottom': 888, 'width': 1484, 'height': 757}
+004. title='The Ribbon' | type='Pane' | class='WindowsForms10.Window.8.app.0.14e5db8_r27_ad1' | auto_id='1575912' | handle=1575912 | rect={'left': 175, 'top': 131, 'right': 1657, 'bottom': 263, 'width': 1482, 'height': 132}
+005. title='Ribbon Display Options' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 1466, 'top': 132, 'right': 1513, 'bottom': 162, 'width': 47, 'height': 30}
+006. title='Ribbon Form Buttons' | type='TitleBar' | class='' | auto_id='' | handle=None | rect={'left': 1466, 'top': 132, 'right': 1657, 'bottom': 162, 'width': 191, 'height': 30}
+007. title='Minimize' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 1515, 'top': 132, 'right': 1561, 'bottom': 162, 'width': 46, 'height': 30}
+008. title='Maximize' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 1563, 'top': 132, 'right': 1609, 'bottom': 162, 'width': 46, 'height': 30}
+009. title='Close' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 1611, 'top': 132, 'right': 1657, 'bottom': 162, 'width': 46, 'height': 30}
+010. title='Minimize' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 1583, 'top': 138, 'right': 1607, 'bottom': 162, 'width': 24, 'height': 24}
+011. title='Maximize' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 1605, 'top': 138, 'right': 1629, 'bottom': 162, 'width': 24, 'height': 24}
+012. title='Close' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 1627, 'top': 138, 'right': 1651, 'bottom': 162, 'width': 24, 'height': 24}
+013. title='' | type='TitleBar' | class='' | auto_id='' | handle=None | rect={'left': 182, 'top': 139, 'right': 1650, 'bottom': 162, 'width': 1468, 'height': 23}
+014. title='Lower Ribbon' | type='Pane' | class='' | auto_id='' | handle=None | rect={'left': 175, 'top': 163, 'right': 1657, 'bottom': 263, 'width': 1482, 'height': 100}
+015. title='Print Preview' | type='Pane' | class='' | auto_id='' | handle=None | rect={'left': 175, 'top': 163, 'right': 1657, 'bottom': 263, 'width': 1482, 'height': 100}
+016. title='Document' | type='ToolBar' | class='' | auto_id='' | handle=None | rect={'left': 175, 'top': 163, 'right': 268, 'bottom': 262, 'width': 93, 'height': 99}
+017. title='Print' | type='ToolBar' | class='' | auto_id='' | handle=None | rect={'left': 268, 'top': 163, 'right': 424, 'bottom': 262, 'width': 156, 'height': 99}
+018. title='Page Setup' | type='ToolBar' | class='' | auto_id='' | handle=None | rect={'left': 424, 'top': 163, 'right': 624, 'bottom': 262, 'width': 200, 'height': 99}
+019. title='Navigation' | type='ToolBar' | class='' | auto_id='' | handle=None | rect={'left': 624, 'top': 163, 'right': 1021, 'bottom': 262, 'width': 397, 'height': 99}
+020. title='Zoom' | type='ToolBar' | class='' | auto_id='' | handle=None | rect={'left': 1021, 'top': 163, 'right': 1264, 'bottom': 262, 'width': 243, 'height': 99}
+021. title='Page Background' | type='ToolBar' | class='' | auto_id='' | handle=None | rect={'left': 1264, 'top': 163, 'right': 1394, 'bottom': 262, 'width': 130, 'height': 99}
+022. title='Export' | type='ToolBar' | class='' | auto_id='' | handle=None | rect={'left': 1394, 'top': 163, 'right': 1487, 'bottom': 262, 'width': 93, 'height': 99}
+023. title='Close' | type='ToolBar' | class='' | auto_id='' | handle=None | rect={'left': 1487, 'top': 163, 'right': 1543, 'bottom': 262, 'width': 56, 'height': 99}
+024. title='Pointer' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 1025, 'top': 167, 'right': 1049, 'bottom': 191, 'width': 24, 'height': 24}
+025. title='Open' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 179, 'top': 168, 'right': 221, 'bottom': 240, 'width': 42, 'height': 72}
+026. title='Save' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 221, 'top': 168, 'right': 263, 'bottom': 240, 'width': 42, 'height': 72}
+027. title='Print' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 272, 'top': 168, 'right': 314, 'bottom': 240, 'width': 42, 'height': 72}
+028. title='Quick Print' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 314, 'top': 168, 'right': 356, 'bottom': 240, 'width': 42, 'height': 72}
+029. title='Parameters' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 356, 'top': 168, 'right': 419, 'bottom': 240, 'width': 63, 'height': 72}
+030. title='Scale' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 428, 'top': 168, 'right': 470, 'bottom': 240, 'width': 42, 'height': 72}
+031. title='Margins' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 470, 'top': 168, 'right': 515, 'bottom': 240, 'width': 45, 'height': 72}
+032. title='Orientation' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 515, 'top': 168, 'right': 577, 'bottom': 240, 'width': 62, 'height': 72}
+033. title='Size' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 577, 'top': 168, 'right': 619, 'bottom': 240, 'width': 42, 'height': 72}
+034. title='Find' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 628, 'top': 168, 'right': 670, 'bottom': 240, 'width': 42, 'height': 72}
+035. title='Thumbnails' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 670, 'top': 168, 'right': 731, 'bottom': 240, 'width': 61, 'height': 72}
+036. title='Bookmarks' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 731, 'top': 168, 'right': 790, 'bottom': 240, 'width': 59, 'height': 72}
+037. title='Editing Fields' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 790, 'top': 168, 'right': 832, 'bottom': 240, 'width': 42, 'height': 72}
+038. title='First Page' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 841, 'top': 168, 'right': 883, 'bottom': 240, 'width': 42, 'height': 72}
+039. title='Previous Page' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 883, 'top': 168, 'right': 932, 'bottom': 240, 'width': 49, 'height': 72}
+040. title='Next  Page' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 932, 'top': 168, 'right': 974, 'bottom': 240, 'width': 42, 'height': 72}
+041. title='Last  Page' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 974, 'top': 168, 'right': 1016, 'bottom': 240, 'width': 42, 'height': 72}
+042. title='Many Pages' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 1049, 'top': 168, 'right': 1115, 'bottom': 240, 'width': 66, 'height': 72}
+043. title='Zoom Out' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 1115, 'top': 168, 'right': 1170, 'bottom': 240, 'width': 55, 'height': 72}
+044. title='Zoom' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 1170, 'top': 168, 'right': 1212, 'bottom': 240, 'width': 42, 'height': 72}
+045. title='Zoom In' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 1212, 'top': 168, 'right': 1259, 'bottom': 240, 'width': 47, 'height': 72}
+046. title='Page Color' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 1268, 'top': 168, 'right': 1328, 'bottom': 240, 'width': 60, 'height': 72}
+047. title='Watermark' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 1328, 'top': 168, 'right': 1389, 'bottom': 240, 'width': 61, 'height': 72}
+048. title='Press' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 1398, 'top': 168, 'right': 1440, 'bottom': 209, 'width': 42, 'height': 41}
+049. title='Export To' | type='SplitButton' | class='' | auto_id='' | handle=None | rect={'left': 1398, 'top': 168, 'right': 1440, 'bottom': 240, 'width': 42, 'height': 72}
+050. title='Press' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 1440, 'top': 168, 'right': 1482, 'bottom': 209, 'width': 42, 'height': 41}
+051. title='E-Mail As' | type='SplitButton' | class='' | auto_id='' | handle=None | rect={'left': 1440, 'top': 168, 'right': 1482, 'bottom': 240, 'width': 42, 'height': 72}
+052. title='Close' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 1493, 'top': 168, 'right': 1535, 'bottom': 240, 'width': 42, 'height': 72}
+053. title='Hand Tool' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 1025, 'top': 192, 'right': 1049, 'bottom': 216, 'width': 24, 'height': 24}
+054. title='Open' | type='MenuItem' | class='' | auto_id='' | handle=None | rect={'left': 1398, 'top': 209, 'right': 1440, 'bottom': 240, 'width': 42, 'height': 31}
+055. title='Open' | type='MenuItem' | class='' | auto_id='' | handle=None | rect={'left': 1440, 'top': 209, 'right': 1482, 'bottom': 240, 'width': 42, 'height': 31}
+056. title='Magnifier' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 1025, 'top': 217, 'right': 1049, 'bottom': 241, 'width': 24, 'height': 24}
+057. title='Page Setup...' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 608, 'top': 248, 'right': 621, 'bottom': 261, 'width': 13, 'height': 13}
+058. title='Save As' | type='Window' | class='#32770' | auto_id='' | handle=1182722 | rect={'left': 514, 'top': 254, 'right': 1474, 'bottom': 794, 'width': 960, 'height': 540}
+059. title='Close' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 1433, 'top': 255, 'right': 1467, 'bottom': 285, 'width': 34, 'height': 30}
+060. title='' | type='TitleBar' | class='' | auto_id='' | handle=None | rect={'left': 538, 'top': 257, 'right': 1466, 'bottom': 285, 'width': 928, 'height': 28}
+061. title='System' | type='MenuBar' | class='' | auto_id='MenuBar' | handle=None | rect={'left': 522, 'top': 262, 'right': 544, 'bottom': 284, 'width': 22, 'height': 22}
+062. title='System' | type='MenuItem' | class='' | auto_id='' | handle=None | rect={'left': 522, 'top': 262, 'right': 544, 'bottom': 284, 'width': 22, 'height': 22}
+063. title='Parameters' | type='Custom' | class='' | auto_id='' | handle=None | rect={'left': 175, 'top': 263, 'right': 415, 'bottom': 563, 'width': 240, 'height': 300}
+064. title='panelContainer1' | type='Custom' | class='' | auto_id='' | handle=None | rect={'left': 175, 'top': 263, 'right': 415, 'bottom': 863, 'width': 240, 'height': 600}
+065. title='' | type='Pane' | class='WindowsForms10.Window.8.app.0.14e5db8_r27_ad1' | auto_id='fPrintControl' | handle=1510388 | rect={'left': 175, 'top': 263, 'right': 1657, 'bottom': 863, 'width': 1482, 'height': 600}
+066. title='Parameters' | type='Pane' | class='WindowsForms10.Window.8.app.0.14e5db8_r27_ad1' | auto_id='2099948' | handle=2099948 | rect={'left': 175, 'top': 263, 'right': 415, 'bottom': 563, 'width': 240, 'height': 300}
+067. title='panelContainer1' | type='Pane' | class='WindowsForms10.Window.8.app.0.14e5db8_r27_ad1' | auto_id='panelContainer1' | handle=855170 | rect={'left': 175, 'top': 263, 'right': 415, 'bottom': 863, 'width': 240, 'height': 600}
+068. title='Parameters' | type='TitleBar' | class='' | auto_id='' | handle=None | rect={'left': 175, 'top': 263, 'right': 415, 'bottom': 286, 'width': 240, 'height': 23}
+069. title='View' | type='Pane' | class='WindowsForms10.Window.8.app.0.14e5db8_r27_ad1' | auto_id='DocumentViewer' | handle=2427650 | rect={'left': 415, 'top': 263, 'right': 1640, 'bottom': 846, 'width': 1225, 'height': 583}
+070. title='Line Up' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 1640, 'top': 263, 'right': 1657, 'bottom': 280, 'width': 17, 'height': 17}
+071. title='' | type='Pane' | class='WindowsForms10.Window.8.app.0.14e5db8_r27_ad1' | auto_id='sidePanel' | handle=526880 | rect={'left': 1640, 'top': 263, 'right': 1657, 'bottom': 863, 'width': 17, 'height': 600}
+072. title='Vertical' | type='ScrollBar' | class='WindowsForms10.Window.8.app.0.14e5db8_r27_ad1' | auto_id='vScrollBar' | handle=1379156 | rect={'left': 1640, 'top': 263, 'right': 1657, 'bottom': 846, 'width': 17, 'height': 583}
+073. title='Maximize' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 354, 'top': 265, 'right': 372, 'bottom': 283, 'width': 18, 'height': 18}
+074. title='Auto Hide' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 374, 'top': 265, 'right': 392, 'bottom': 283, 'width': 18, 'height': 18}
+075. title='Close' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 394, 'top': 265, 'right': 412, 'bottom': 283, 'width': 18, 'height': 18}
+076. title='Position' | type='Thumb' | class='' | auto_id='' | handle=None | rect={'left': 1640, 'top': 280, 'right': 1657, 'bottom': 297, 'width': 17, 'height': 17}
+077. title='1' | type='Pane' | class='' | auto_id='' | handle=None | rect={'left': 631, 'top': 281, 'right': 1425, 'bottom': 1404, 'width': 794, 'height': 1123}
+078. title='' | type='Pane' | class='ReBarWindow32' | auto_id='40965' | handle=4065554 | rect={'left': 522, 'top': 285, 'right': 1466, 'bottom': 340, 'width': 944, 'height': 55}
+079. title='' | type='Pane' | class='Address Band Root' | auto_id='41477' | handle=1248250 | rect={'left': 658, 'top': 285, 'right': 1241, 'bottom': 337, 'width': 583, 'height': 52}
+080. title='' | type='Pane' | class='WindowsForms10.Window.8.app.0.14e5db8_r27_ad1' | auto_id='dockPanel1_Container' | handle=3541794 | rect={'left': 175, 'top': 286, 'right': 414, 'bottom': 563, 'width': 239, 'height': 277}
+081. title='' | type='Pane' | class='WindowsForms10.Window.8.app.0.14e5db8_r27_ad1' | auto_id='ParameterPanelUserControl' | handle=4393926 | rect={'left': 175, 'top': 286, 'right': 414, 'bottom': 563, 'width': 239, 'height': 277}
+082. title='' | type='Pane' | class='WindowsForms10.Window.8.app.0.14e5db8_r27_ad1' | auto_id='layoutControl1' | handle=2099978 | rect={'left': 175, 'top': 286, 'right': 414, 'bottom': 563, 'width': 239, 'height': 277}
+083. title='Root' | type='Pane' | class='' | auto_id='' | handle=None | rect={'left': 175, 'top': 286, 'right': 414, 'bottom': 563, 'width': 239, 'height': 277}
+084. title='' | type='Pane' | class='UniversalSearchBand' | auto_id='' | handle=1968958 | rect={'left': 1251, 'top': 291, 'right': 1455, 'bottom': 331, 'width': 204, 'height': 40}
+085. title='Group' | type='Pane' | class='' | auto_id='' | handle=None | rect={'left': 182, 'top': 293, 'right': 407, 'bottom': 439, 'width': 225, 'height': 146}
+086. title='panelRoot' | type='Pane' | class='' | auto_id='' | handle=None | rect={'left': 182, 'top': 293, 'right': 407, 'bottom': 439, 'width': 225, 'height': 146}
+087. title='' | type='Pane' | class='UpBand' | auto_id='' | handle=1510212 | rect={'left': 622, 'top': 293, 'right': 658, 'bottom': 329, 'width': 36, 'height': 36}
+088. title='' | type='Pane' | class='TravelBand' | auto_id='' | handle=4262926 | rect={'left': 522, 'top': 294, 'right': 622, 'bottom': 328, 'width': 100, 'height': 34}
+089. title='' | type='Pane' | class='Search Box' | auto_id='' | handle=1313816 | rect={'left': 1251, 'top': 294, 'right': 1455, 'bottom': 330, 'width': 204, 'height': 36}
+090. title='' | type='Pane' | class='SearchEditBoxWrapperClass' | auto_id='' | handle=2688998 | rect={'left': 1256, 'top': 294, 'right': 1450, 'bottom': 330, 'width': 194, 'height': 36}
+091. title='Search' | type='Button' | class='Button' | auto_id='SearchBoxSearchButton' | handle=None | rect={'left': 1420, 'top': 294, 'right': 1448, 'bottom': 330, 'width': 28, 'height': 36}
+092. title='' | type='Pane' | class='WindowsForms10.Window.8.app.0.14e5db8_r27_ad1' | auto_id='paramGroupSelectionUserControl' | handle=2821008 | rect={'left': 184, 'top': 295, 'right': 405, 'bottom': 317, 'width': 221, 'height': 22}
+093. title='' | type='Pane' | class='WindowsForms10.Window.8.app.0.14e5db8_r27_ad1' | auto_id='tablePanel1' | handle=3738352 | rect={'left': 184, 'top': 295, 'right': 405, 'bottom': 317, 'width': 221, 'height': 22}
+094. title='Group:' | type='Text' | class='WindowsForms10.Window.b.app.0.14e5db8_r27_ad1' | auto_id='labelControl1' | handle=1182488 | rect={'left': 184, 'top': 295, 'right': 246, 'bottom': 317, 'width': 62, 'height': 22}
+095. title='' | type='ComboBox' | class='WindowsForms10.Window.b.app.0.14e5db8_r27_ad1' | auto_id='paramGroupSelectionEditor' | handle=4459490 | rect={'left': 246, 'top': 295, 'right': 405, 'bottom': 317, 'width': 159, 'height': 22}
+096. title='' | type='Custom' | class='' | auto_id='' | handle=None | rect={'left': 246, 'top': 295, 'right': 405, 'bottom': 317, 'width': 159, 'height': 22}
+097. title='Group:' | type='Pane' | class='WindowsForms10.Window.8.app.0.14e5db8_r27_ad1' | auto_id='editorHost' | handle=2755462 | rect={'left': 246, 'top': 295, 'right': 405, 'bottom': 317, 'width': 159, 'height': 22}
+098. title='Open' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 389, 'top': 295, 'right': 405, 'bottom': 317, 'width': 16, 'height': 22}
+099. title='' | type='Pane' | class='Breadcrumb Parent' | auto_id='' | handle=1968962 | rect={'left': 660, 'top': 295, 'right': 1171, 'bottom': 329, 'width': 511, 'height': 34}
+100. title='Loading' | type='ProgressBar' | class='msctls_progress32' | auto_id='' | handle=2230112 | rect={'left': 660, 'top': 295, 'right': 1239, 'bottom': 329, 'width': 579, 'height': 34}
+101. title='All locations' | type='SplitButton' | class='' | auto_id='' | handle=None | rect={'left': 666, 'top': 295, 'right': 701, 'bottom': 328, 'width': 35, 'height': 33}
+102. title='Address: C:\\Users\\Andrew.Hummers\\OneDrive - Trilon Group Family of Companies\\Desktop' | type='ToolBar' | class='ToolbarWindow32' | auto_id='1001' | handle=2165672 | rect={'left': 666, 'top': 295, 'right': 1171, 'bottom': 329, 'width': 505, 'height': 34}
+103. title='Andrew - Trilon Group Family of Companies' | type='SplitButton' | class='' | auto_id='' | handle=None | rect={'left': 701, 'top': 295, 'right': 957, 'bottom': 328, 'width': 256, 'height': 33}
+104. title='\u200eDesktop' | type='MenuItem' | class='' | auto_id='' | handle=None | rect={'left': 957, 'top': 295, 'right': 1008, 'bottom': 328, 'width': 51, 'height': 33}
+105. title='Previous Locations' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 1171, 'top': 295, 'right': 1205, 'bottom': 329, 'width': 34, 'height': 34}
+106. title='Address band' | type='ToolBar' | class='ToolbarWindow32' | auto_id='' | handle=2362064 | rect={'left': 1171, 'top': 295, 'right': 1239, 'bottom': 329, 'width': 68, 'height': 34}
+107. title='Refresh "Desktop" (F5)' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 1205, 'top': 295, 'right': 1239, 'bottom': 329, 'width': 34, 'height': 34}
+108. title='Back (Alt + Left Arrow)' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 526, 'top': 296, 'right': 561, 'bottom': 328, 'width': 35, 'height': 32}
+109. title='Navigation buttons' | type='ToolBar' | class='ToolbarWindow32' | auto_id='' | handle=724082 | rect={'left': 526, 'top': 296, 'right': 622, 'bottom': 328, 'width': 96, 'height': 32}
+110. title='Forward (Alt + Right Arrow)' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 561, 'top': 296, 'right': 596, 'bottom': 328, 'width': 35, 'height': 32}
+111. title='Recent locations' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 596, 'top': 296, 'right': 616, 'bottom': 328, 'width': 20, 'height': 32}
+112. title='Up to "Andrew - Trilon Group Family of Companies" (Alt + Up Arrow)' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 622, 'top': 296, 'right': 655, 'bottom': 329, 'width': 33, 'height': 33}
+113. title='Up band' | type='ToolBar' | class='ToolbarWindow32' | auto_id='' | handle=4656136 | rect={'left': 622, 'top': 296, 'right': 658, 'bottom': 332, 'width': 36, 'height': 36}
+114. title='Page Down' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 1640, 'top': 297, 'right': 1657, 'bottom': 829, 'width': 17, 'height': 532}
+115. title='' | type='Edit' | class='SearchEditBox' | auto_id='SearchEditBox' | handle=None | rect={'left': 1258, 'top': 304, 'right': 1416, 'bottom': 319, 'width': 158, 'height': 15}
+116. title='' | type='Pane' | class='WindowsForms10.Window.8.app.0.14e5db8_r27_ad1' | auto_id='paramMemberSelectionUserControl' | handle=986142 | rect={'left': 184, 'top': 325, 'right': 405, 'bottom': 347, 'width': 221, 'height': 22}
+117. title='' | type='Pane' | class='WindowsForms10.Window.8.app.0.14e5db8_r27_ad1' | auto_id='tablePanel1' | handle=2559036 | rect={'left': 184, 'top': 325, 'right': 405, 'bottom': 347, 'width': 221, 'height': 22}
+118. title='Member:' | type='Text' | class='WindowsForms10.Window.b.app.0.14e5db8_r27_ad1' | auto_id='labelControl1' | handle=1051512 | rect={'left': 184, 'top': 325, 'right': 246, 'bottom': 347, 'width': 62, 'height': 22}
+119. title='' | type='Custom' | class='' | auto_id='' | handle=None | rect={'left': 246, 'top': 325, 'right': 405, 'bottom': 347, 'width': 159, 'height': 22}
+120. title='' | type='Edit' | class='WindowsForms10.Window.b.app.0.14e5db8_r27_ad1' | auto_id='paramMemberSelectionEditor' | handle=855128 | rect={'left': 246, 'top': 325, 'right': 405, 'bottom': 347, 'width': 159, 'height': 22}
+121. title='' | type='List' | class='' | auto_id='' | handle=None | rect={'left': 246, 'top': 325, 'right': 405, 'bottom': 347, 'width': 159, 'height': 22}
+122. title='Member:' | type='Pane' | class='WindowsForms10.Window.8.app.0.14e5db8_r27_ad1' | auto_id='editorHost' | handle=3476528 | rect={'left': 246, 'top': 325, 'right': 405, 'bottom': 347, 'width': 159, 'height': 22}
+123. title='Open' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 389, 'top': 325, 'right': 405, 'bottom': 347, 'width': 16, 'height': 22}
+124. title='' | type='Pane' | class='DUIViewWndClassName' | auto_id='' | handle=2099994 | rect={'left': 522, 'top': 340, 'right': 1466, 'bottom': 729, 'width': 944, 'height': 389}
+125. title='Command Module' | type='ToolBar' | class='FolderBandModuleInner' | auto_id='FolderBandModuleInner' | handle=None | rect={'left': 522, 'top': 340, 'right': 1466, 'bottom': 371, 'width': 944, 'height': 31}
+126. title='Organize' | type='Button' | class='AJOSplitButton' | auto_id='{7DDC1264-7E4D-4F74-BBC0-D191987C8D0F}' | handle=None | rect={'left': 525, 'top': 342, 'right': 616, 'bottom': 368, 'width': 91, 'height': 26}
+127. title='New folder' | type='Button' | class='AJOSplitButton' | auto_id='{E44616AD-6DF1-4B94-85A4-E465AE8A19DB}' | handle=None | rect={'left': 616, 'top': 342, 'right': 704, 'bottom': 368, 'width': 88, 'height': 26}
+128. title='Details' | type='SplitButton' | class='ViewControl' | auto_id='ViewControl' | handle=None | rect={'left': 1366, 'top': 342, 'right': 1421, 'bottom': 368, 'width': 55, 'height': 26}
+129. title='View Slider' | type='Button' | class='Button3d' | auto_id='SplitMenuButton' | handle=None | rect={'left': 1393, 'top': 342, 'right': 1411, 'bottom': 368, 'width': 18, 'height': 26}
+130. title='&Help' | type='Button' | class='Button3d' | auto_id='HelpButton' | handle=None | rect={'left': 1429, 'top': 342, 'right': 1457, 'bottom': 368, 'width': 28, 'height': 26}
+131. title='' | type='Pane' | class='WindowsForms10.Window.8.app.0.14e5db8_r27_ad1' | auto_id='paramPOISelectionUserControl' | handle=527478 | rect={'left': 184, 'top': 355, 'right': 405, 'bottom': 377, 'width': 221, 'height': 22}
+132. title='' | type='Pane' | class='WindowsForms10.Window.8.app.0.14e5db8_r27_ad1' | auto_id='tablePanel1' | handle=527480 | rect={'left': 184, 'top': 355, 'right': 405, 'bottom': 377, 'width': 221, 'height': 22}
+133. title='POI Type:' | type='Text' | class='WindowsForms10.Window.b.app.0.14e5db8_r27_ad1' | auto_id='labelControl1' | handle=2820962 | rect={'left': 184, 'top': 355, 'right': 246, 'bottom': 377, 'width': 62, 'height': 22}
+134. title='' | type='Custom' | class='' | auto_id='' | handle=None | rect={'left': 246, 'top': 355, 'right': 405, 'bottom': 377, 'width': 159, 'height': 22}
+135. title='' | type='Edit' | class='WindowsForms10.Window.b.app.0.14e5db8_r27_ad1' | auto_id='paramPOISelectionEditor' | handle=4066322 | rect={'left': 246, 'top': 355, 'right': 405, 'bottom': 377, 'width': 159, 'height': 22}
+136. title='' | type='List' | class='' | auto_id='' | handle=None | rect={'left': 246, 'top': 355, 'right': 405, 'bottom': 377, 'width': 159, 'height': 22}
+137. title='POI Type:' | type='Pane' | class='WindowsForms10.Window.8.app.0.14e5db8_r27_ad1' | auto_id='editorHost' | handle=1510184 | rect={'left': 246, 'top': 355, 'right': 405, 'bottom': 377, 'width': 159, 'height': 22}
+138. title='Open' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 389, 'top': 355, 'right': 405, 'bottom': 377, 'width': 16, 'height': 22}
+139. title='Control Host' | type='Pane' | class='ProperTreeHost' | auto_id='ProperTreeHost' | handle=2820850 | rect={'left': 524, 'top': 371, 'right': 790, 'bottom': 629, 'width': 266, 'height': 258}
+140. title='Navigation Pane' | type='Tree' | class='SysTreeView32' | auto_id='100' | handle=1313676 | rect={'left': 524, 'top': 371, 'right': 790, 'bottom': 629, 'width': 266, 'height': 258}
+141. title='Desktop (OneDrive)' | type='TreeItem' | class='' | auto_id='' | handle=None | rect={'left': 583, 'top': 371, 'right': 630, 'bottom': 403, 'width': 47, 'height': 32}
+142. title='Line up' | type='Button' | class='' | auto_id='UpButton' | handle=None | rect={'left': 773, 'top': 371, 'right': 790, 'bottom': 388, 'width': 17, 'height': 17}
+143. title='Vertical' | type='ScrollBar' | class='' | auto_id='NonClientVerticalScrollBar' | handle=None | rect={'left': 773, 'top': 371, 'right': 790, 'bottom': 629, 'width': 17, 'height': 258}
+144. title='Header' | type='Header' | class='UIViewHeader' | auto_id='' | handle=None | rect={'left': 794, 'top': 371, 'right': 1500, 'bottom': 396, 'width': 706, 'height': 25}
+145. title='Items View' | type='List' | class='UIItemsView' | auto_id='' | handle=2034704 | rect={'left': 794, 'top': 371, 'right': 1466, 'bottom': 629, 'width': 672, 'height': 258}
+146. title='Shell Folder View' | type='Pane' | class='DUIListView' | auto_id='listview' | handle=3211306 | rect={'left': 794, 'top': 371, 'right': 1466, 'bottom': 629, 'width': 672, 'height': 258}
+147. title='Name' | type='SplitButton' | class='UIColumnHeader' | auto_id='System.ItemNameDisplay' | handle=None | rect={'left': 794, 'top': 371, 'right': 1066, 'bottom': 396, 'width': 272, 'height': 25}
+148. title='Filter dropdown' | type='Button' | class='Button' | auto_id='DropDown' | handle=None | rect={'left': 1050, 'top': 371, 'right': 1065, 'bottom': 396, 'width': 15, 'height': 25}
+149. title='Status' | type='SplitButton' | class='UIColumnHeader' | auto_id='System.StorageProviderUIStatus' | handle=None | rect={'left': 1066, 'top': 371, 'right': 1146, 'bottom': 396, 'width': 80, 'height': 25}
+150. title='Filter dropdown' | type='Button' | class='Button' | auto_id='DropDown' | handle=None | rect={'left': 1130, 'top': 371, 'right': 1145, 'bottom': 396, 'width': 15, 'height': 25}
+151. title='Date modified' | type='SplitButton' | class='UIColumnHeader' | auto_id='System.DateModified' | handle=None | rect={'left': 1146, 'top': 371, 'right': 1290, 'bottom': 396, 'width': 144, 'height': 25}
+152. title='Filter dropdown' | type='Button' | class='Button' | auto_id='DropDown' | handle=None | rect={'left': 1274, 'top': 371, 'right': 1289, 'bottom': 396, 'width': 15, 'height': 25}
+153. title='Type' | type='SplitButton' | class='UIColumnHeader' | auto_id='System.ItemTypeText' | handle=None | rect={'left': 1290, 'top': 371, 'right': 1410, 'bottom': 396, 'width': 120, 'height': 25}
+154. title='Filter dropdown' | type='Button' | class='Button' | auto_id='DropDown' | handle=None | rect={'left': 1394, 'top': 371, 'right': 1409, 'bottom': 396, 'width': 15, 'height': 25}
+155. title='Size' | type='SplitButton' | class='UIColumnHeader' | auto_id='System.Size' | handle=None | rect={'left': 1410, 'top': 371, 'right': 1490, 'bottom': 396, 'width': 80, 'height': 25}
+156. title='Date:' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 727, 'top': 383, 'right': 767, 'bottom': 407, 'width': 40, 'height': 24}
+157. title='8/21/2026' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 767, 'top': 383, 'right': 842, 'bottom': 407, 'width': 75, 'height': 24}
+158. title='SchoppeeGirders2025.lbsx' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 841, 'top': 383, 'right': 1328, 'bottom': 407, 'width': 487, 'height': 24}
+159. title='' | type='Pane' | class='WindowsForms10.Window.8.app.0.14e5db8_r27_ad1' | auto_id='paramStageSelectionUserControl' | handle=4262660 | rect={'left': 184, 'top': 385, 'right': 405, 'bottom': 407, 'width': 221, 'height': 22}
+160. title='' | type='Pane' | class='WindowsForms10.Window.8.app.0.14e5db8_r27_ad1' | auto_id='tablePanel1' | handle=330896 | rect={'left': 184, 'top': 385, 'right': 405, 'bottom': 407, 'width': 221, 'height': 22}
+161. title='Stage:' | type='Text' | class='WindowsForms10.Window.b.app.0.14e5db8_r27_ad1' | auto_id='labelControl1' | handle=2559014 | rect={'left': 184, 'top': 385, 'right': 246, 'bottom': 407, 'width': 62, 'height': 22}
+162. title='' | type='Custom' | class='' | auto_id='' | handle=None | rect={'left': 246, 'top': 385, 'right': 405, 'bottom': 407, 'width': 159, 'height': 22}
+163. title='' | type='Edit' | class='WindowsForms10.Window.b.app.0.14e5db8_r27_ad1' | auto_id='paramStageSelectionEditor' | handle=3083110 | rect={'left': 246, 'top': 385, 'right': 405, 'bottom': 407, 'width': 159, 'height': 22}
+164. title='' | type='List' | class='' | auto_id='' | handle=None | rect={'left': 246, 'top': 385, 'right': 405, 'bottom': 407, 'width': 159, 'height': 22}
+165. title='Stage:' | type='Pane' | class='WindowsForms10.Window.8.app.0.14e5db8_r27_ad1' | auto_id='editorHost' | handle=1116900 | rect={'left': 246, 'top': 385, 'right': 405, 'bottom': 407, 'width': 159, 'height': 22}
+166. title='Open' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 389, 'top': 385, 'right': 405, 'bottom': 407, 'width': 16, 'height': 22}
+167. title='Page up' | type='Button' | class='' | auto_id='UpPageButton' | handle=None | rect={'left': 773, 'top': 388, 'right': 790, 'bottom': 407, 'width': 17, 'height': 19}
+168. title='_Project Folders - Shortcut' | type='ListItem' | class='UIItem' | auto_id='0' | handle=None | rect={'left': 808, 'top': 402, 'right': 1486, 'bottom': 429, 'width': 678, 'height': 27}
+169. title='Documents (OneDrive)' | type='TreeItem' | class='' | auto_id='' | handle=None | rect={'left': 583, 'top': 403, 'right': 648, 'bottom': 435, 'width': 65, 'height': 32}
+170. title='Name' | type='Edit' | class='UIProperty' | auto_id='System.ItemNameDisplay' | handle=None | rect={'left': 830, 'top': 405, 'right': 1066, 'bottom': 427, 'width': 236, 'height': 22}
+171. title='Date modified' | type='Edit' | class='UIProperty' | auto_id='System.DateModified' | handle=None | rect={'left': 1146, 'top': 405, 'right': 1290, 'bottom': 427, 'width': 144, 'height': 22}
+172. title='Type' | type='Edit' | class='UIProperty' | auto_id='System.ItemTypeText' | handle=None | rect={'left': 1290, 'top': 405, 'right': 1410, 'bottom': 427, 'width': 120, 'height': 22}
+173. title='Size' | type='Edit' | class='UIProperty' | auto_id='System.Size' | handle=None | rect={'left': 1410, 'top': 405, 'right': 1490, 'bottom': 427, 'width': 80, 'height': 22}
+174. title='Time:' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 727, 'top': 407, 'right': 767, 'bottom': 431, 'width': 40, 'height': 24}
+175. title='2:48 PM' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 767, 'top': 407, 'right': 842, 'bottom': 431, 'width': 75, 'height': 24}
+176. title='Position' | type='Thumb' | class='' | auto_id='ScrollbarThumb' | handle=None | rect={'left': 773, 'top': 407, 'right': 790, 'bottom': 434, 'width': 17, 'height': 27}
+177. title='Bentley LEAP Bridge Steel [AASHTO LRFD 9th Ed. with 2020 Interims]' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 841, 'top': 407, 'right': 1242, 'bottom': 431, 'width': 401, 'height': 24}
+178. title='25.00.01.06' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1242, 'top': 407, 'right': 1328, 'bottom': 431, 'width': 86, 'height': 24}
+179. title='Status' | type='Edit' | class='UIProperty' | auto_id='System.StorageProviderUIStatus' | handle=None | rect={'left': 1066, 'top': 410, 'right': 1083, 'bottom': 422, 'width': 17, 'height': 12}
+180. title='' | type='Pane' | class='WindowsForms10.Window.8.app.0.14e5db8_r27_ad1' | auto_id='paramLoadSelectionUserControl' | handle=1117000 | rect={'left': 184, 'top': 415, 'right': 405, 'bottom': 437, 'width': 221, 'height': 22}
+181. title='' | type='Pane' | class='WindowsForms10.Window.8.app.0.14e5db8_r27_ad1' | auto_id='tablePanel1' | handle=461980 | rect={'left': 184, 'top': 415, 'right': 405, 'bottom': 437, 'width': 221, 'height': 22}
+182. title='Load Case:' | type='Text' | class='WindowsForms10.Window.b.app.0.14e5db8_r27_ad1' | auto_id='labelControl1' | handle=1510158 | rect={'left': 184, 'top': 415, 'right': 246, 'bottom': 437, 'width': 62, 'height': 22}
+183. title='' | type='Custom' | class='' | auto_id='' | handle=None | rect={'left': 246, 'top': 415, 'right': 405, 'bottom': 437, 'width': 159, 'height': 22}
+184. title='' | type='Edit' | class='WindowsForms10.Window.b.app.0.14e5db8_r27_ad1' | auto_id='paramLoadSelectionEditor' | handle=1117170 | rect={'left': 246, 'top': 415, 'right': 405, 'bottom': 437, 'width': 159, 'height': 22}
+185. title='' | type='List' | class='' | auto_id='' | handle=None | rect={'left': 246, 'top': 415, 'right': 405, 'bottom': 437, 'width': 159, 'height': 22}
+186. title='Load Case:' | type='Pane' | class='WindowsForms10.Window.8.app.0.14e5db8_r27_ad1' | auto_id='editorHost' | handle=2296702 | rect={'left': 246, 'top': 415, 'right': 405, 'bottom': 437, 'width': 159, 'height': 22}
+187. title='Open' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 389, 'top': 415, 'right': 405, 'bottom': 437, 'width': 16, 'height': 22}
+188. title='ADBridge - Shortcut' | type='ListItem' | class='UIItem' | auto_id='1' | handle=None | rect={'left': 808, 'top': 433, 'right': 1486, 'bottom': 460, 'width': 678, 'height': 27}
+189. title='Page down' | type='Button' | class='' | auto_id='DownPageButton' | handle=None | rect={'left': 773, 'top': 434, 'right': 790, 'bottom': 612, 'width': 17, 'height': 178}
+190. title='Meetings (OneDrive)' | type='TreeItem' | class='' | auto_id='' | handle=None | rect={'left': 583, 'top': 435, 'right': 636, 'bottom': 467, 'width': 53, 'height': 32}
+191. title='Name' | type='Edit' | class='UIProperty' | auto_id='System.ItemNameDisplay' | handle=None | rect={'left': 830, 'top': 436, 'right': 1066, 'bottom': 458, 'width': 236, 'height': 22}
+192. title='Date modified' | type='Edit' | class='UIProperty' | auto_id='System.DateModified' | handle=None | rect={'left': 1146, 'top': 436, 'right': 1290, 'bottom': 458, 'width': 144, 'height': 22}
+193. title='Type' | type='Edit' | class='UIProperty' | auto_id='System.ItemTypeText' | handle=None | rect={'left': 1290, 'top': 436, 'right': 1410, 'bottom': 458, 'width': 120, 'height': 22}
+194. title='Size' | type='Edit' | class='UIProperty' | auto_id='System.Size' | handle=None | rect={'left': 1410, 'top': 436, 'right': 1490, 'bottom': 458, 'width': 80, 'height': 22}
+195. title='Status' | type='Edit' | class='UIProperty' | auto_id='System.StorageProviderUIStatus' | handle=None | rect={'left': 1066, 'top': 441, 'right': 1083, 'bottom': 453, 'width': 17, 'height': 12}
+196. title='simpleSeparator1' | type='Separator' | class='' | auto_id='' | handle=None | rect={'left': 175, 'top': 450, 'right': 414, 'bottom': 451, 'width': 239, 'height': 1}
+197. title='Node Displacements' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 727, 'top': 453, 'right': 1329, 'bottom': 479, 'width': 602, 'height': 26}
+198. title='lcgDialogButtons' | type='Pane' | class='' | auto_id='' | handle=None | rect={'left': 182, 'top': 462, 'right': 407, 'bottom': 488, 'width': 225, 'height': 26}
+199. title='Reset' | type='Button' | class='WindowsForms10.Window.b.app.0.14e5db8_r27_ad1' | auto_id='btnReset' | handle=1051578 | rect={'left': 271, 'top': 464, 'right': 333, 'bottom': 486, 'width': 62, 'height': 22}
+200. title='Submit' | type='Button' | class='WindowsForms10.Window.b.app.0.14e5db8_r27_ad1' | auto_id='btnSubmit' | handle=593012 | rect={'left': 343, 'top': 464, 'right': 405, 'bottom': 486, 'width': 62, 'height': 22}
+201. title='NodeDisplacementsReport.pdf' | type='ListItem' | class='UIItem' | auto_id='2' | handle=None | rect={'left': 808, 'top': 464, 'right': 1486, 'bottom': 491, 'width': 678, 'height': 27}
+202. title='Microsoft Copilot Chat Files (OneDrive)' | type='TreeItem' | class='' | auto_id='' | handle=None | rect={'left': 583, 'top': 467, 'right': 734, 'bottom': 499, 'width': 151, 'height': 32}
+203. title='Name' | type='Edit' | class='UIProperty' | auto_id='System.ItemNameDisplay' | handle=None | rect={'left': 830, 'top': 467, 'right': 1066, 'bottom': 489, 'width': 236, 'height': 22}
+204. title='Date modified' | type='Edit' | class='UIProperty' | auto_id='System.DateModified' | handle=None | rect={'left': 1146, 'top': 467, 'right': 1290, 'bottom': 489, 'width': 144, 'height': 22}
+205. title='Type' | type='Edit' | class='UIProperty' | auto_id='System.ItemTypeText' | handle=None | rect={'left': 1290, 'top': 467, 'right': 1410, 'bottom': 489, 'width': 120, 'height': 22}
+206. title='Size' | type='Edit' | class='UIProperty' | auto_id='System.Size' | handle=None | rect={'left': 1410, 'top': 467, 'right': 1490, 'bottom': 489, 'width': 80, 'height': 22}
+207. title='Status' | type='Edit' | class='UIProperty' | auto_id='System.StorageProviderUIStatus' | handle=None | rect={'left': 1066, 'top': 472, 'right': 1083, 'bottom': 484, 'width': 17, 'height': 12}
+208. title='Load Case:' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 727, 'top': 487, 'right': 819, 'bottom': 511, 'width': 92, 'height': 24}
+209. title='Initial - Initial - Self Weight Steel' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 819, 'top': 487, 'right': 1329, 'bottom': 511, 'width': 510, 'height': 24}
+210. title='emptySpaceItem1' | type='Custom' | class='' | auto_id='' | handle=None | rect={'left': 182, 'top': 488, 'right': 407, 'bottom': 556, 'width': 225, 'height': 68}
+211. title='rollover401k.pdf' | type='ListItem' | class='UIItem' | auto_id='3' | handle=None | rect={'left': 808, 'top': 495, 'right': 1486, 'bottom': 522, 'width': 678, 'height': 27}
+212. title='Name' | type='Edit' | class='UIProperty' | auto_id='System.ItemNameDisplay' | handle=None | rect={'left': 830, 'top': 498, 'right': 1066, 'bottom': 520, 'width': 236, 'height': 22}
+213. title='Date modified' | type='Edit' | class='UIProperty' | auto_id='System.DateModified' | handle=None | rect={'left': 1146, 'top': 498, 'right': 1290, 'bottom': 520, 'width': 144, 'height': 22}
+214. title='Type' | type='Edit' | class='UIProperty' | auto_id='System.ItemTypeText' | handle=None | rect={'left': 1290, 'top': 498, 'right': 1410, 'bottom': 520, 'width': 120, 'height': 22}
+215. title='Size' | type='Edit' | class='UIProperty' | auto_id='System.Size' | handle=None | rect={'left': 1410, 'top': 498, 'right': 1490, 'bottom': 520, 'width': 80, 'height': 22}
+216. title='Microsoft Teams Chat Files (OneDrive)' | type='TreeItem' | class='' | auto_id='' | handle=None | rect={'left': 583, 'top': 499, 'right': 729, 'bottom': 531, 'width': 146, 'height': 32}
+217. title='Status' | type='Edit' | class='UIProperty' | auto_id='System.StorageProviderUIStatus' | handle=None | rect={'left': 1066, 'top': 503, 'right': 1083, 'bottom': 515, 'width': 17, 'height': 12}
+218. title='Member' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 727, 'top': 511, 'right': 799, 'bottom': 549, 'width': 72, 'height': 38}
+219. title='POI Loc. (ft)' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 798, 'top': 511, 'right': 860, 'bottom': 549, 'width': 62, 'height': 38}
+220. title='Span Fraction' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 861, 'top': 511, 'right': 933, 'bottom': 549, 'width': 72, 'height': 38}
+221. title='X  (in)' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 933, 'top': 511, 'right': 995, 'bottom': 549, 'width': 62, 'height': 38}
+222. title='Y (in)' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 995, 'top': 511, 'right': 1062, 'bottom': 549, 'width': 67, 'height': 38}
+223. title='Z (in)' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1062, 'top': 511, 'right': 1129, 'bottom': 549, 'width': 67, 'height': 38}
+224. title='rX (rad)' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1128, 'top': 511, 'right': 1195, 'bottom': 549, 'width': 67, 'height': 38}
+225. title='rY (rad)' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1195, 'top': 511, 'right': 1262, 'bottom': 549, 'width': 67, 'height': 38}
+226. title='rZ (rad)' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1262, 'top': 511, 'right': 1329, 'bottom': 549, 'width': 67, 'height': 38}
+227. title='rolloverRoth.pdf' | type='ListItem' | class='UIItem' | auto_id='4' | handle=None | rect={'left': 808, 'top': 526, 'right': 1486, 'bottom': 553, 'width': 678, 'height': 27}
+228. title='Name' | type='Edit' | class='UIProperty' | auto_id='System.ItemNameDisplay' | handle=None | rect={'left': 830, 'top': 529, 'right': 1066, 'bottom': 551, 'width': 236, 'height': 22}
+229. title='Date modified' | type='Edit' | class='UIProperty' | auto_id='System.DateModified' | handle=None | rect={'left': 1146, 'top': 529, 'right': 1290, 'bottom': 551, 'width': 144, 'height': 22}
+230. title='Type' | type='Edit' | class='UIProperty' | auto_id='System.ItemTypeText' | handle=None | rect={'left': 1290, 'top': 529, 'right': 1410, 'bottom': 551, 'width': 120, 'height': 22}
+231. title='Size' | type='Edit' | class='UIProperty' | auto_id='System.Size' | handle=None | rect={'left': 1410, 'top': 529, 'right': 1490, 'bottom': 551, 'width': 80, 'height': 22}
+232. title='Pictures (OneDrive)' | type='TreeItem' | class='' | auto_id='' | handle=None | rect={'left': 583, 'top': 531, 'right': 629, 'bottom': 563, 'width': 46, 'height': 32}
+233. title='Status' | type='Edit' | class='UIProperty' | auto_id='System.StorageProviderUIStatus' | handle=None | rect={'left': 1066, 'top': 534, 'right': 1083, 'bottom': 546, 'width': 17, 'height': 12}
+234. title='Member 01' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 727, 'top': 550, 'right': 799, 'bottom': 574, 'width': 72, 'height': 24}
+235. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 798, 'top': 550, 'right': 860, 'bottom': 574, 'width': 62, 'height': 24}
+236. title='1.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 861, 'top': 550, 'right': 933, 'bottom': 574, 'width': 72, 'height': 24}
+237. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 933, 'top': 550, 'right': 995, 'bottom': 574, 'width': 62, 'height': 24}
+238. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 995, 'top': 550, 'right': 1062, 'bottom': 574, 'width': 67, 'height': 24}
+239. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1062, 'top': 550, 'right': 1129, 'bottom': 574, 'width': 67, 'height': 24}
+240. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1128, 'top': 550, 'right': 1195, 'bottom': 574, 'width': 67, 'height': 24}
+241. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1195, 'top': 550, 'right': 1262, 'bottom': 574, 'width': 67, 'height': 24}
+242. title='-0.003' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1262, 'top': 550, 'right': 1329, 'bottom': 574, 'width': 67, 'height': 24}
+243. title='Sign Up Packet.pdf' | type='ListItem' | class='UIItem' | auto_id='5' | handle=None | rect={'left': 808, 'top': 557, 'right': 1486, 'bottom': 584, 'width': 678, 'height': 27}
+244. title='Name' | type='Edit' | class='UIProperty' | auto_id='System.ItemNameDisplay' | handle=None | rect={'left': 830, 'top': 560, 'right': 1066, 'bottom': 582, 'width': 236, 'height': 22}
+245. title='Date modified' | type='Edit' | class='UIProperty' | auto_id='System.DateModified' | handle=None | rect={'left': 1146, 'top': 560, 'right': 1290, 'bottom': 582, 'width': 144, 'height': 22}
+246. title='Type' | type='Edit' | class='UIProperty' | auto_id='System.ItemTypeText' | handle=None | rect={'left': 1290, 'top': 560, 'right': 1410, 'bottom': 582, 'width': 120, 'height': 22}
+247. title='Size' | type='Edit' | class='UIProperty' | auto_id='System.Size' | handle=None | rect={'left': 1410, 'top': 560, 'right': 1490, 'bottom': 582, 'width': 80, 'height': 22}
+248. title='Document Map' | type='Custom' | class='' | auto_id='' | handle=None | rect={'left': 175, 'top': 563, 'right': 415, 'bottom': 863, 'width': 240, 'height': 300}
+249. title='Document Map' | type='Pane' | class='WindowsForms10.Window.8.app.0.14e5db8_r27_ad1' | auto_id='2690054' | handle=2690054 | rect={'left': 175, 'top': 563, 'right': 415, 'bottom': 863, 'width': 240, 'height': 300}
+250. title='Recordings (OneDrive)' | type='TreeItem' | class='' | auto_id='' | handle=None | rect={'left': 583, 'top': 563, 'right': 646, 'bottom': 595, 'width': 63, 'height': 32}
+251. title='Document Map' | type='TitleBar' | class='' | auto_id='' | handle=None | rect={'left': 175, 'top': 564, 'right': 415, 'bottom': 587, 'width': 240, 'height': 23}
+252. title='Status' | type='Edit' | class='UIProperty' | auto_id='System.StorageProviderUIStatus' | handle=None | rect={'left': 1066, 'top': 565, 'right': 1083, 'bottom': 577, 'width': 17, 'height': 12}
+253. title='Maximize' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 354, 'top': 566, 'right': 372, 'bottom': 584, 'width': 18, 'height': 18}
+254. title='Auto Hide' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 374, 'top': 566, 'right': 392, 'bottom': 584, 'width': 18, 'height': 18}
+255. title='Close' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 394, 'top': 566, 'right': 412, 'bottom': 584, 'width': 18, 'height': 18}
+256. title='Member 01' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 727, 'top': 574, 'right': 799, 'bottom': 598, 'width': 72, 'height': 24}
+257. title='0.100' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 798, 'top': 574, 'right': 860, 'bottom': 598, 'width': 62, 'height': 24}
+258. title='1.001' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 861, 'top': 574, 'right': 933, 'bottom': 598, 'width': 72, 'height': 24}
+259. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 933, 'top': 574, 'right': 995, 'bottom': 598, 'width': 62, 'height': 24}
+260. title='-0.003' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 995, 'top': 574, 'right': 1062, 'bottom': 598, 'width': 67, 'height': 24}
+261. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1062, 'top': 574, 'right': 1129, 'bottom': 598, 'width': 67, 'height': 24}
+262. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1128, 'top': 574, 'right': 1195, 'bottom': 598, 'width': 67, 'height': 24}
+263. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1195, 'top': 574, 'right': 1262, 'bottom': 598, 'width': 67, 'height': 24}
+264. title='-0.003' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1262, 'top': 574, 'right': 1329, 'bottom': 598, 'width': 67, 'height': 24}
+265. title='Data Panel' | type='Group' | class='' | auto_id='' | handle=None | rect={'left': 175, 'top': 587, 'right': 414, 'bottom': 787, 'width': 239, 'height': 200}
+266. title='' | type='Pane' | class='WindowsForms10.Window.8.app.0.14e5db8_r27_ad1' | auto_id='dockPanel1_Container' | handle=1771884 | rect={'left': 175, 'top': 587, 'right': 414, 'bottom': 863, 'width': 239, 'height': 276}
+267. title='' | type='Tree' | class='WindowsForms10.Window.8.app.0.14e5db8_r27_ad1' | auto_id='bmTreeView' | handle=1969072 | rect={'left': 175, 'top': 587, 'right': 414, 'bottom': 863, 'width': 239, 'height': 276}
+268. title='Node0' | type='TreeItem' | class='' | auto_id='' | handle=None | rect={'left': 175, 'top': 587, 'right': 414, 'bottom': 607, 'width': 239, 'height': 20}
+269. title='column1 row 0' | type='DataItem' | class='' | auto_id='' | handle=None | rect={'left': 193, 'top': 587, 'right': 415, 'bottom': 607, 'width': 222, 'height': 20}
+270. title='Videos (OneDrive)' | type='TreeItem' | class='' | auto_id='' | handle=None | rect={'left': 583, 'top': 595, 'right': 622, 'bottom': 627, 'width': 39, 'height': 32}
+271. title='Member 01' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 727, 'top': 598, 'right': 799, 'bottom': 622, 'width': 72, 'height': 24}
+272. title='8.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 798, 'top': 598, 'right': 860, 'bottom': 622, 'width': 62, 'height': 24}
+273. title='1.100' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 861, 'top': 598, 'right': 933, 'bottom': 622, 'width': 72, 'height': 24}
+274. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 933, 'top': 598, 'right': 995, 'bottom': 622, 'width': 62, 'height': 24}
+275. title='-0.257' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 995, 'top': 598, 'right': 1062, 'bottom': 622, 'width': 67, 'height': 24}
+276. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1062, 'top': 598, 'right': 1129, 'bottom': 622, 'width': 67, 'height': 24}
+277. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1128, 'top': 598, 'right': 1195, 'bottom': 622, 'width': 67, 'height': 24}
+278. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1195, 'top': 598, 'right': 1262, 'bottom': 622, 'width': 67, 'height': 24}
+279. title='-0.003' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1262, 'top': 598, 'right': 1329, 'bottom': 622, 'width': 67, 'height': 24}
+280. title='Node1' | type='TreeItem' | class='' | auto_id='' | handle=None | rect={'left': 175, 'top': 607, 'right': 414, 'bottom': 627, 'width': 239, 'height': 20}
+281. title='column1 row 1' | type='DataItem' | class='' | auto_id='' | handle=None | rect={'left': 211, 'top': 607, 'right': 415, 'bottom': 627, 'width': 204, 'height': 20}
+282. title='Line down' | type='Button' | class='' | auto_id='DownButton' | handle=None | rect={'left': 773, 'top': 612, 'right': 790, 'bottom': 629, 'width': 17, 'height': 17}
+283. title='Column left' | type='Button' | class='' | auto_id='UpButton' | handle=None | rect={'left': 794, 'top': 612, 'right': 811, 'bottom': 629, 'width': 17, 'height': 17}
+284. title='Horizontal' | type='ScrollBar' | class='LineHScrollBar' | auto_id='HorizontalScrollBar' | handle=2755458 | rect={'left': 794, 'top': 612, 'right': 1466, 'bottom': 629, 'width': 672, 'height': 17}
+285. title='Position' | type='Thumb' | class='' | auto_id='ScrollbarThumb' | handle=None | rect={'left': 811, 'top': 612, 'right': 1418, 'bottom': 629, 'width': 607, 'height': 17}
+286. title='Page right' | type='Button' | class='' | auto_id='DownPageButton' | handle=None | rect={'left': 1418, 'top': 612, 'right': 1449, 'bottom': 629, 'width': 31, 'height': 17}
+287. title='Column right' | type='Button' | class='' | auto_id='DownButton' | handle=None | rect={'left': 1449, 'top': 612, 'right': 1466, 'bottom': 629, 'width': 17, 'height': 17}
+288. title='Member 01' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 727, 'top': 622, 'right': 799, 'bottom': 646, 'width': 72, 'height': 24}
+289. title='13.333' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 798, 'top': 622, 'right': 860, 'bottom': 646, 'width': 62, 'height': 24}
+290. title='1.167' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 861, 'top': 622, 'right': 933, 'bottom': 646, 'width': 72, 'height': 24}
+291. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 933, 'top': 622, 'right': 995, 'bottom': 646, 'width': 62, 'height': 24}
+292. title='-0.415' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 995, 'top': 622, 'right': 1062, 'bottom': 646, 'width': 67, 'height': 24}
+293. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1062, 'top': 622, 'right': 1129, 'bottom': 646, 'width': 67, 'height': 24}
+294. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1128, 'top': 622, 'right': 1195, 'bottom': 646, 'width': 67, 'height': 24}
+295. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1195, 'top': 622, 'right': 1262, 'bottom': 646, 'width': 67, 'height': 24}
+296. title='-0.002' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1262, 'top': 622, 'right': 1329, 'bottom': 646, 'width': 67, 'height': 24}
+297. title='Node2' | type='TreeItem' | class='' | auto_id='' | handle=None | rect={'left': 175, 'top': 627, 'right': 414, 'bottom': 647, 'width': 239, 'height': 20}
+298. title='column1 row 2' | type='DataItem' | class='' | auto_id='' | handle=None | rect={'left': 211, 'top': 627, 'right': 415, 'bottom': 647, 'width': 204, 'height': 20}
+299. title='Andrew - Personal (OneDrive)' | type='TreeItem' | class='' | auto_id='' | handle=None | rect={'left': 575, 'top': 627, 'right': 676, 'bottom': 629, 'width': 101, 'height': 2}
+300. title='File name:' | type='Text' | class='CIDLabel' | auto_id='SaveDialogLabel' | handle=None | rect={'left': 532, 'top': 640, 'right': 647, 'bottom': 663, 'width': 115, 'height': 23}
+301. title='File name:' | type='ComboBox' | class='AppControlHost' | auto_id='FileNameControlHost' | handle=396434 | rect={'left': 647, 'top': 640, 'right': 1461, 'bottom': 663, 'width': 814, 'height': 23}
+302. title='Open' | type='Button' | class='' | auto_id='DropDown' | handle=None | rect={'left': 1445, 'top': 641, 'right': 1460, 'bottom': 662, 'width': 15, 'height': 21}
+303. title='File name:' | type='Edit' | class='Edit' | auto_id='1001' | handle=3148856 | rect={'left': 650, 'top': 643, 'right': 1441, 'bottom': 660, 'width': 791, 'height': 17}
+304. title='Member 01' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 727, 'top': 646, 'right': 799, 'bottom': 670, 'width': 72, 'height': 24}
+305. title='16.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 798, 'top': 646, 'right': 860, 'bottom': 670, 'width': 62, 'height': 24}
+306. title='1.200' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 861, 'top': 646, 'right': 933, 'bottom': 670, 'width': 72, 'height': 24}
+307. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 933, 'top': 646, 'right': 995, 'bottom': 670, 'width': 62, 'height': 24}
+308. title='-0.487' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 995, 'top': 646, 'right': 1062, 'bottom': 670, 'width': 67, 'height': 24}
+309. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1062, 'top': 646, 'right': 1129, 'bottom': 670, 'width': 67, 'height': 24}
+310. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1128, 'top': 646, 'right': 1195, 'bottom': 670, 'width': 67, 'height': 24}
+311. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1195, 'top': 646, 'right': 1262, 'bottom': 670, 'width': 67, 'height': 24}
+312. title='-0.002' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1262, 'top': 646, 'right': 1329, 'bottom': 670, 'width': 67, 'height': 24}
+313. title='Node3' | type='TreeItem' | class='' | auto_id='' | handle=None | rect={'left': 175, 'top': 647, 'right': 414, 'bottom': 667, 'width': 239, 'height': 20}
+314. title='column1 row 3' | type='DataItem' | class='' | auto_id='' | handle=None | rect={'left': 211, 'top': 647, 'right': 415, 'bottom': 667, 'width': 204, 'height': 20}
+315. title='Save as type:' | type='Text' | class='CIDLabel' | auto_id='SaveDialogLabel' | handle=None | rect={'left': 532, 'top': 665, 'right': 647, 'bottom': 688, 'width': 115, 'height': 23}
+316. title='Save as type:' | type='ComboBox' | class='AppControlHost' | auto_id='FileTypeControlHost' | handle=1641398 | rect={'left': 647, 'top': 665, 'right': 1461, 'bottom': 688, 'width': 814, 'height': 23}
+317. title='Open' | type='Button' | class='' | auto_id='DropDown' | handle=None | rect={'left': 1445, 'top': 666, 'right': 1460, 'bottom': 687, 'width': 15, 'height': 21}
+318. title='Node4' | type='TreeItem' | class='' | auto_id='' | handle=None | rect={'left': 175, 'top': 667, 'right': 414, 'bottom': 687, 'width': 239, 'height': 20}
+319. title='column1 row 4' | type='DataItem' | class='' | auto_id='' | handle=None | rect={'left': 211, 'top': 667, 'right': 415, 'bottom': 687, 'width': 204, 'height': 20}
+320. title='Member 01' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 727, 'top': 670, 'right': 799, 'bottom': 694, 'width': 72, 'height': 24}
+321. title='24.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 798, 'top': 670, 'right': 860, 'bottom': 694, 'width': 62, 'height': 24}
+322. title='1.300' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 861, 'top': 670, 'right': 933, 'bottom': 694, 'width': 72, 'height': 24}
+323. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 933, 'top': 670, 'right': 995, 'bottom': 694, 'width': 62, 'height': 24}
+324. title='-0.667' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 995, 'top': 670, 'right': 1062, 'bottom': 694, 'width': 67, 'height': 24}
+325. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1062, 'top': 670, 'right': 1129, 'bottom': 694, 'width': 67, 'height': 24}
+326. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1128, 'top': 670, 'right': 1195, 'bottom': 694, 'width': 67, 'height': 24}
+327. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1195, 'top': 670, 'right': 1262, 'bottom': 694, 'width': 67, 'height': 24}
+328. title='-0.002' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1262, 'top': 670, 'right': 1329, 'bottom': 694, 'width': 67, 'height': 24}
+329. title='Node5' | type='TreeItem' | class='' | auto_id='' | handle=None | rect={'left': 175, 'top': 687, 'right': 414, 'bottom': 707, 'width': 239, 'height': 20}
+330. title='column1 row 5' | type='DataItem' | class='' | auto_id='' | handle=None | rect={'left': 211, 'top': 687, 'right': 415, 'bottom': 707, 'width': 204, 'height': 20}
+331. title='Save Fields' | type='Tree' | class='SaveDialogPreviewMetadataInner' | auto_id='SaveDialogPreviewMetadataInner' | handle=None | rect={'left': 532, 'top': 694, 'right': 1456, 'bottom': 724, 'width': 924, 'height': 30}
+332. title='Member 01' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 727, 'top': 694, 'right': 799, 'bottom': 718, 'width': 72, 'height': 24}
+333. title='26.667' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 798, 'top': 694, 'right': 860, 'bottom': 718, 'width': 62, 'height': 24}
+334. title='1.333' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 861, 'top': 694, 'right': 933, 'bottom': 718, 'width': 72, 'height': 24}
+335. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 933, 'top': 694, 'right': 995, 'bottom': 718, 'width': 62, 'height': 24}
+336. title='-0.713' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 995, 'top': 694, 'right': 1062, 'bottom': 718, 'width': 67, 'height': 24}
+337. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1062, 'top': 694, 'right': 1129, 'bottom': 718, 'width': 67, 'height': 24}
+338. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1128, 'top': 694, 'right': 1195, 'bottom': 718, 'width': 67, 'height': 24}
+339. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1195, 'top': 694, 'right': 1262, 'bottom': 718, 'width': 67, 'height': 24}
+340. title='-0.001' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1262, 'top': 694, 'right': 1329, 'bottom': 718, 'width': 67, 'height': 24}
+341. title='Node6' | type='TreeItem' | class='' | auto_id='' | handle=None | rect={'left': 175, 'top': 707, 'right': 414, 'bottom': 727, 'width': 239, 'height': 20}
+342. title='column1 row 6' | type='DataItem' | class='' | auto_id='' | handle=None | rect={'left': 211, 'top': 707, 'right': 415, 'bottom': 727, 'width': 204, 'height': 20}
+343. title='Member 01' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 727, 'top': 718, 'right': 799, 'bottom': 742, 'width': 72, 'height': 24}
+344. title='32.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 798, 'top': 718, 'right': 860, 'bottom': 742, 'width': 62, 'height': 24}
+345. title='1.400' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 861, 'top': 718, 'right': 933, 'bottom': 742, 'width': 72, 'height': 24}
+346. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 933, 'top': 718, 'right': 995, 'bottom': 742, 'width': 62, 'height': 24}
+347. title='-0.781' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 995, 'top': 718, 'right': 1062, 'bottom': 742, 'width': 67, 'height': 24}
+348. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1062, 'top': 718, 'right': 1129, 'bottom': 742, 'width': 67, 'height': 24}
+349. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1128, 'top': 718, 'right': 1195, 'bottom': 742, 'width': 67, 'height': 24}
+350. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1195, 'top': 718, 'right': 1262, 'bottom': 742, 'width': 67, 'height': 24}
+351. title='-0.001' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1262, 'top': 718, 'right': 1329, 'bottom': 742, 'width': 67, 'height': 24}
+352. title='Node7' | type='TreeItem' | class='' | auto_id='' | handle=None | rect={'left': 175, 'top': 727, 'right': 414, 'bottom': 747, 'width': 239, 'height': 20}
+353. title='column1 row 7' | type='DataItem' | class='' | auto_id='' | handle=None | rect={'left': 211, 'top': 727, 'right': 415, 'bottom': 747, 'width': 204, 'height': 20}
+354. title='Member 01' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 727, 'top': 742, 'right': 799, 'bottom': 766, 'width': 72, 'height': 24}
+355. title='40.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 798, 'top': 742, 'right': 860, 'bottom': 766, 'width': 62, 'height': 24}
+356. title='1.500' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 861, 'top': 742, 'right': 933, 'bottom': 766, 'width': 72, 'height': 24}
+357. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 933, 'top': 742, 'right': 995, 'bottom': 766, 'width': 62, 'height': 24}
+358. title='-0.820' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 995, 'top': 742, 'right': 1062, 'bottom': 766, 'width': 67, 'height': 24}
+359. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1062, 'top': 742, 'right': 1129, 'bottom': 766, 'width': 67, 'height': 24}
+360. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1128, 'top': 742, 'right': 1195, 'bottom': 766, 'width': 67, 'height': 24}
+361. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1195, 'top': 742, 'right': 1262, 'bottom': 766, 'width': 67, 'height': 24}
+362. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1262, 'top': 742, 'right': 1329, 'bottom': 766, 'width': 67, 'height': 24}
+363. title='Save' | type='Button' | class='Button' | auto_id='1' | handle=1117036 | rect={'left': 1261, 'top': 743, 'right': 1349, 'bottom': 769, 'width': 88, 'height': 26}
+364. title='Cancel' | type='Button' | class='Button' | auto_id='2' | handle=3017446 | rect={'left': 1361, 'top': 743, 'right': 1449, 'bottom': 769, 'width': 88, 'height': 26}
+365. title='Node8' | type='TreeItem' | class='' | auto_id='' | handle=None | rect={'left': 175, 'top': 747, 'right': 414, 'bottom': 767, 'width': 239, 'height': 20}
+366. title='column1 row 8' | type='DataItem' | class='' | auto_id='' | handle=None | rect={'left': 211, 'top': 747, 'right': 415, 'bottom': 767, 'width': 204, 'height': 20}
+367. title='Hide Folders' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 532, 'top': 748, 'right': 622, 'bottom': 770, 'width': 90, 'height': 22}
+368. title='' | type='ToolBar' | class='ToolbarWindow32' | auto_id='' | handle=330930 | rect={'left': 532, 'top': 748, 'right': 638, 'bottom': 769, 'width': 106, 'height': 21}
+369. title='Member 01' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 727, 'top': 766, 'right': 799, 'bottom': 790, 'width': 72, 'height': 24}
+370. title='48.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 798, 'top': 766, 'right': 860, 'bottom': 790, 'width': 62, 'height': 24}
+371. title='1.600' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 861, 'top': 766, 'right': 933, 'bottom': 790, 'width': 72, 'height': 24}
+372. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 933, 'top': 766, 'right': 995, 'bottom': 790, 'width': 62, 'height': 24}
+373. title='-0.781' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 995, 'top': 766, 'right': 1062, 'bottom': 790, 'width': 67, 'height': 24}
+374. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1062, 'top': 766, 'right': 1129, 'bottom': 790, 'width': 67, 'height': 24}
+375. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1128, 'top': 766, 'right': 1195, 'bottom': 790, 'width': 67, 'height': 24}
+376. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1195, 'top': 766, 'right': 1262, 'bottom': 790, 'width': 67, 'height': 24}
+377. title='0.001' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1262, 'top': 766, 'right': 1329, 'bottom': 790, 'width': 67, 'height': 24}
+378. title='Node9' | type='TreeItem' | class='' | auto_id='' | handle=None | rect={'left': 175, 'top': 767, 'right': 414, 'bottom': 787, 'width': 239, 'height': 20}
+379. title='column1 row 9' | type='DataItem' | class='' | auto_id='' | handle=None | rect={'left': 211, 'top': 767, 'right': 415, 'bottom': 787, 'width': 204, 'height': 20}
+380. title='' | type='Thumb' | class='ScrollBar' | auto_id='' | handle=1248348 | rect={'left': 1449, 'top': 769, 'right': 1466, 'bottom': 786, 'width': 17, 'height': 17}
+381. title='Member 01' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 727, 'top': 790, 'right': 799, 'bottom': 814, 'width': 72, 'height': 24}
+382. title='53.333' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 798, 'top': 790, 'right': 860, 'bottom': 814, 'width': 62, 'height': 24}
+383. title='1.667' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 861, 'top': 790, 'right': 933, 'bottom': 814, 'width': 72, 'height': 24}
+384. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 933, 'top': 790, 'right': 995, 'bottom': 814, 'width': 62, 'height': 24}
+385. title='-0.713' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 995, 'top': 790, 'right': 1062, 'bottom': 814, 'width': 67, 'height': 24}
+386. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1062, 'top': 790, 'right': 1129, 'bottom': 814, 'width': 67, 'height': 24}
+387. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1128, 'top': 790, 'right': 1195, 'bottom': 814, 'width': 67, 'height': 24}
+388. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1195, 'top': 790, 'right': 1262, 'bottom': 814, 'width': 67, 'height': 24}
+389. title='0.001' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1262, 'top': 790, 'right': 1329, 'bottom': 814, 'width': 67, 'height': 24}
+390. title='Member 01' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 727, 'top': 814, 'right': 799, 'bottom': 838, 'width': 72, 'height': 24}
+391. title='56.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 798, 'top': 814, 'right': 860, 'bottom': 838, 'width': 62, 'height': 24}
+392. title='1.700' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 861, 'top': 814, 'right': 933, 'bottom': 838, 'width': 72, 'height': 24}
+393. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 933, 'top': 814, 'right': 995, 'bottom': 838, 'width': 62, 'height': 24}
+394. title='-0.667' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 995, 'top': 814, 'right': 1062, 'bottom': 838, 'width': 67, 'height': 24}
+395. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1062, 'top': 814, 'right': 1129, 'bottom': 838, 'width': 67, 'height': 24}
+396. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1128, 'top': 814, 'right': 1195, 'bottom': 838, 'width': 67, 'height': 24}
+397. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1195, 'top': 814, 'right': 1262, 'bottom': 838, 'width': 67, 'height': 24}
+398. title='0.002' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1262, 'top': 814, 'right': 1329, 'bottom': 838, 'width': 67, 'height': 24}
+399. title='Line Down' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 1640, 'top': 829, 'right': 1657, 'bottom': 846, 'width': 17, 'height': 17}
+400. title='Member 01' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 727, 'top': 838, 'right': 799, 'bottom': 862, 'width': 72, 'height': 24}
+401. title='64.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 798, 'top': 838, 'right': 860, 'bottom': 862, 'width': 62, 'height': 24}
+402. title='1.800' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 861, 'top': 838, 'right': 933, 'bottom': 862, 'width': 72, 'height': 24}
+403. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 933, 'top': 838, 'right': 995, 'bottom': 862, 'width': 62, 'height': 24}
+404. title='-0.487' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 995, 'top': 838, 'right': 1062, 'bottom': 862, 'width': 67, 'height': 24}
+405. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1062, 'top': 838, 'right': 1129, 'bottom': 862, 'width': 67, 'height': 24}
+406. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1128, 'top': 838, 'right': 1195, 'bottom': 862, 'width': 67, 'height': 24}
+407. title='0.000' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1195, 'top': 838, 'right': 1262, 'bottom': 862, 'width': 67, 'height': 24}
+408. title='0.002' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1262, 'top': 838, 'right': 1329, 'bottom': 862, 'width': 67, 'height': 24}
+409. title='Column Left' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 415, 'top': 846, 'right': 432, 'bottom': 863, 'width': 17, 'height': 17}
+410. title='Horizontal' | type='ScrollBar' | class='WindowsForms10.Window.8.app.0.14e5db8_r27_ad1' | auto_id='hScrollBar' | handle=1772410 | rect={'left': 415, 'top': 846, 'right': 1640, 'bottom': 863, 'width': 1225, 'height': 17}
+411. title='Column Right' | type='Button' | class='' | auto_id='' | handle=None | rect={'left': 1623, 'top': 846, 'right': 1640, 'bottom': 863, 'width': 17, 'height': 17}
+412. title='' | type='Pane' | class='WindowsForms10.Window.8.app.0.14e5db8_r27_ad1' | auto_id='cornerPanel' | handle=1182710 | rect={'left': 1640, 'top': 846, 'right': 1657, 'bottom': 863, 'width': 17, 'height': 17}
+413. title='Static' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 176, 'top': 863, 'right': 245, 'bottom': 887, 'width': 69, 'height': 24}
+414. title='Static' | type='Text' | class='' | auto_id='' | handle=None | rect={'left': 1455, 'top': 863, 'right': 1492, 'bottom': 887, 'width': 37, 'height': 24}
+415. title='Item' | type='Slider' | class='' | auto_id='' | handle=None | rect={'left': 1492, 'top': 865, 'right': 1640, 'bottom': 885, 'width': 148, 'height': 20}
+
+Could not write control tree: AttributeError("'UIAWrapper' object has no attribute 'print_control_identifiers'")

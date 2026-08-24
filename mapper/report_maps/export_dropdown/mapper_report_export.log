@@ -1,0 +1,35 @@
+==============================================================================================================
+LEAP EXPORT TO DROPDOWN MAPPER
+==============================================================================================================
+
+Preview handle: 4196774
+Preview rect:   {'left': 271, 'top': 210, 'right': 2196, 'bottom': 1425, 'width': 1925, 'height': 1215}
+
+Export To control:
+  title:    'Export To'
+  type:     'SplitButton'
+  class:    ''
+  auto_id:  ''
+  handle:   None
+  rect:     {'left': 2030, 'top': 275, 'right': 2088, 'bottom': 311, 'width': 58, 'height': 36}
+
+Writing BEFORE-click snapshots...
+  C:\Users\Andrew.Hummers\OneDrive\_GitHub Local\LEAPsteelPy\mapper\report_maps\export_dropdown\stage_00_uia_before.txt
+  C:\Users\Andrew.Hummers\OneDrive\_GitHub Local\LEAPsteelPy\mapper\report_maps\export_dropdown\stage_00_win32_before.txt
+
+Clicking Export To dropdown portion at relative coordinates (51, 29)...
+
+Writing AFTER-click snapshots while dropdown is open...
+  C:\Users\Andrew.Hummers\OneDrive\_GitHub Local\LEAPsteelPy\mapper\report_maps\export_dropdown\stage_01_uia_after_export_click.txt
+  C:\Users\Andrew.Hummers\OneDrive\_GitHub Local\LEAPsteelPy\mapper\report_maps\export_dropdown\stage_01_win32_after_export_click.txt
+
+Compact summary:
+  C:\Users\Andrew.Hummers\OneDrive\_GitHub Local\LEAPsteelPy\mapper\report_maps\export_dropdown\export_map_summary.txt
+
+==============================================================================================================
+EXPORT DROPDOWN IS BEING LEFT OPEN FOR VISUAL INSPECTION
+==============================================================================================================
+
+Compare the visible dropdown to export_map_summary.txt, then press Enter here.
+
+Mapper complete.

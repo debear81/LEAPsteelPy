@@ -1,0 +1,21 @@
+====================================================================================================
+Starting Milestone 5a Analysis / Design menu mapper...
+====================================================================================================
+Connected to LEAP window: 'SchoppeeGirders2025.lbsx - LEAP Bridge Steel 2025'
+LEAP process ID: 6612
+Analysis Design command found: title='Analysis Design', type='SplitButton', class='', rect=(L1637, T77, R1714, B175)
+Before-click control tree written to: C:\Users\Andrew.Hummers\OneDrive\_GitHub Local\LEAPsteelPy\mapper\report_maps\analysis_design_menus\stage_00_before_click.txt
+Clicking Analysis Design...
+Detected 1 visible popup container(s).
+Root-menu control tree written to: C:\Users\Andrew.Hummers\OneDrive\_GitHub Local\LEAPsteelPy\mapper\report_maps\analysis_design_menus\stage_01_root_menu.txt
+Visible root menu entries: ['System']
+
+Expanding first-level menu item: 'System'
+Expansion failed: RuntimeError("Could not expand menu item 'System'. Last error: None")
+
+JSON summary written to: C:\Users\Andrew.Hummers\OneDrive\_GitHub Local\LEAPsteelPy\mapper\report_maps\analysis_design_menus\menu_map_summary.json
+Text summary written to: C:\Users\Andrew.Hummers\OneDrive\_GitHub Local\LEAPsteelPy\mapper\report_maps\analysis_design_menus\menu_map_summary.txt
+
+====================================================================================================
+Milestone 5a menu mapping completed.
+====================================================================================================

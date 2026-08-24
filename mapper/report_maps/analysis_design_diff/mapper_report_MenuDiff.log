@@ -1,0 +1,20 @@
+========================================================================================================================
+Starting Milestone 5b Analysis Design UIA difference mapper...
+========================================================================================================================
+Connected to LEAP window: 'SchoppeeGirders2025.lbsx - LEAP Bridge Steel 2025'
+LEAP process ID: 6612
+Analysis Design command: title='Analysis Design', type='SplitButton', rect=(L1637, T77, R1714, B175)
+Before-click snapshot: 103 controls
+Clicking Analysis Design SplitButton...
+After-click snapshot: 106 controls
+Relaxed additions: 3
+Likely menu additions: 3
+  NEW: title='', type='Menu', class='Afx:00007FF6ECF30000:800:0000000000010003:0000000000000010:0000000000000000', rect={'left': 1637, 'top': 175, 'right': 1785, 'bottom': 239, 'width': 148, 'height': 64}
+  NEW: title='', type='ToolBar', class='Afx:ToolBar:ecf30000:8:10003:10', rect={'left': 1639, 'top': 177, 'right': 1783, 'bottom': 237, 'width': 144, 'height': 60}
+  NEW: title='', type='Pane', class='Afx:00007FF6ECF30000:800:0000000000010003:0000000000000010:0000000000000000', rect={'left': 1640, 'top': 178, 'right': 1788, 'bottom': 242, 'width': 148, 'height': 64}
+
+Summary JSON: C:\Users\Andrew.Hummers\OneDrive\_GitHub Local\LEAPsteelPy\mapper\report_maps\analysis_design_diff\mapper_summary.json
+Summary text: C:\Users\Andrew.Hummers\OneDrive\_GitHub Local\LEAPsteelPy\mapper\report_maps\analysis_design_diff\mapper_summary.txt
+========================================================================================================================
+Milestone 5b mapping completed.
+========================================================================================================================
